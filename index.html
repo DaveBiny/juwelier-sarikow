@@ -1,0 +1,356 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Juwelier Sarikow | Schmuck, Uhren & Juwelen</title>
+    <meta
+      name="description"
+      content="Eine elegante Juwelier-Webseite mit Produktpflege, Anfrageformular und hochwertiger Katalog-Struktur."
+    >
+    <link rel="stylesheet" href="styles.css?v=20260529e">
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="utility-bar">
+        <div class="utility-inner">
+          <a href="kontakt.html">Kontakt</a>
+          <a href="service.html">Service</a>
+          <button class="text-button" type="button" data-open-admin>Admin Login</button>
+        </div>
+      </div>
+
+      <nav class="main-nav" aria-label="Hauptnavigation">
+        <a class="brand" href="index.html" aria-label="Startseite">
+          <img class="brand-logo" src="assets/logos/logoheader-db62a08d.jpg" alt="Juwelier Sarikow Wien">
+          <span class="brand-text">
+            <strong>Juwelier Sarikow</strong>
+            <small>Wien</small>
+          </span>
+        </a>
+        <button class="menu-toggle" type="button" aria-label="Navigation öffnen" aria-expanded="false">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+        <div class="nav-links">
+          <a href="schmuck.html">Schmuck</a>
+          <a href="uhren.html">Uhren</a>
+          <a href="anlaesse.html">Anlässe</a>
+          <a href="ueber.html">Über uns</a>
+          <a href="service.html">Service</a>
+        </div>
+        <div class="nav-actions">
+          <button class="icon-button" type="button" aria-label="Suche öffnen" data-scroll-search>
+            <span aria-hidden="true">⌕</span>
+          </button>
+          <a class="wishlist-pill" href="wunschliste.html" aria-label="Wunschliste">
+            <span data-wishlist-count>0</span>
+            <span>Wunschliste</span>
+          </a>
+        </div>
+      </nav>
+    </header>
+
+    <main id="start">
+      <section class="hero" aria-label="Willkommen">
+        <div class="hero-slide active">
+          <img
+            src="assets/business/mischa2-fbb8628e.jpg"
+            alt="Eleganter Diamantring auf dunklem Samt"
+          >
+          <div class="hero-copy">
+            <p>Willkommen im Juwelier Sarikow</p>
+            <h1>Schmuck, Uhren & Juwelen mit Charakter</h1>
+            <a class="button light" href="#katalog">Kollektion entdecken</a>
+          </div>
+        </div>
+        <div class="hero-slide">
+          <img
+            src="assets/business/slide1-e4f2de32.jpg"
+            alt="Luxusuhr im Detail"
+          >
+          <div class="hero-copy">
+            <p>Manufaktur & Präzision</p>
+            <h2>Uhren für bleibende Momente</h2>
+            <a class="button light" href="uhren.html">Uhren ansehen</a>
+          </div>
+        </div>
+        <div class="hero-dots" aria-label="Hero Auswahl">
+          <button class="active" type="button" data-slide="0" aria-label="Slide 1"></button>
+          <button type="button" data-slide="1" aria-label="Slide 2"></button>
+        </div>
+      </section>
+
+      <section id="katalog" class="section product-section">
+        <div class="section-heading">
+          <p>Lieblingsstücke</p>
+          <h2>Ausgewählt vom Sarikow-Team</h2>
+        </div>
+        <div class="catalog-layout">
+          <aside class="catalog-sidebar" data-catalog-filters aria-label="Katalogfilter"></aside>
+          <div class="catalog-results">
+            <form class="search-strip" role="search">
+              <input id="productSearch" type="search" placeholder="Produkt, Kategorie oder Marke suchen">
+              <select id="categoryFilter" aria-label="Kategorie filtern">
+                <option value="all">Alle Kategorien</option>
+                <option value="Schmuck">Schmuck</option>
+                <option value="Uhren">Uhren</option>
+                <option value="Anlässe">Anlässe</option>
+              </select>
+            </form>
+            <div class="product-grid" data-product-grid data-category="all" data-limit="8"></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="split-feature" id="schmuck">
+        <a class="feature-panel" href="schmuck.html">
+          <img
+            src="assets/optimized/full/1-1-4258ab30.jpg"
+            alt="Feine Halskette und Ringe"
+          >
+          <span>Schmuck</span>
+          <p>Persönlich, fein und mit Liebe zum Detail.</p>
+          <strong>Schmuck wählen</strong>
+        </a>
+        <a class="feature-panel" href="uhren.html" id="uhren">
+          <img
+            src="assets/business/slide1-e4f2de32.jpg"
+            alt="Klassische Armbanduhr"
+          >
+          <span>Uhren</span>
+          <p>Präzise Begleiter mit zeitloser Präsenz.</p>
+          <strong>Uhr aussuchen</strong>
+        </a>
+        <a class="feature-panel" href="anlaesse.html" id="anlaesse">
+          <img
+            src="assets/optimized/full/01rueschpartnerringe02-fda5387e.jpg"
+            alt="Verlobungsring in Schmuckbox"
+          >
+          <span>Anlässe</span>
+          <p>Geschenke für Hochzeit, Jubiläum und große Gefühle.</p>
+          <strong>Inspiration finden</strong>
+        </a>
+      </section>
+
+      <section class="story-band" id="atelier">
+        <div class="story-image">
+          <img
+            src="assets/business/mischauberuns1-484967b4.jpg"
+            alt="Schmuckauslage bei Juwelier Sarikow"
+          >
+        </div>
+        <div class="story-copy">
+          <p>Brillante Schönheiten</p>
+          <h2>Wir lassen Erinnerungen glänzen</h2>
+          <blockquote>
+            Wir kuratieren jedes Stück mit Blick auf Qualität, Material, Proportion und die
+            Persönlichkeit der Menschen, die es tragen.
+          </blockquote>
+          <span>Reinprechtsdorfer Straße 46, Wien</span>
+          <div class="button-row">
+            <a class="button dark" href="schmuck.html">Juwelen ansehen</a>
+            <a class="button ghost" href="kontakt.html">Filialen</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="promise-section" id="service">
+        <div class="section-heading">
+          <p>Unser Versprechen</p>
+          <h2>Service, der Vertrauen schafft</h2>
+        </div>
+        <div class="promise-grid">
+          <article>
+            <span>01</span>
+            <h3>Persönlich für Sie da</h3>
+            <p>Beratung mit Ruhe, Erfahrung und einem klaren Gefühl für Ihren Stil.</p>
+          </article>
+          <article>
+            <span>02</span>
+            <h3>Garantierte Echtheit</h3>
+            <p>Ausgewählte Stücke aus direkter Herstellung und geprüften Partnerschaften.</p>
+          </article>
+          <article>
+            <span>03</span>
+            <h3>Sichere Lieferung</h3>
+            <p>Versicherter Versand, sorgfältige Verpackung und transparente Kommunikation.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="brands-section">
+        <div>
+          <p>Große Namen</p>
+          <h2>Marken mit bleibenden Werten</h2>
+          <p>
+            Eine exklusive Auswahl aus Schmuck, Uhren und Juwelierstücken, kuratiert für
+            Menschen, die Beständigkeit und Design schätzen.
+          </p>
+          <div class="button-row">
+            <a class="button dark" href="schmuck.html">Schmuck</a>
+            <a class="button ghost" href="uhren.html">Uhren</a>
+          </div>
+        </div>
+        <div class="brand-wall" aria-label="Markenübersicht">
+          <span>Aurielle</span>
+          <span>Maison Lune</span>
+          <span>Chrona</span>
+          <span>Valère</span>
+          <span>Sarikow Diamonds</span>
+          <span>Linea Oro</span>
+          <span>Nordstern</span>
+          <span>Artemis</span>
+        </div>
+      </section>
+
+      <section class="trends-section">
+        <div class="section-heading">
+          <p>Aktuelle Trends</p>
+          <h2>Aus der Schmuck- und Uhrenwelt</h2>
+        </div>
+        <div class="trend-grid">
+          <article>
+            <img
+              src="assets/optimized/thumbs/23-30330-46a8d213.jpg"
+              alt="Goldschmuck im Detail"
+            >
+            <h3>1. Warmes Gold</h3>
+            <p>Sanfte Goldtöne bleiben elegant und wirken in reduzierten Formen besonders modern.</p>
+          </article>
+          <article>
+            <img
+              src="assets/optimized/thumbs/fc-200s1s36b3-88970a24.jpg"
+              alt="Mechanisches Uhrwerk"
+            >
+            <h3>2. Präzise Mechanik</h3>
+            <p>Feine Uhrwerke zeigen Charakter durch Oberflächen, Gewicht und rhythmische Details.</p>
+          </article>
+          <article>
+            <img
+              src="assets/optimized/thumbs/021433-1500-ad7d82e3.jpg"
+              alt="Perlenschmuck und feine Kette"
+            >
+            <h3>3. Vielseitig</h3>
+            <p>Kombinierbare Stücke wechseln mühelos zwischen Alltag, Abend und Anlass.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="newsletter-section">
+        <img
+          src="assets/logos/ring-849d1282.jpg"
+          alt="Diamantnahaufnahme"
+        >
+        <form class="newsletter-form">
+          <p>Newsletter</p>
+          <h2>Inspiration direkt in Ihr Postfach</h2>
+          <div class="field-row">
+            <input type="text" placeholder="Vorname" aria-label="Vorname">
+            <input type="text" placeholder="Nachname" aria-label="Nachname">
+          </div>
+          <input type="email" placeholder="E-Mail" aria-label="E-Mail">
+          <button class="button light" type="submit">Jetzt anmelden</button>
+        </form>
+      </section>
+    </main>
+
+    <footer class="site-footer" id="kontakt">
+      <div>
+        <h2>So erreichen Sie uns</h2>
+        <p>Reinprechtsdorfer Straße 46<br>1050 Wien<br>01 5454176</p>
+        <p>Täglich außer Samstag | 09:00-18:30 Uhr<br>Samstag | 09:00-13:00 Uhr</p>
+      </div>
+      <div>
+        <h3>Öffnungszeiten</h3>
+        <p>Täglich außer Samstag | 09:00-18:30 Uhr<br>Samstag | 09:00-13:00 Uhr</p>
+        <p>Telefonische Anfrage<br>01 5454176</p>
+      </div>
+      <nav aria-label="Footer Navigation">
+        <a href="ueber.html">Über uns</a>
+        <a href="service.html">Service</a>
+        <a href="schmuck.html">Katalog</a>
+        <button class="text-button light-text" type="button" data-open-admin>Admin</button>
+      </nav>
+    </footer>
+
+    <dialog class="admin-dialog" id="adminDialog">
+      <div class="admin-shell">
+        <button class="close-button" type="button" aria-label="Admin schließen" data-close-admin>×</button>
+        <section class="login-view" data-login-view>
+          <p>Adminbereich</p>
+          <h2>Einloggen</h2>
+          <form id="loginForm" class="admin-form">
+            <label>
+              Benutzername
+              <input name="username" autocomplete="username" required>
+            </label>
+            <label>
+              Passwort
+              <input name="password" type="password" autocomplete="current-password" required>
+            </label>
+            <button class="button dark" type="submit">Einloggen</button>
+            <small>Demo-Zugang: admin / atelier2026</small>
+            <output id="loginMessage" role="status"></output>
+          </form>
+        </section>
+
+        <section class="admin-view" data-admin-view hidden>
+          <div class="admin-head">
+            <div>
+              <p>Produktpflege</p>
+              <h2>Neue Produkte einfügen</h2>
+            </div>
+            <button class="button ghost" type="button" data-logout>Abmelden</button>
+          </div>
+          <form id="productForm" class="admin-form product-form">
+            <input type="hidden" name="id">
+            <label>
+              Produktname
+              <input name="name" required placeholder="z.B. Diamantring Aurora">
+            </label>
+            <div class="field-row">
+              <label>
+                Marke
+                <input name="brand" required placeholder="z.B. Sarikow Diamonds">
+              </label>
+              <label>
+                Kategorie
+                <select name="category" required>
+                  <option>Schmuck</option>
+                  <option>Uhren</option>
+                  <option>Anlässe</option>
+                </select>
+              </label>
+            </div>
+            <div class="field-row">
+              <label>
+                Preis in Euro
+                <input name="price" type="number" min="0" step="10" required placeholder="4290">
+              </label>
+              <label>
+                Bild hochladen
+                <input name="image" type="file" accept="image/*">
+              </label>
+            </div>
+            <label>
+              Kurzbeschreibung
+              <textarea name="description" rows="3" placeholder="Material, Stein, Besonderheit"></textarea>
+            </label>
+            <label>
+              Produktdetails
+              <textarea name="specs" rows="4" placeholder="Material: 750 Gelbgold&#10;Stein: Brillant&#10;Verfügbarkeit: auf Anfrage"></textarea>
+            </label>
+            <button class="button dark" type="submit">Produkt speichern</button>
+            <output id="productMessage" role="status"></output>
+          </form>
+          <div class="admin-products" id="adminProducts"></div>
+        </section>
+      </div>
+    </dialog>
+
+    <script src="assets/generated/products-data.js?v=20260529e"></script>
+    <script src="script.js?v=20260529e"></script>
+  </body>
+</html>
