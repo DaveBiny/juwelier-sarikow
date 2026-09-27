@@ -98,6 +98,7 @@ const catalogState = {
   openCategory: "auto"
 };
 const watchBrandOrder = ["Frederique Constant", "Citizen", "Zeppelin", "Boss", "G-Shock", "Edifice", "Tommy Hilfiger", "Jack Lemens", "Casio"];
+const removedWatchBrands = ["diesel", "armani", "emporio armani", "lee cooper", "michael kors", "michel herbelin"];
 
 function normalizeFilter(value) {
   return String(value || "").trim().toLowerCase();
@@ -136,17 +137,24 @@ function loadProducts() {
   const imported = Array.isArray(window.sarikowImportedProducts) ? window.sarikowImportedProducts : [];
   document.documentElement.dataset.importedProducts = String(imported.length);
   const saved = readJson(storageKey, null);
+  const cleanProduct = (product) => ({ specs: "", ...product });
+  const isRemovedWatchBrand = (product) => {
+    const brand = normalizeFilter(product?.brand);
+    return product?.category === "Uhren" && removedWatchBrands.some((removedBrand) => brand.includes(removedBrand));
+  };
   if (imported.length) {
     const importedIds = new Set(imported.map((product) => product.id));
     const customProducts = Array.isArray(saved)
-      ? saved.filter((product) => !importedIds.has(product.id) && !defaultProducts.some((item) => item.id === product.id))
+      ? saved.filter((product) => !isRemovedWatchBrand(product) && !importedIds.has(product.id) && !defaultProducts.some((item) => item.id === product.id))
       : [];
-    const merged = [...imported, ...customProducts].map((product) => ({ specs: "", ...product }));
+    const merged = [...imported, ...customProducts].filter((product) => !isRemovedWatchBrand(product)).map(cleanProduct);
     writeJson(storageKey, merged);
     return merged;
   }
   if (Array.isArray(saved) && saved.length) {
-    return saved.map((product) => ({ specs: "", ...product }));
+    const cleanedSaved = saved.filter((product) => !isRemovedWatchBrand(product)).map(cleanProduct);
+    writeJson(storageKey, cleanedSaved);
+    return cleanedSaved;
   }
   writeJson(storageKey, defaultProducts);
   return defaultProducts;
