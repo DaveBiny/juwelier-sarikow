@@ -3415,8 +3415,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/a158wea-1ef-404019f2.jpg",
-    "thumb": "assets/optimized/thumbs/a158wea-1ef-404019f2.jpg",
+    "image": "assets/optimized/full/a158wea-1ef-404019f2-transparent.png",
+    "thumb": "assets/optimized/thumbs/a158wea-1ef-404019f2-transparent.png",
     "source": "kleine Bilder/Casio/A158WEA-1EF.jpg"
   },
   {
@@ -3427,8 +3427,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/a159wgea-1ef-80eb2bba.jpg",
-    "thumb": "assets/optimized/thumbs/a159wgea-1ef-80eb2bba.jpg",
+    "image": "assets/optimized/full/a159wgea-1ef-80eb2bba-transparent.png",
+    "thumb": "assets/optimized/thumbs/a159wgea-1ef-80eb2bba-transparent.png",
     "source": "kleine Bilder/Casio/A159WGEA-1EF.jpg"
   },
   {
@@ -3439,8 +3439,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/a168wa-1yes-4dc98017.jpg",
-    "thumb": "assets/optimized/thumbs/a168wa-1yes-4dc98017.jpg",
+    "image": "assets/optimized/full/a168wa-1yes-4dc98017-transparent.png",
+    "thumb": "assets/optimized/thumbs/a168wa-1yes-4dc98017-transparent.png",
     "source": "kleine Bilder/Casio/a168wa-1yes.jpg"
   },
   {
@@ -3451,8 +3451,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/a168wegb-1bef-49eff79a.jpg",
-    "thumb": "assets/optimized/thumbs/a168wegb-1bef-49eff79a.jpg",
+    "image": "assets/optimized/full/a168wegb-1bef-49eff79a-transparent.png",
+    "thumb": "assets/optimized/thumbs/a168wegb-1bef-49eff79a-transparent.png",
     "source": "kleine Bilder/Casio/a168wegb-1bef.jpg"
   },
   {
@@ -3463,8 +3463,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/a168wg-9ef-6a907c5d.jpg",
-    "thumb": "assets/optimized/thumbs/a168wg-9ef-6a907c5d.jpg",
+    "image": "assets/optimized/full/a168wg-9ef-6a907c5d-transparent.png",
+    "thumb": "assets/optimized/thumbs/a168wg-9ef-6a907c5d-transparent.png",
     "source": "kleine Bilder/Casio/a168wg-9ef.jpg"
   },
   {
@@ -3475,8 +3475,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/a700we-1aef-620402d6.jpg",
-    "thumb": "assets/optimized/thumbs/a700we-1aef-620402d6.jpg",
+    "image": "assets/optimized/full/a700we-1aef-620402d6-transparent.png",
+    "thumb": "assets/optimized/thumbs/a700we-1aef-620402d6-transparent.png",
     "source": "kleine Bilder/Casio/a700we-1aef.jpg"
   },
   {
@@ -3487,8 +3487,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/ae-1000w-2avef-6c411521.jpg",
-    "thumb": "assets/optimized/thumbs/ae-1000w-2avef-6c411521.jpg",
+    "image": "assets/optimized/full/ae-1000w-2avef-6c411521-transparent.png",
+    "thumb": "assets/optimized/thumbs/ae-1000w-2avef-6c411521-transparent.png",
     "source": "kleine Bilder/Casio/ae-1000w-2avef.jpg"
   },
   {
@@ -3499,8 +3499,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/ae-1200wh-1avef-91c6a097.jpg",
-    "thumb": "assets/optimized/thumbs/ae-1200wh-1avef-91c6a097.jpg",
+    "image": "assets/optimized/full/ae-1200wh-1avef-91c6a097-transparent.png",
+    "thumb": "assets/optimized/thumbs/ae-1200wh-1avef-91c6a097-transparent.png",
     "source": "kleine Bilder/Casio/ae-1200wh-1avef.jpg"
   },
   {
@@ -3511,8 +3511,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/ae-1200whd-1avef-99a058e8.jpg",
-    "thumb": "assets/optimized/thumbs/ae-1200whd-1avef-99a058e8.jpg",
+    "image": "assets/optimized/full/ae-1200whd-1avef-99a058e8-transparent.png",
+    "thumb": "assets/optimized/thumbs/ae-1200whd-1avef-99a058e8-transparent.png",
     "source": "kleine Bilder/Casio/ae-1200whd-1avef.jpg"
   },
   {
@@ -3523,8 +3523,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/ae-2000w-1avef-0b6a5cb0.jpg",
-    "thumb": "assets/optimized/thumbs/ae-2000w-1avef-0b6a5cb0.jpg",
+    "image": "assets/optimized/full/ae-2000w-1avef-0b6a5cb0-transparent.png",
+    "thumb": "assets/optimized/thumbs/ae-2000w-1avef-0b6a5cb0-transparent.png",
     "source": "kleine Bilder/Casio/ae-2000w-1avef.jpg"
   },
   {
@@ -3535,8 +3535,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/ae-2100w-1avef-da1c44a9.jpg",
-    "thumb": "assets/optimized/thumbs/ae-2100w-1avef-da1c44a9.jpg",
+    "image": "assets/optimized/full/ae-2100w-1avef-da1c44a9-transparent.png",
+    "thumb": "assets/optimized/thumbs/ae-2100w-1avef-da1c44a9-transparent.png",
     "source": "kleine Bilder/Casio/ae-2100w-1avef.jpg"
   },
   {
@@ -3547,8 +3547,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/aq-180w-1bves-14813e6a.jpg",
-    "thumb": "assets/optimized/thumbs/aq-180w-1bves-14813e6a.jpg",
+    "image": "assets/optimized/full/aq-180w-1bves-14813e6a-transparent.png",
+    "thumb": "assets/optimized/thumbs/aq-180w-1bves-14813e6a-transparent.png",
     "source": "kleine Bilder/Casio/aq-180w-1bves.jpg"
   },
   {
@@ -3559,8 +3559,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/aq-180wd-1bves-c84a4fcc.jpg",
-    "thumb": "assets/optimized/thumbs/aq-180wd-1bves-c84a4fcc.jpg",
+    "image": "assets/optimized/full/aq-180wd-1bves-c84a4fcc-transparent.png",
+    "thumb": "assets/optimized/thumbs/aq-180wd-1bves-c84a4fcc-transparent.png",
     "source": "kleine Bilder/Casio/aq-180wd-1bves.jpg"
   },
   {
@@ -3571,8 +3571,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/aw-48h-7bvef-85fa3c33.jpg",
-    "thumb": "assets/optimized/thumbs/aw-48h-7bvef-85fa3c33.jpg",
+    "image": "assets/optimized/full/aw-48h-7bvef-85fa3c33-transparent.png",
+    "thumb": "assets/optimized/thumbs/aw-48h-7bvef-85fa3c33-transparent.png",
     "source": "kleine Bilder/Casio/aw-48h-7bvef.jpg"
   },
   {
@@ -3583,8 +3583,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/aw-49h-7bvef-d03ed943.jpg",
-    "thumb": "assets/optimized/thumbs/aw-49h-7bvef-d03ed943.jpg",
+    "image": "assets/optimized/full/aw-49h-7bvef-d03ed943-transparent.png",
+    "thumb": "assets/optimized/thumbs/aw-49h-7bvef-d03ed943-transparent.png",
     "source": "kleine Bilder/Casio/aw-49h-7bvef.jpg"
   },
   {
@@ -3595,8 +3595,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/aw-49he-2avef-ea78c650.jpg",
-    "thumb": "assets/optimized/thumbs/aw-49he-2avef-ea78c650.jpg",
+    "image": "assets/optimized/full/aw-49he-2avef-ea78c650-transparent.png",
+    "thumb": "assets/optimized/thumbs/aw-49he-2avef-ea78c650-transparent.png",
     "source": "kleine Bilder/Casio/aw-49he-2avef.jpg"
   },
   {
@@ -3607,8 +3607,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/aw-80d-1aves-76db5038.jpg",
-    "thumb": "assets/optimized/thumbs/aw-80d-1aves-76db5038.jpg",
+    "image": "assets/optimized/full/aw-80d-1aves-76db5038-transparent.png",
+    "thumb": "assets/optimized/thumbs/aw-80d-1aves-76db5038-transparent.png",
     "source": "kleine Bilder/Casio/aw-80d-1aves.jpg"
   },
   {
@@ -3619,8 +3619,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/b640wb-1aef-d05324cb.jpg",
-    "thumb": "assets/optimized/thumbs/b640wb-1aef-d05324cb.jpg",
+    "image": "assets/optimized/full/b640wb-1aef-d05324cb-transparent.png",
+    "thumb": "assets/optimized/thumbs/b640wb-1aef-d05324cb-transparent.png",
     "source": "kleine Bilder/Casio/b640wb-1aef.jpg"
   },
   {
@@ -3631,8 +3631,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/b640wb-1bef-25c9b9bc.jpg",
-    "thumb": "assets/optimized/thumbs/b640wb-1bef-25c9b9bc.jpg",
+    "image": "assets/optimized/full/b640wb-1bef-25c9b9bc-transparent.png",
+    "thumb": "assets/optimized/thumbs/b640wb-1bef-25c9b9bc-transparent.png",
     "source": "kleine Bilder/Casio/b640wb-1bef.jpg"
   },
   {
@@ -3643,8 +3643,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/b640wc-5aef-bb137966.jpg",
-    "thumb": "assets/optimized/thumbs/b640wc-5aef-bb137966.jpg",
+    "image": "assets/optimized/full/b640wc-5aef-bb137966-transparent.png",
+    "thumb": "assets/optimized/thumbs/b640wc-5aef-bb137966-transparent.png",
     "source": "kleine Bilder/Casio/b640wc-5aef.jpg"
   },
   {
@@ -3655,8 +3655,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/dbc-32-1aes-42a07e3a.jpg",
-    "thumb": "assets/optimized/thumbs/dbc-32-1aes-42a07e3a.jpg",
+    "image": "assets/optimized/full/dbc-32-1aes-42a07e3a-transparent.png",
+    "thumb": "assets/optimized/thumbs/dbc-32-1aes-42a07e3a-transparent.png",
     "source": "kleine Bilder/Casio/dbc-32-1aes.jpg"
   },
   {
@@ -3667,8 +3667,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/hdd-600-1aves-a47e5d74.jpg",
-    "thumb": "assets/optimized/thumbs/hdd-600-1aves-a47e5d74.jpg",
+    "image": "assets/optimized/full/hdd-600-1aves-a47e5d74-transparent.png",
+    "thumb": "assets/optimized/thumbs/hdd-600-1aves-a47e5d74-transparent.png",
     "source": "kleine Bilder/Casio/hdd-600-1aves.jpg"
   },
   {
@@ -3679,8 +3679,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/la-20wh-1cef-b6e078bb.jpg",
-    "thumb": "assets/optimized/thumbs/la-20wh-1cef-b6e078bb.jpg",
+    "image": "assets/optimized/full/la-20wh-1cef-b6e078bb-transparent.png",
+    "thumb": "assets/optimized/thumbs/la-20wh-1cef-b6e078bb-transparent.png",
     "source": "kleine Bilder/Casio/la-20wh-1cef.jpg"
   },
   {
@@ -3691,8 +3691,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/la680wega-9er-9856aa31.jpg",
-    "thumb": "assets/optimized/thumbs/la680wega-9er-9856aa31.jpg",
+    "image": "assets/optimized/full/la680wega-9er-9856aa31-transparent.png",
+    "thumb": "assets/optimized/thumbs/la680wega-9er-9856aa31-transparent.png",
     "source": "kleine Bilder/Casio/la680wega-9er.jpg"
   },
   {
@@ -3703,8 +3703,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/ltp-1283d-2a2ef-226863c8.jpg",
-    "thumb": "assets/optimized/thumbs/ltp-1283d-2a2ef-226863c8.jpg",
+    "image": "assets/optimized/full/ltp-1283d-2a2ef-226863c8-transparent.png",
+    "thumb": "assets/optimized/thumbs/ltp-1283d-2a2ef-226863c8-transparent.png",
     "source": "kleine Bilder/Casio/ltp-1283d-2a2ef.jpg"
   },
   {
@@ -3715,8 +3715,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/ltp-1302d-7a1vef-0541297d.jpg",
-    "thumb": "assets/optimized/thumbs/ltp-1302d-7a1vef-0541297d.jpg",
+    "image": "assets/optimized/full/ltp-1302d-7a1vef-0541297d-transparent.png",
+    "thumb": "assets/optimized/thumbs/ltp-1302d-7a1vef-0541297d-transparent.png",
     "source": "kleine Bilder/Casio/ltp-1302d-7a1vef.jpg"
   },
   {
@@ -3727,8 +3727,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/ltp-1302l-7bvef-03220f4a.jpg",
-    "thumb": "assets/optimized/thumbs/ltp-1302l-7bvef-03220f4a.jpg",
+    "image": "assets/optimized/full/ltp-1302l-7bvef-03220f4a-transparent.png",
+    "thumb": "assets/optimized/thumbs/ltp-1302l-7bvef-03220f4a-transparent.png",
     "source": "kleine Bilder/Casio/ltp-1302l-7bvef.jpg"
   },
   {
@@ -3739,8 +3739,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/lw-200-4avef-d461874b.jpg",
-    "thumb": "assets/optimized/thumbs/lw-200-4avef-d461874b.jpg",
+    "image": "assets/optimized/full/lw-200-4avef-d461874b-transparent.png",
+    "thumb": "assets/optimized/thumbs/lw-200-4avef-d461874b-transparent.png",
     "source": "kleine Bilder/Casio/lw-200-4avef.jpg"
   },
   {
@@ -3751,8 +3751,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/lw-203-4avef-00b8ace7.jpg",
-    "thumb": "assets/optimized/thumbs/lw-203-4avef-00b8ace7.jpg",
+    "image": "assets/optimized/full/lw-203-4avef-00b8ace7-transparent.png",
+    "thumb": "assets/optimized/thumbs/lw-203-4avef-00b8ace7-transparent.png",
     "source": "kleine Bilder/Casio/lw-203-4avef.jpg"
   },
   {
@@ -3763,8 +3763,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/mrw-200h-1bvef-d4fef59a.jpg",
-    "thumb": "assets/optimized/thumbs/mrw-200h-1bvef-d4fef59a.jpg",
+    "image": "assets/optimized/full/mrw-200h-1bvef-d4fef59a-transparent.png",
+    "thumb": "assets/optimized/thumbs/mrw-200h-1bvef-d4fef59a-transparent.png",
     "source": "kleine Bilder/Casio/mrw-200h-1bvef.jpg"
   },
   {
@@ -3775,8 +3775,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/mtp-1302pd-1a1vef-1d605789.jpg",
-    "thumb": "assets/optimized/thumbs/mtp-1302pd-1a1vef-1d605789.jpg",
+    "image": "assets/optimized/full/mtp-1302pd-1a1vef-1d605789-transparent.png",
+    "thumb": "assets/optimized/thumbs/mtp-1302pd-1a1vef-1d605789-transparent.png",
     "source": "kleine Bilder/Casio/mtp-1302pd-1a1vef.jpg"
   },
   {
@@ -3787,8 +3787,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/mtp-1302pl-1avef-a23e4b45.jpg",
-    "thumb": "assets/optimized/thumbs/mtp-1302pl-1avef-a23e4b45.jpg",
+    "image": "assets/optimized/full/mtp-1302pl-1avef-a23e4b45-transparent.png",
+    "thumb": "assets/optimized/thumbs/mtp-1302pl-1avef-a23e4b45-transparent.png",
     "source": "kleine Bilder/Casio/mtp-1302pl-1avef.jpg"
   },
   {
@@ -3799,8 +3799,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/mtp-1302pl-7bvef-84d0d855.jpg",
-    "thumb": "assets/optimized/thumbs/mtp-1302pl-7bvef-84d0d855.jpg",
+    "image": "assets/optimized/full/mtp-1302pl-7bvef-84d0d855-transparent.png",
+    "thumb": "assets/optimized/thumbs/mtp-1302pl-7bvef-84d0d855-transparent.png",
     "source": "kleine Bilder/Casio/mtp-1302pl-7bvef.jpg"
   },
   {
@@ -3811,8 +3811,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/mtp-1302psg-7avef-8ad5ca19.jpg",
-    "thumb": "assets/optimized/thumbs/mtp-1302psg-7avef-8ad5ca19.jpg",
+    "image": "assets/optimized/full/mtp-1302psg-7avef-8ad5ca19-transparent.png",
+    "thumb": "assets/optimized/thumbs/mtp-1302psg-7avef-8ad5ca19-transparent.png",
     "source": "kleine Bilder/Casio/mtp-1302psg-7avef.jpg"
   },
   {
@@ -3823,8 +3823,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/mtp-1308d-1bvef-55ee7665.jpg",
-    "thumb": "assets/optimized/thumbs/mtp-1308d-1bvef-55ee7665.jpg",
+    "image": "assets/optimized/full/mtp-1308d-1bvef-55ee7665-transparent.png",
+    "thumb": "assets/optimized/thumbs/mtp-1308d-1bvef-55ee7665-transparent.png",
     "source": "kleine Bilder/Casio/mtp-1308d-1bvef.jpg"
   },
   {
@@ -3835,8 +3835,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/sgw-100-1vef-ea863edd.jpg",
-    "thumb": "assets/optimized/thumbs/sgw-100-1vef-ea863edd.jpg",
+    "image": "assets/optimized/full/sgw-100-1vef-ea863edd-transparent.png",
+    "thumb": "assets/optimized/thumbs/sgw-100-1vef-ea863edd-transparent.png",
     "source": "kleine Bilder/Casio/sgw-100-1vef.jpg"
   },
   {
@@ -3847,8 +3847,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/sgw-1000-1aer-6d36e543.jpg",
-    "thumb": "assets/optimized/thumbs/sgw-1000-1aer-6d36e543.jpg",
+    "image": "assets/optimized/full/sgw-1000-1aer-6d36e543-transparent.png",
+    "thumb": "assets/optimized/thumbs/sgw-1000-1aer-6d36e543-transparent.png",
     "source": "kleine Bilder/Casio/sgw-1000-1aer.jpg"
   },
   {
@@ -3859,8 +3859,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/sgw-400hd-1bver-2b1cc7d0.jpg",
-    "thumb": "assets/optimized/thumbs/sgw-400hd-1bver-2b1cc7d0.jpg",
+    "image": "assets/optimized/full/sgw-400hd-1bver-2b1cc7d0-transparent.png",
+    "thumb": "assets/optimized/thumbs/sgw-400hd-1bver-2b1cc7d0-transparent.png",
     "source": "kleine Bilder/Casio/sgw-400hd-1bver.jpg"
   },
   {
@@ -3871,8 +3871,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/wv-58e-1avef-44cf62c0.jpg",
-    "thumb": "assets/optimized/thumbs/wv-58e-1avef-44cf62c0.jpg",
+    "image": "assets/optimized/full/wv-58e-1avef-44cf62c0-transparent.png",
+    "thumb": "assets/optimized/thumbs/wv-58e-1avef-44cf62c0-transparent.png",
     "source": "kleine Bilder/Casio/wv-58e-1avef.jpg"
   },
   {
@@ -3883,8 +3883,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/wv-59e-1avef-ea101e01.jpg",
-    "thumb": "assets/optimized/thumbs/wv-59e-1avef-ea101e01.jpg",
+    "image": "assets/optimized/full/wv-59e-1avef-ea101e01-transparent.png",
+    "thumb": "assets/optimized/thumbs/wv-59e-1avef-ea101e01-transparent.png",
     "source": "kleine Bilder/Casio/wv-59e-1avef.jpg"
   },
   {
@@ -3895,8 +3895,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/wva-m650td-1aer-ca75efd3.jpg",
-    "thumb": "assets/optimized/thumbs/wva-m650td-1aer-ca75efd3.jpg",
+    "image": "assets/optimized/full/wva-m650td-1aer-ca75efd3-transparent.png",
+    "thumb": "assets/optimized/thumbs/wva-m650td-1aer-ca75efd3-transparent.png",
     "source": "kleine Bilder/Casio/wva-m650td-1aer.jpg"
   },
   {
@@ -3907,8 +3907,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Edifice Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Edifice\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/ecw-m300edb-1aer-de4c4168.jpg",
-    "thumb": "assets/optimized/thumbs/ecw-m300edb-1aer-de4c4168.jpg",
+    "image": "assets/optimized/full/ecw-m300edb-1aer-de4c4168-transparent.png",
+    "thumb": "assets/optimized/thumbs/ecw-m300edb-1aer-de4c4168-transparent.png",
     "source": "kleine Bilder/Edifice/ECW-M300EDB-1AER.jpg"
   },
   {
@@ -3919,8 +3919,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Edifice Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Edifice\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/ef-129d-2avef-9c121400.jpg",
-    "thumb": "assets/optimized/thumbs/ef-129d-2avef-9c121400.jpg",
+    "image": "assets/optimized/full/ef-129d-2avef-9c121400-transparent.png",
+    "thumb": "assets/optimized/thumbs/ef-129d-2avef-9c121400-transparent.png",
     "source": "kleine Bilder/Edifice/EF-129D-2AVEF.jpg"
   },
   {
@@ -3931,8 +3931,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Edifice Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Edifice\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/efr-564d-1avuef-ff495904.jpg",
-    "thumb": "assets/optimized/thumbs/efr-564d-1avuef-ff495904.jpg",
+    "image": "assets/optimized/full/efr-564d-1avuef-ff495904-transparent.png",
+    "thumb": "assets/optimized/thumbs/efr-564d-1avuef-ff495904-transparent.png",
     "source": "kleine Bilder/Edifice/EFR-564D-1AVUEF.jpg"
   },
   {
@@ -3943,8 +3943,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Edifice Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Edifice\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/efr-564d-2avuef-d6886f5b.jpg",
-    "thumb": "assets/optimized/thumbs/efr-564d-2avuef-d6886f5b.jpg",
+    "image": "assets/optimized/full/efr-564d-2avuef-d6886f5b-transparent.png",
+    "thumb": "assets/optimized/thumbs/efr-564d-2avuef-d6886f5b-transparent.png",
     "source": "kleine Bilder/Edifice/EFR-564D-2AVUEF.jpg"
   },
   {
@@ -3955,8 +3955,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Edifice Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Edifice\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/efr-570db-1avuef-677ae8e2.jpg",
-    "thumb": "assets/optimized/thumbs/efr-570db-1avuef-677ae8e2.jpg",
+    "image": "assets/optimized/full/efr-570db-1avuef-677ae8e2-transparent.png",
+    "thumb": "assets/optimized/thumbs/efr-570db-1avuef-677ae8e2-transparent.png",
     "source": "kleine Bilder/Edifice/EFR-570DB-1AVUEF.jpg"
   },
   {
@@ -3967,8 +3967,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Edifice Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Edifice\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/efr-570db-1bvuef-fbfc2b84.jpg",
-    "thumb": "assets/optimized/thumbs/efr-570db-1bvuef-fbfc2b84.jpg",
+    "image": "assets/optimized/full/efr-570db-1bvuef-fbfc2b84-transparent.png",
+    "thumb": "assets/optimized/thumbs/efr-570db-1bvuef-fbfc2b84-transparent.png",
     "source": "kleine Bilder/Edifice/EFR-570DB-1BVUEF.jpg"
   },
   {
@@ -3979,8 +3979,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Edifice Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Edifice\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/efr-s107d-1avuef-60f4c041.jpg",
-    "thumb": "assets/optimized/thumbs/efr-s107d-1avuef-60f4c041.jpg",
+    "image": "assets/optimized/full/efr-s107d-1avuef-60f4c041-transparent.png",
+    "thumb": "assets/optimized/thumbs/efr-s107d-1avuef-60f4c041-transparent.png",
     "source": "kleine Bilder/Edifice/EFR-S107D-1AVUEF.jpg"
   },
   {
@@ -3991,8 +3991,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Edifice Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Edifice\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/efr-s567dc-1avuef-2e11be85.jpg",
-    "thumb": "assets/optimized/thumbs/efr-s567dc-1avuef-2e11be85.jpg",
+    "image": "assets/optimized/full/efr-s567dc-1avuef-2e11be85-transparent.png",
+    "thumb": "assets/optimized/thumbs/efr-s567dc-1avuef-2e11be85-transparent.png",
     "source": "kleine Bilder/Edifice/EFR-S567DC-1AVUEF.jpg"
   },
   {
@@ -4003,8 +4003,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Edifice Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Edifice\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/efv-130d-2avuef-92d87592.jpg",
-    "thumb": "assets/optimized/thumbs/efv-130d-2avuef-92d87592.jpg",
+    "image": "assets/optimized/full/efv-130d-2avuef-92d87592-transparent.png",
+    "thumb": "assets/optimized/thumbs/efv-130d-2avuef-92d87592-transparent.png",
     "source": "kleine Bilder/Edifice/EFV-130D-2AVUEF.jpg"
   },
   {
@@ -4015,8 +4015,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Edifice Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Edifice\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/efv-590d-1avuef-202df1a5.jpg",
-    "thumb": "assets/optimized/thumbs/efv-590d-1avuef-202df1a5.jpg",
+    "image": "assets/optimized/full/efv-590d-1avuef-202df1a5-transparent.png",
+    "thumb": "assets/optimized/thumbs/efv-590d-1avuef-202df1a5-transparent.png",
     "source": "kleine Bilder/Edifice/EFV-590D-1AVUEF.jpg"
   },
   {
@@ -4027,8 +4027,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Edifice Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Edifice\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/efv-590pb-1avuef-be5959c7.jpg",
-    "thumb": "assets/optimized/thumbs/efv-590pb-1avuef-be5959c7.jpg",
+    "image": "assets/optimized/full/efv-590pb-1avuef-be5959c7-transparent.png",
+    "thumb": "assets/optimized/thumbs/efv-590pb-1avuef-be5959c7-transparent.png",
     "source": "kleine Bilder/Edifice/EFV-590PB-1AVUEF.jpg"
   },
   {
@@ -4039,8 +4039,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Edifice Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Edifice\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/efv-c100d-1avef-c2d21d4b.jpg",
-    "thumb": "assets/optimized/thumbs/efv-c100d-1avef-c2d21d4b.jpg",
+    "image": "assets/optimized/full/efv-c100d-1avef-c2d21d4b-transparent.png",
+    "thumb": "assets/optimized/thumbs/efv-c100d-1avef-c2d21d4b-transparent.png",
     "source": "kleine Bilder/Edifice/EFV-C100D-1AVEF.jpg"
   },
   {
@@ -4051,8 +4051,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Edifice Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Edifice\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/eqw-m710db-1a1er-dfd12746.jpg",
-    "thumb": "assets/optimized/thumbs/eqw-m710db-1a1er-dfd12746.jpg",
+    "image": "assets/optimized/full/eqw-m710db-1a1er-dfd12746-transparent.png",
+    "thumb": "assets/optimized/thumbs/eqw-m710db-1a1er-dfd12746-transparent.png",
     "source": "kleine Bilder/Edifice/EQW-M710DB-1A1ER.jpg"
   },
   {
@@ -4063,8 +4063,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Edifice Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Edifice\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/etd-310d-1avuef-6b186e47.jpg",
-    "thumb": "assets/optimized/thumbs/etd-310d-1avuef-6b186e47.jpg",
+    "image": "assets/optimized/full/etd-310d-1avuef-6b186e47-transparent.png",
+    "thumb": "assets/optimized/thumbs/etd-310d-1avuef-6b186e47-transparent.png",
     "source": "kleine Bilder/Edifice/ETD-310D-1AVUEF.jpg"
   },
   {
@@ -4075,8 +4075,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Edifice Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Edifice\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/evf-130d-1avuef-049c54d1.jpg",
-    "thumb": "assets/optimized/thumbs/evf-130d-1avuef-049c54d1.jpg",
+    "image": "assets/optimized/full/evf-130d-1avuef-049c54d1-transparent.png",
+    "thumb": "assets/optimized/thumbs/evf-130d-1avuef-049c54d1-transparent.png",
     "source": "kleine Bilder/Edifice/EVF-130D-1AVUEF.jpg"
   },
   {
@@ -4087,8 +4087,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Edifice Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Edifice\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/evf-550gy-8avuef-d0701f21.jpg",
-    "thumb": "assets/optimized/thumbs/evf-550gy-8avuef-d0701f21.jpg",
+    "image": "assets/optimized/full/evf-550gy-8avuef-d0701f21-transparent.png",
+    "thumb": "assets/optimized/thumbs/evf-550gy-8avuef-d0701f21-transparent.png",
     "source": "kleine Bilder/Edifice/EVF-550GY-8AVUEF.jpg"
   },
   {
@@ -4099,8 +4099,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Edifice Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Edifice\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/evf-560d-2avuef-a0935849.jpg",
-    "thumb": "assets/optimized/thumbs/evf-560d-2avuef-a0935849.jpg",
+    "image": "assets/optimized/full/evf-560d-2avuef-a0935849-transparent.png",
+    "thumb": "assets/optimized/thumbs/evf-560d-2avuef-a0935849-transparent.png",
     "source": "kleine Bilder/Edifice/EVF-560D-2AVUEF.jpg"
   },
   {
@@ -4111,8 +4111,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Edifice Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Edifice\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/evf-560d-7avuef-93637ac5.jpg",
-    "thumb": "assets/optimized/thumbs/evf-560d-7avuef-93637ac5.jpg",
+    "image": "assets/optimized/full/evf-560d-7avuef-93637ac5-transparent.png",
+    "thumb": "assets/optimized/thumbs/evf-560d-7avuef-93637ac5-transparent.png",
     "source": "kleine Bilder/Edifice/EVF-560D-7AVUEF.jpg"
   },
   {
@@ -4123,8 +4123,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Edifice Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Edifice\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/evf-570p-1avuef-5362287e.jpg",
-    "thumb": "assets/optimized/thumbs/evf-570p-1avuef-5362287e.jpg",
+    "image": "assets/optimized/full/evf-570p-1avuef-5362287e-transparent.png",
+    "thumb": "assets/optimized/thumbs/evf-570p-1avuef-5362287e-transparent.png",
     "source": "kleine Bilder/Edifice/EVF-570P-1AVUEF.jpg"
   },
   {
@@ -4135,8 +4135,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "G-Shock Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: G-Shock\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/awg-m100a-1aer-316b2306.jpg",
-    "thumb": "assets/optimized/thumbs/awg-m100a-1aer-316b2306.jpg",
+    "image": "assets/optimized/full/awg-m100a-1aer-316b2306-transparent.png",
+    "thumb": "assets/optimized/thumbs/awg-m100a-1aer-316b2306-transparent.png",
     "source": "kleine Bilder/G-Shock/AWG-M100A-1AER.jpg"
   },
   {
@@ -4147,8 +4147,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "G-Shock Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: G-Shock\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/ga-100b-4aer-7ae13cae.jpg",
-    "thumb": "assets/optimized/thumbs/ga-100b-4aer-7ae13cae.jpg",
+    "image": "assets/optimized/full/ga-100b-4aer-7ae13cae-transparent.png",
+    "thumb": "assets/optimized/thumbs/ga-100b-4aer-7ae13cae-transparent.png",
     "source": "kleine Bilder/G-Shock/GA-100B-4AER.jpg"
   },
   {
@@ -4159,8 +4159,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "G-Shock Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: G-Shock\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/ga-140-1a1er-35a4f4fa.jpg",
-    "thumb": "assets/optimized/thumbs/ga-140-1a1er-35a4f4fa.jpg",
+    "image": "assets/optimized/full/ga-140-1a1er-35a4f4fa-transparent.png",
+    "thumb": "assets/optimized/thumbs/ga-140-1a1er-35a4f4fa-transparent.png",
     "source": "kleine Bilder/G-Shock/GA-140-1A1ER.jpg"
   },
   {
@@ -4171,8 +4171,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "G-Shock Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: G-Shock\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/ga-140-1a4er-5b6d5d64.jpg",
-    "thumb": "assets/optimized/thumbs/ga-140-1a4er-5b6d5d64.jpg",
+    "image": "assets/optimized/full/ga-140-1a4er-5b6d5d64-transparent.png",
+    "thumb": "assets/optimized/thumbs/ga-140-1a4er-5b6d5d64-transparent.png",
     "source": "kleine Bilder/G-Shock/GA-140-1A4ER.jpg"
   },
   {
@@ -4183,8 +4183,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "G-Shock Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: G-Shock\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/ga-140gm-1a1er-e8dc489a.jpg",
-    "thumb": "assets/optimized/thumbs/ga-140gm-1a1er-e8dc489a.jpg",
+    "image": "assets/optimized/full/ga-140gm-1a1er-e8dc489a-transparent.png",
+    "thumb": "assets/optimized/thumbs/ga-140gm-1a1er-e8dc489a-transparent.png",
     "source": "kleine Bilder/G-Shock/GA-140GM-1A1ER.jpg"
   },
   {
@@ -4195,8 +4195,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "G-Shock Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: G-Shock\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/ga-2000-1a9er-46fad89e.jpg",
-    "thumb": "assets/optimized/thumbs/ga-2000-1a9er-46fad89e.jpg",
+    "image": "assets/optimized/full/ga-2000-1a9er-46fad89e-transparent.png",
+    "thumb": "assets/optimized/thumbs/ga-2000-1a9er-46fad89e-transparent.png",
     "source": "kleine Bilder/G-Shock/GA-2000-1A9ER.jpg"
   },
   {
@@ -4207,8 +4207,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "G-Shock Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: G-Shock\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/ga-2000-2aer-b8788972.jpg",
-    "thumb": "assets/optimized/thumbs/ga-2000-2aer-b8788972.jpg",
+    "image": "assets/optimized/full/ga-2000-2aer-b8788972-transparent.png",
+    "thumb": "assets/optimized/thumbs/ga-2000-2aer-b8788972-transparent.png",
     "source": "kleine Bilder/G-Shock/GA-2000-2AER.jpg"
   },
   {
@@ -4219,8 +4219,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "G-Shock Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: G-Shock\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/ga-2000-3aer-aa0879aa.jpg",
-    "thumb": "assets/optimized/thumbs/ga-2000-3aer-aa0879aa.jpg",
+    "image": "assets/optimized/full/ga-2000-3aer-aa0879aa-transparent.png",
+    "thumb": "assets/optimized/thumbs/ga-2000-3aer-aa0879aa-transparent.png",
     "source": "kleine Bilder/G-Shock/GA-2000-3AER.jpg"
   },
   {
@@ -4231,8 +4231,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "G-Shock Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: G-Shock\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/ga-2000su-1aer-cf4c6297.jpg",
-    "thumb": "assets/optimized/thumbs/ga-2000su-1aer-cf4c6297.jpg",
+    "image": "assets/optimized/full/ga-2000su-1aer-cf4c6297-transparent.png",
+    "thumb": "assets/optimized/thumbs/ga-2000su-1aer-cf4c6297-transparent.png",
     "source": "kleine Bilder/G-Shock/GA-2000SU-1AER.jpg"
   },
   {
@@ -4243,8 +4243,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "G-Shock Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: G-Shock\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/ga-2100su-1aer-b3fbdea6.jpg",
-    "thumb": "assets/optimized/thumbs/ga-2100su-1aer-b3fbdea6.jpg",
+    "image": "assets/optimized/full/ga-2100su-1aer-b3fbdea6-transparent.png",
+    "thumb": "assets/optimized/thumbs/ga-2100su-1aer-b3fbdea6-transparent.png",
     "source": "kleine Bilder/G-Shock/GA-2100SU-1AER.jpg"
   },
   {
@@ -4255,8 +4255,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "G-Shock Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: G-Shock\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/ga-2110su-3aer-6a5f51ba.jpg",
-    "thumb": "assets/optimized/thumbs/ga-2110su-3aer-6a5f51ba.jpg",
+    "image": "assets/optimized/full/ga-2110su-3aer-6a5f51ba-transparent.png",
+    "thumb": "assets/optimized/thumbs/ga-2110su-3aer-6a5f51ba-transparent.png",
     "source": "kleine Bilder/G-Shock/GA-2110SU-3AER.jpg"
   },
   {
@@ -4267,8 +4267,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "G-Shock Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: G-Shock\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/ga-700uc-3aer-1d642f10.jpg",
-    "thumb": "assets/optimized/thumbs/ga-700uc-3aer-1d642f10.jpg",
+    "image": "assets/optimized/full/ga-700uc-3aer-1d642f10-transparent.png",
+    "thumb": "assets/optimized/thumbs/ga-700uc-3aer-1d642f10-transparent.png",
     "source": "kleine Bilder/G-Shock/GA-700UC-3AER.jpg"
   },
   {
@@ -4279,8 +4279,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "G-Shock Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: G-Shock\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/ga-710b-1a9er-5732f783.jpg",
-    "thumb": "assets/optimized/thumbs/ga-710b-1a9er-5732f783.jpg",
+    "image": "assets/optimized/full/ga-710b-1a9er-5732f783-transparent.png",
+    "thumb": "assets/optimized/thumbs/ga-710b-1a9er-5732f783-transparent.png",
     "source": "kleine Bilder/G-Shock/GA-710B-1A9ER.jpg"
   },
   {
@@ -4291,8 +4291,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "G-Shock Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: G-Shock\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/ga-710gb-1aer-b31a0faa.jpg",
-    "thumb": "assets/optimized/thumbs/ga-710gb-1aer-b31a0faa.jpg",
+    "image": "assets/optimized/full/ga-710gb-1aer-b31a0faa-transparent.png",
+    "thumb": "assets/optimized/thumbs/ga-710gb-1aer-b31a0faa-transparent.png",
     "source": "kleine Bilder/G-Shock/GA-710GB-1AER.jpg"
   },
   {
@@ -4303,8 +4303,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "G-Shock Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: G-Shock\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/gba-800-1aer-d91f7995.jpg",
-    "thumb": "assets/optimized/thumbs/gba-800-1aer-d91f7995.jpg",
+    "image": "assets/optimized/full/gba-800-1aer-d91f7995-transparent.png",
+    "thumb": "assets/optimized/thumbs/gba-800-1aer-d91f7995-transparent.png",
     "source": "kleine Bilder/G-Shock/GBA-800-1AER.jpg"
   },
   {
@@ -4315,8 +4315,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "G-Shock Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: G-Shock\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/gba-800-9aer-6c3a53a4.jpg",
-    "thumb": "assets/optimized/thumbs/gba-800-9aer-6c3a53a4.jpg",
+    "image": "assets/optimized/full/gba-800-9aer-6c3a53a4-transparent.png",
+    "thumb": "assets/optimized/thumbs/gba-800-9aer-6c3a53a4-transparent.png",
     "source": "kleine Bilder/G-Shock/GBA-800-9AER.jpg"
   },
   {
@@ -4327,8 +4327,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "G-Shock Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: G-Shock\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/gbd-800-1er-397435a8.jpg",
-    "thumb": "assets/optimized/thumbs/gbd-800-1er-397435a8.jpg",
+    "image": "assets/optimized/full/gbd-800-1er-397435a8-transparent.png",
+    "thumb": "assets/optimized/thumbs/gbd-800-1er-397435a8-transparent.png",
     "source": "kleine Bilder/G-Shock/GBD-800-1ER.jpg"
   },
   {
@@ -4339,8 +4339,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "G-Shock Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: G-Shock\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/gg-b100-1a3er-b208a06d.jpg",
-    "thumb": "assets/optimized/thumbs/gg-b100-1a3er-b208a06d.jpg",
+    "image": "assets/optimized/full/gg-b100-1a3er-b208a06d-transparent.png",
+    "thumb": "assets/optimized/thumbs/gg-b100-1a3er-b208a06d-transparent.png",
     "source": "kleine Bilder/G-Shock/GG-B100-1A3ER.jpg"
   },
   {
@@ -4351,8 +4351,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "G-Shock Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: G-Shock\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/gm-6900-1er-5ac490da.jpg",
-    "thumb": "assets/optimized/thumbs/gm-6900-1er-5ac490da.jpg",
+    "image": "assets/optimized/full/gm-6900-1er-5ac490da-transparent.png",
+    "thumb": "assets/optimized/thumbs/gm-6900-1er-5ac490da-transparent.png",
     "source": "kleine Bilder/G-Shock/GM-6900-1ER.jpg"
   },
   {
@@ -4363,8 +4363,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "G-Shock Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: G-Shock\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/gm-6900g-9er-16fa6378.jpg",
-    "thumb": "assets/optimized/thumbs/gm-6900g-9er-16fa6378.jpg",
+    "image": "assets/optimized/full/gm-6900g-9er-16fa6378-transparent.png",
+    "thumb": "assets/optimized/thumbs/gm-6900g-9er-16fa6378-transparent.png",
     "source": "kleine Bilder/G-Shock/GM-6900G-9ER.jpg"
   },
   {
@@ -4375,8 +4375,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "G-Shock Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: G-Shock\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/gw-m5610-1er-ce25ae6d.jpg",
-    "thumb": "assets/optimized/thumbs/gw-m5610-1er-ce25ae6d.jpg",
+    "image": "assets/optimized/full/gw-m5610-1er-ce25ae6d-transparent.png",
+    "thumb": "assets/optimized/thumbs/gw-m5610-1er-ce25ae6d-transparent.png",
     "source": "kleine Bilder/G-Shock/GW-M5610-1ER.jpg"
   },
   {
@@ -4387,8 +4387,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1117-1an-6f88b9e2.jpg",
-    "thumb": "assets/optimized/thumbs/1-1117-1an-6f88b9e2.jpg",
+    "image": "assets/optimized/full/1-1117-1an-6f88b9e2-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1117-1an-6f88b9e2-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Sport/1-1117.1an.jpg"
   },
   {
@@ -4399,8 +4399,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1117-1dn-15587856.jpg",
-    "thumb": "assets/optimized/thumbs/1-1117-1dn-15587856.jpg",
+    "image": "assets/optimized/full/1-1117-1dn-15587856-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1117-1dn-15587856-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Sport/1-1117.1dn.jpg"
   },
   {
@@ -4411,8 +4411,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1117-1en-6d10fa27.jpg",
-    "thumb": "assets/optimized/thumbs/1-1117-1en-6d10fa27.jpg",
+    "image": "assets/optimized/full/1-1117-1en-6d10fa27-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1117-1en-6d10fa27-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Sport/1-1117.1en.jpg"
   },
   {
@@ -4423,8 +4423,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1117-1ln-7c9235b8.jpg",
-    "thumb": "assets/optimized/thumbs/1-1117-1ln-7c9235b8.jpg",
+    "image": "assets/optimized/full/1-1117-1ln-7c9235b8-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1117-1ln-7c9235b8-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Sport/1-1117.1ln.jpg"
   },
   {
@@ -4435,8 +4435,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1117-pn-5a8a147d.jpg",
-    "thumb": "assets/optimized/thumbs/1-1117-pn-5a8a147d.jpg",
+    "image": "assets/optimized/full/1-1117-pn-5a8a147d-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1117-pn-5a8a147d-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Sport/1-1117.pn.jpg"
   },
   {
@@ -4447,8 +4447,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1540a-e7a59748.jpg",
-    "thumb": "assets/optimized/thumbs/1-1540a-e7a59748.jpg",
+    "image": "assets/optimized/full/1-1540a-e7a59748-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1540a-e7a59748-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Classic/1-1540a.jpg"
   },
   {
@@ -4459,8 +4459,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1540e-2d4361b3.jpg",
-    "thumb": "assets/optimized/thumbs/1-1540e-2d4361b3.jpg",
+    "image": "assets/optimized/full/1-1540e-2d4361b3-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1540e-2d4361b3-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Classic/1-1540e.jpg"
   },
   {
@@ -4471,8 +4471,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1540h-b081e134.jpg",
-    "thumb": "assets/optimized/thumbs/1-1540h-b081e134.jpg",
+    "image": "assets/optimized/full/1-1540h-b081e134-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1540h-b081e134-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Classic/1-1540h.jpg"
   },
   {
@@ -4483,8 +4483,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1542a-a1b351f8.jpg",
-    "thumb": "assets/optimized/thumbs/1-1542a-a1b351f8.jpg",
+    "image": "assets/optimized/full/1-1542a-a1b351f8-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1542a-a1b351f8-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Sport/1-1542a.jpg"
   },
   {
@@ -4495,8 +4495,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1542c-96e5de0b.jpg",
-    "thumb": "assets/optimized/thumbs/1-1542c-96e5de0b.jpg",
+    "image": "assets/optimized/full/1-1542c-96e5de0b-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1542c-96e5de0b-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Sport/1-1542c.jpg"
   },
   {
@@ -4507,8 +4507,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1542l-8493dbd0.jpg",
-    "thumb": "assets/optimized/thumbs/1-1542l-8493dbd0.jpg",
+    "image": "assets/optimized/full/1-1542l-8493dbd0-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1542l-8493dbd0-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Sport/1-1542l.jpg"
   },
   {
@@ -4519,8 +4519,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1593-1f-7322c303.jpg",
-    "thumb": "assets/optimized/thumbs/1-1593-1f-7322c303.jpg",
+    "image": "assets/optimized/full/1-1593-1f-7322c303-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1593-1f-7322c303-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Ceramic/1-1593-1f.jpg"
   },
   {
@@ -4531,8 +4531,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1645-1k-d713eb51.jpg",
-    "thumb": "assets/optimized/thumbs/1-1645-1k-d713eb51.jpg",
+    "image": "assets/optimized/full/1-1645-1k-d713eb51-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1645-1k-d713eb51-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Sport/1-1645-1k.jpg"
   },
   {
@@ -4543,8 +4543,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1648e-87bcd2f3.jpg",
-    "thumb": "assets/optimized/thumbs/1-1648e-87bcd2f3.jpg",
+    "image": "assets/optimized/full/1-1648e-87bcd2f3-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1648e-87bcd2f3-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Ceramic/1-1648e.jpg"
   },
   {
@@ -4555,8 +4555,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1651a-aabd968f.jpg",
-    "thumb": "assets/optimized/thumbs/1-1651a-aabd968f.jpg",
+    "image": "assets/optimized/full/1-1651a-aabd968f-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1651a-aabd968f-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Ceramic/1-1651a.jpg"
   },
   {
@@ -4567,8 +4567,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1799c-b863d14f.jpg",
-    "thumb": "assets/optimized/thumbs/1-1799c-b863d14f.jpg",
+    "image": "assets/optimized/full/1-1799c-b863d14f-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1799c-b863d14f-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Sport/1-1799c.jpg"
   },
   {
@@ -4579,8 +4579,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1799f-f18e3460.jpg",
-    "thumb": "assets/optimized/thumbs/1-1799f-f18e3460.jpg",
+    "image": "assets/optimized/full/1-1799f-f18e3460-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1799f-f18e3460-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Sport/1-1799f.jpg"
   },
   {
@@ -4591,8 +4591,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1799h-5bb3731e.jpg",
-    "thumb": "assets/optimized/thumbs/1-1799h-5bb3731e.jpg",
+    "image": "assets/optimized/full/1-1799h-5bb3731e-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1799h-5bb3731e-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Sport/1-1799h.jpg"
   },
   {
@@ -4603,8 +4603,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1830a-5a7ac927.jpg",
-    "thumb": "assets/optimized/thumbs/1-1830a-5a7ac927.jpg",
+    "image": "assets/optimized/full/1-1830a-5a7ac927-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1830a-5a7ac927-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Sport/1-1830a.jpg"
   },
   {
@@ -4615,8 +4615,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1830f-a5085a16.jpg",
-    "thumb": "assets/optimized/thumbs/1-1830f-a5085a16.jpg",
+    "image": "assets/optimized/full/1-1830f-a5085a16-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1830f-a5085a16-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Sport/1-1830f.jpg"
   },
   {
@@ -4627,8 +4627,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1844f-f7ac4ec1.jpg",
-    "thumb": "assets/optimized/thumbs/1-1844f-f7ac4ec1.jpg",
+    "image": "assets/optimized/full/1-1844f-f7ac4ec1-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1844f-f7ac4ec1-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Sport/1-1844f.jpg"
   },
   {
@@ -4639,8 +4639,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1844h-a9030573.jpg",
-    "thumb": "assets/optimized/thumbs/1-1844h-a9030573.jpg",
+    "image": "assets/optimized/full/1-1844h-a9030573-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1844h-a9030573-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Sport/1-1844h.jpg"
   },
   {
@@ -4651,8 +4651,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1844l-d53491bf.jpg",
-    "thumb": "assets/optimized/thumbs/1-1844l-d53491bf.jpg",
+    "image": "assets/optimized/full/1-1844l-d53491bf-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1844l-d53491bf-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Sport/1-1844L.jpg"
   },
   {
@@ -4663,8 +4663,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1844za-64f062eb.jpg",
-    "thumb": "assets/optimized/thumbs/1-1844za-64f062eb.jpg",
+    "image": "assets/optimized/full/1-1844za-64f062eb-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1844za-64f062eb-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Sport/1-1844za.jpg"
   },
   {
@@ -4675,8 +4675,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1846-1a-28c24f41.jpg",
-    "thumb": "assets/optimized/thumbs/1-1846-1a-28c24f41.jpg",
+    "image": "assets/optimized/full/1-1846-1a-28c24f41-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1846-1a-28c24f41-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Automatic/1-1846-1A.jpg"
   },
   {
@@ -4687,8 +4687,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1846-1b-19b3b91b.jpg",
-    "thumb": "assets/optimized/thumbs/1-1846-1b-19b3b91b.jpg",
+    "image": "assets/optimized/full/1-1846-1b-19b3b91b-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1846-1b-19b3b91b-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Automatic/1-1846-1B.jpg"
   },
   {
@@ -4699,8 +4699,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1846-1d-0907534e.jpg",
-    "thumb": "assets/optimized/thumbs/1-1846-1d-0907534e.jpg",
+    "image": "assets/optimized/full/1-1846-1d-0907534e-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1846-1d-0907534e-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Automatic/1-1846-1D.jpg"
   },
   {
@@ -4711,8 +4711,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1846-1f-73cecf3f.jpg",
-    "thumb": "assets/optimized/thumbs/1-1846-1f-73cecf3f.jpg",
+    "image": "assets/optimized/full/1-1846-1f-73cecf3f-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1846-1f-73cecf3f-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Automatic/1-1846-1F.jpg"
   },
   {
@@ -4723,8 +4723,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1850b-c0d6c8e2.jpg",
-    "thumb": "assets/optimized/thumbs/1-1850b-c0d6c8e2.jpg",
+    "image": "assets/optimized/full/1-1850b-c0d6c8e2-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1850b-c0d6c8e2-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Classic/1-1850b.jpg"
   },
   {
@@ -4735,8 +4735,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1852g-be100aa9.jpg",
-    "thumb": "assets/optimized/thumbs/1-1852g-be100aa9.jpg",
+    "image": "assets/optimized/full/1-1852g-be100aa9-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1852g-be100aa9-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Classic/1-1852g.jpg"
   },
   {
@@ -4747,8 +4747,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1852zb-1e34c15d.jpg",
-    "thumb": "assets/optimized/thumbs/1-1852zb-1e34c15d.jpg",
+    "image": "assets/optimized/full/1-1852zb-1e34c15d-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1852zb-1e34c15d-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Classic/1-1852zb.jpg"
   },
   {
@@ -4759,8 +4759,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1855a-0e2eba2a.jpg",
-    "thumb": "assets/optimized/thumbs/1-1855a-0e2eba2a.jpg",
+    "image": "assets/optimized/full/1-1855a-0e2eba2a-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1855a-0e2eba2a-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Ceramic/1-1855a.jpg"
   },
   {
@@ -4771,8 +4771,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1856b-37d82b40.jpg",
-    "thumb": "assets/optimized/thumbs/1-1856b-37d82b40.jpg",
+    "image": "assets/optimized/full/1-1856b-37d82b40-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1856b-37d82b40-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Ceramic/1-1856b.jpg"
   },
   {
@@ -4783,8 +4783,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1856e-8181d66a.jpg",
-    "thumb": "assets/optimized/thumbs/1-1856e-8181d66a.jpg",
+    "image": "assets/optimized/full/1-1856e-8181d66a-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1856e-8181d66a-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Ceramic/1-1856e.jpg"
   },
   {
@@ -4795,8 +4795,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1856h-6b6c8aa5.jpg",
-    "thumb": "assets/optimized/thumbs/1-1856h-6b6c8aa5.jpg",
+    "image": "assets/optimized/full/1-1856h-6b6c8aa5-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1856h-6b6c8aa5-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Ceramic/1-1856h.jpg"
   },
   {
@@ -4807,8 +4807,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1857l-5ef95255.jpg",
-    "thumb": "assets/optimized/thumbs/1-1857l-5ef95255.jpg",
+    "image": "assets/optimized/full/1-1857l-5ef95255-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1857l-5ef95255-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Sport/1-1857l.jpg"
   },
   {
@@ -4819,8 +4819,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1900b-f0c70a94.jpg",
-    "thumb": "assets/optimized/thumbs/1-1900b-f0c70a94.jpg",
+    "image": "assets/optimized/full/1-1900b-f0c70a94-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1900b-f0c70a94-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Ceramic/1-1900b.jpg"
   },
   {
@@ -4831,8 +4831,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1901b-60aeb49b.jpg",
-    "thumb": "assets/optimized/thumbs/1-1901b-60aeb49b.jpg",
+    "image": "assets/optimized/full/1-1901b-60aeb49b-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1901b-60aeb49b-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Sport/1-1901b.jpg"
   },
   {
@@ -4843,8 +4843,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1901e-e6b6a1f3.jpg",
-    "thumb": "assets/optimized/thumbs/1-1901e-e6b6a1f3.jpg",
+    "image": "assets/optimized/full/1-1901e-e6b6a1f3-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1901e-e6b6a1f3-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Sport/1-1901e.jpg"
   },
   {
@@ -4855,8 +4855,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1912a-a004db86.jpg",
-    "thumb": "assets/optimized/thumbs/1-1912a-a004db86.jpg",
+    "image": "assets/optimized/full/1-1912a-a004db86-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1912a-a004db86-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Automatic/1-1912A.jpg"
   },
   {
@@ -4867,8 +4867,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1912d-d6100ecd.jpg",
-    "thumb": "assets/optimized/thumbs/1-1912d-d6100ecd.jpg",
+    "image": "assets/optimized/full/1-1912d-d6100ecd-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1912d-d6100ecd-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Automatic/1-1912D.jpg"
   },
   {
@@ -4879,8 +4879,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1912f-79afa062.jpg",
-    "thumb": "assets/optimized/thumbs/1-1912f-79afa062.jpg",
+    "image": "assets/optimized/full/1-1912f-79afa062-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1912f-79afa062-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Automatic/1-1912F.jpg"
   },
   {
@@ -4891,8 +4891,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1931a-7db01ec9.jpg",
-    "thumb": "assets/optimized/thumbs/1-1931a-7db01ec9.jpg",
+    "image": "assets/optimized/full/1-1931a-7db01ec9-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1931a-7db01ec9-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Sport/1-1931a.jpg"
   },
   {
@@ -4903,8 +4903,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1939a-139c4683.jpg",
-    "thumb": "assets/optimized/thumbs/1-1939a-139c4683.jpg",
+    "image": "assets/optimized/full/1-1939a-139c4683-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1939a-139c4683-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Ceramic/1-1939a.jpg"
   },
   {
@@ -4915,8 +4915,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1939b-3aad226b.jpg",
-    "thumb": "assets/optimized/thumbs/1-1939b-3aad226b.jpg",
+    "image": "assets/optimized/full/1-1939b-3aad226b-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1939b-3aad226b-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Ceramic/1-1939b.jpg"
   },
   {
@@ -4927,8 +4927,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1939c-719decdb.jpg",
-    "thumb": "assets/optimized/thumbs/1-1939c-719decdb.jpg",
+    "image": "assets/optimized/full/1-1939c-719decdb-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1939c-719decdb-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Ceramic/1-1939c.jpg"
   },
   {
@@ -4939,8 +4939,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1939d-85c7d5ad.jpg",
-    "thumb": "assets/optimized/thumbs/1-1939d-85c7d5ad.jpg",
+    "image": "assets/optimized/full/1-1939d-85c7d5ad-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1939d-85c7d5ad-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Ceramic/1-1939d.jpg"
   },
   {
@@ -4951,8 +4951,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1940a-c96bc068.jpg",
-    "thumb": "assets/optimized/thumbs/1-1940a-c96bc068.jpg",
+    "image": "assets/optimized/full/1-1940a-c96bc068-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1940a-c96bc068-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Ceramic/1-1940a.jpg"
   },
   {
@@ -4963,8 +4963,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1940b-3dd7c3d9.jpg",
-    "thumb": "assets/optimized/thumbs/1-1940b-3dd7c3d9.jpg",
+    "image": "assets/optimized/full/1-1940b-3dd7c3d9-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1940b-3dd7c3d9-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Ceramic/1-1940b.jpg"
   },
   {
@@ -4975,8 +4975,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1940c-81cd9972.jpg",
-    "thumb": "assets/optimized/thumbs/1-1940c-81cd9972.jpg",
+    "image": "assets/optimized/full/1-1940c-81cd9972-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1940c-81cd9972-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Ceramic/1-1940c.jpg"
   },
   {
@@ -4987,8 +4987,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1941c-a914c59d.jpg",
-    "thumb": "assets/optimized/thumbs/1-1941c-a914c59d.jpg",
+    "image": "assets/optimized/full/1-1941c-a914c59d-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1941c-a914c59d-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Ceramic/1-1941c.jpg"
   },
   {
@@ -4999,8 +4999,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1999a-76372847.jpg",
-    "thumb": "assets/optimized/thumbs/1-1999a-76372847.jpg",
+    "image": "assets/optimized/full/1-1999a-76372847-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1999a-76372847-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Sale Ceramic/1-1999A.jpg"
   },
   {
@@ -5011,8 +5011,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1999b-4e490c21.jpg",
-    "thumb": "assets/optimized/thumbs/1-1999b-4e490c21.jpg",
+    "image": "assets/optimized/full/1-1999b-4e490c21-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1999b-4e490c21-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Sale Ceramic/1-1999B.jpg"
   },
   {
@@ -5023,8 +5023,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1999c-95257005.jpg",
-    "thumb": "assets/optimized/thumbs/1-1999c-95257005.jpg",
+    "image": "assets/optimized/full/1-1999c-95257005-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1999c-95257005-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Sale Ceramic/1-1999c.jpg"
   },
   {
@@ -5035,8 +5035,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1999d-c28e4b4b.jpg",
-    "thumb": "assets/optimized/thumbs/1-1999d-c28e4b4b.jpg",
+    "image": "assets/optimized/full/1-1999d-c28e4b4b-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1999d-c28e4b4b-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Sale Ceramic/1-1999d.jpg"
   },
   {
@@ -5047,8 +5047,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1999g-5a968aeb.jpg",
-    "thumb": "assets/optimized/thumbs/1-1999g-5a968aeb.jpg",
+    "image": "assets/optimized/full/1-1999g-5a968aeb-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-1999g-5a968aeb-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Sale Ceramic/1-1999g.jpg"
   },
   {
@@ -5059,8 +5059,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-2002f-35e8ef3e.jpg",
-    "thumb": "assets/optimized/thumbs/1-2002f-35e8ef3e.jpg",
+    "image": "assets/optimized/full/1-2002f-35e8ef3e-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-2002f-35e8ef3e-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Classic/1-2002f.jpg"
   },
   {
@@ -5071,8 +5071,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-2002j-ee3f4d5b.jpg",
-    "thumb": "assets/optimized/thumbs/1-2002j-ee3f4d5b.jpg",
+    "image": "assets/optimized/full/1-2002j-ee3f4d5b-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-2002j-ee3f4d5b-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Classic/1-2002j.jpg"
   },
   {
@@ -5083,8 +5083,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-2002l-109c4d09.jpg",
-    "thumb": "assets/optimized/thumbs/1-2002l-109c4d09.jpg",
+    "image": "assets/optimized/full/1-2002l-109c4d09-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-2002l-109c4d09-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Classic/1-2002l.jpg"
   },
   {
@@ -5095,8 +5095,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-2002n-c589e975.jpg",
-    "thumb": "assets/optimized/thumbs/1-2002n-c589e975.jpg",
+    "image": "assets/optimized/full/1-2002n-c589e975-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-2002n-c589e975-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Classic/1-2002n.jpg"
   },
   {
@@ -5107,8 +5107,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-2003a-58e8d5e4.jpg",
-    "thumb": "assets/optimized/thumbs/1-2003a-58e8d5e4.jpg",
+    "image": "assets/optimized/full/1-2003a-58e8d5e4-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-2003a-58e8d5e4-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Classic/1-2003a.jpg"
   },
   {
@@ -5119,8 +5119,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-2003b-ceac63b3.jpg",
-    "thumb": "assets/optimized/thumbs/1-2003b-ceac63b3.jpg",
+    "image": "assets/optimized/full/1-2003b-ceac63b3-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-2003b-ceac63b3-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Classic/1-2003b.jpg"
   },
   {
@@ -5131,8 +5131,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-2003c-1bfe9b75.jpg",
-    "thumb": "assets/optimized/thumbs/1-2003c-1bfe9b75.jpg",
+    "image": "assets/optimized/full/1-2003c-1bfe9b75-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-2003c-1bfe9b75-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Classic/1-2003c.jpg"
   },
   {
@@ -5143,8 +5143,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-2003d-1c18c92c.jpg",
-    "thumb": "assets/optimized/thumbs/1-2003d-1c18c92c.jpg",
+    "image": "assets/optimized/full/1-2003d-1c18c92c-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-2003d-1c18c92c-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Classic/1-2003d.jpg"
   },
   {
@@ -5155,8 +5155,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-2003f-18c7ebeb.jpg",
-    "thumb": "assets/optimized/thumbs/1-2003f-18c7ebeb.jpg",
+    "image": "assets/optimized/full/1-2003f-18c7ebeb-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-2003f-18c7ebeb-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Classic/1-2003f.jpg"
   },
   {
@@ -5167,8 +5167,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-2003g-10235f2d.jpg",
-    "thumb": "assets/optimized/thumbs/1-2003g-10235f2d.jpg",
+    "image": "assets/optimized/full/1-2003g-10235f2d-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-2003g-10235f2d-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Classic/1-2003g.jpg"
   },
   {
@@ -5179,8 +5179,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-2003l-3ee8a544.jpg",
-    "thumb": "assets/optimized/thumbs/1-2003l-3ee8a544.jpg",
+    "image": "assets/optimized/full/1-2003l-3ee8a544-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-2003l-3ee8a544-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Classic/1-2003l.jpg"
   },
   {
@@ -5191,8 +5191,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-2004c-c23d821c.jpg",
-    "thumb": "assets/optimized/thumbs/1-2004c-c23d821c.jpg",
+    "image": "assets/optimized/full/1-2004c-c23d821c-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-2004c-c23d821c-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Classic/1-2004c.jpg"
   },
   {
@@ -5203,8 +5203,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-2004h-94c3bf03.jpg",
-    "thumb": "assets/optimized/thumbs/1-2004h-94c3bf03.jpg",
+    "image": "assets/optimized/full/1-2004h-94c3bf03-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-2004h-94c3bf03-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Classic/1-2004h.jpg"
   },
   {
@@ -5215,8 +5215,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-2065f-738cb8c2.jpg",
-    "thumb": "assets/optimized/thumbs/1-2065f-738cb8c2.jpg",
+    "image": "assets/optimized/full/1-2065f-738cb8c2-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-2065f-738cb8c2-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Retro/1-2065f.jpg"
   },
   {
@@ -5227,8 +5227,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-2066b-4797d0af.jpg",
-    "thumb": "assets/optimized/thumbs/1-2066b-4797d0af.jpg",
+    "image": "assets/optimized/full/1-2066b-4797d0af-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-2066b-4797d0af-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Retro/1-2066b.jpg"
   },
   {
@@ -5239,8 +5239,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-2066f-1c492d25.jpg",
-    "thumb": "assets/optimized/thumbs/1-2066f-1c492d25.jpg",
+    "image": "assets/optimized/full/1-2066f-1c492d25-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-2066f-1c492d25-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Retro/1-2066f.jpg"
   },
   {
@@ -5251,8 +5251,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-2067a-4846d7cb.jpg",
-    "thumb": "assets/optimized/thumbs/1-2067a-4846d7cb.jpg",
+    "image": "assets/optimized/full/1-2067a-4846d7cb-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-2067a-4846d7cb-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Retro/1-2067a.jpg"
   },
   {
@@ -5263,8 +5263,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-2067g-57cd076e.jpg",
-    "thumb": "assets/optimized/thumbs/1-2067g-57cd076e.jpg",
+    "image": "assets/optimized/full/1-2067g-57cd076e-transparent.png",
+    "thumb": "assets/optimized/thumbs/1-2067g-57cd076e-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Retro/1-2067g.jpg"
   },
   {
@@ -5275,8 +5275,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/40-1d-6e538e8a.jpg",
-    "thumb": "assets/optimized/thumbs/40-1d-6e538e8a.jpg",
+    "image": "assets/optimized/full/40-1d-6e538e8a-transparent.png",
+    "thumb": "assets/optimized/thumbs/40-1d-6e538e8a-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Sale Sport/40-1d.jpg"
   },
   {
@@ -5287,8 +5287,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/42-6-1a-57eada3f.jpg",
-    "thumb": "assets/optimized/thumbs/42-6-1a-57eada3f.jpg",
+    "image": "assets/optimized/full/42-6-1a-57eada3f-transparent.png",
+    "thumb": "assets/optimized/thumbs/42-6-1a-57eada3f-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Sale Sport/42-6.1a.jpg"
   },
   {
@@ -5299,8 +5299,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/42-6-1d-8cf22967.jpg",
-    "thumb": "assets/optimized/thumbs/42-6-1d-8cf22967.jpg",
+    "image": "assets/optimized/full/42-6-1d-8cf22967-transparent.png",
+    "thumb": "assets/optimized/thumbs/42-6-1d-8cf22967-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Sale Sport/42-6.1d.jpg"
   },
   {
@@ -5311,8 +5311,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/42-6-1e-2caf0dbc.jpg",
-    "thumb": "assets/optimized/thumbs/42-6-1e-2caf0dbc.jpg",
+    "image": "assets/optimized/full/42-6-1e-2caf0dbc-transparent.png",
+    "thumb": "assets/optimized/thumbs/42-6-1e-2caf0dbc-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Sale Sport/42-6.1e.jpg"
   },
   {
@@ -5323,8 +5323,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/42-6-1f-f2101176.jpg",
-    "thumb": "assets/optimized/thumbs/42-6-1f-f2101176.jpg",
+    "image": "assets/optimized/full/42-6-1f-f2101176-transparent.png",
+    "thumb": "assets/optimized/thumbs/42-6-1f-f2101176-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Sale Sport/42-6.1f.jpg"
   },
   {
@@ -5335,8 +5335,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/42-6-1h-d64de32c.jpg",
-    "thumb": "assets/optimized/thumbs/42-6-1h-d64de32c.jpg",
+    "image": "assets/optimized/full/42-6-1h-d64de32c-transparent.png",
+    "thumb": "assets/optimized/thumbs/42-6-1h-d64de32c-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Sale Sport/42-6.1h.jpg"
   },
   {
@@ -5347,8 +5347,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/42-6b-fb9358b4.jpg",
-    "thumb": "assets/optimized/thumbs/42-6b-fb9358b4.jpg",
+    "image": "assets/optimized/full/42-6b-fb9358b4-transparent.png",
+    "thumb": "assets/optimized/thumbs/42-6b-fb9358b4-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Sale Sport/42-6b.jpg"
   },
   {
@@ -5359,8 +5359,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/42-6c-88cc3254.jpg",
-    "thumb": "assets/optimized/thumbs/42-6c-88cc3254.jpg",
+    "image": "assets/optimized/full/42-6c-88cc3254-transparent.png",
+    "thumb": "assets/optimized/thumbs/42-6c-88cc3254-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Sale Sport/42-6c.jpg"
   },
   {
@@ -5371,8 +5371,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/42-6g-f046de4e.jpg",
-    "thumb": "assets/optimized/thumbs/42-6g-f046de4e.jpg",
+    "image": "assets/optimized/full/42-6g-f046de4e-transparent.png",
+    "thumb": "assets/optimized/thumbs/42-6g-f046de4e-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Sale Sport/42-6g.jpg"
   },
   {
@@ -5383,8 +5383,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/42-7a-856247b4.jpg",
-    "thumb": "assets/optimized/thumbs/42-7a-856247b4.jpg",
+    "image": "assets/optimized/full/42-7a-856247b4-transparent.png",
+    "thumb": "assets/optimized/thumbs/42-7a-856247b4-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Sale Ceramic/42-7a.jpg"
   },
   {
@@ -5395,8 +5395,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/42-7c-bd842989.jpg",
-    "thumb": "assets/optimized/thumbs/42-7c-bd842989.jpg",
+    "image": "assets/optimized/full/42-7c-bd842989-transparent.png",
+    "thumb": "assets/optimized/thumbs/42-7c-bd842989-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Sale Ceramic/42-7c.jpg"
   },
   {
@@ -5407,8 +5407,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/42-7d-ce118e5a.jpg",
-    "thumb": "assets/optimized/thumbs/42-7d-ce118e5a.jpg",
+    "image": "assets/optimized/full/42-7d-ce118e5a-transparent.png",
+    "thumb": "assets/optimized/thumbs/42-7d-ce118e5a-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Sale Ceramic/42-7d.jpg"
   },
   {
@@ -5419,8 +5419,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/42-7f-63e6b727.jpg",
-    "thumb": "assets/optimized/thumbs/42-7f-63e6b727.jpg",
+    "image": "assets/optimized/full/42-7f-63e6b727-transparent.png",
+    "thumb": "assets/optimized/thumbs/42-7f-63e6b727-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Sale Ceramic/42-7f.jpg"
   },
   {
@@ -5431,8 +5431,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/42-7g-c948446b.jpg",
-    "thumb": "assets/optimized/thumbs/42-7g-c948446b.jpg",
+    "image": "assets/optimized/full/42-7g-c948446b-transparent.png",
+    "thumb": "assets/optimized/thumbs/42-7g-c948446b-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Sale Ceramic/42-7g.jpg"
   },
   {
@@ -5443,8 +5443,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/42-7m-92dc230f.jpg",
-    "thumb": "assets/optimized/thumbs/42-7m-92dc230f.jpg",
+    "image": "assets/optimized/full/42-7m-92dc230f-transparent.png",
+    "thumb": "assets/optimized/thumbs/42-7m-92dc230f-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Sale Ceramic/42-7m.jpg"
   },
   {
@@ -5455,8 +5455,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/42-8a-f29fcdc1.jpg",
-    "thumb": "assets/optimized/thumbs/42-8a-f29fcdc1.jpg",
+    "image": "assets/optimized/full/42-8a-f29fcdc1-transparent.png",
+    "thumb": "assets/optimized/thumbs/42-8a-f29fcdc1-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Sale Ceramic/42-8a.jpg"
   },
   {
@@ -5467,8 +5467,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/42-8b-256c811e.jpg",
-    "thumb": "assets/optimized/thumbs/42-8b-256c811e.jpg",
+    "image": "assets/optimized/full/42-8b-256c811e-transparent.png",
+    "thumb": "assets/optimized/thumbs/42-8b-256c811e-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Sale Ceramic/42-8b.jpg"
   },
   {
@@ -5479,8 +5479,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/42-8c-0fa22b94.jpg",
-    "thumb": "assets/optimized/thumbs/42-8c-0fa22b94.jpg",
+    "image": "assets/optimized/full/42-8c-0fa22b94-transparent.png",
+    "thumb": "assets/optimized/thumbs/42-8c-0fa22b94-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Sale Ceramic/42-8c.jpg"
   },
   {
@@ -5491,8 +5491,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/42-8d-3cba4127.jpg",
-    "thumb": "assets/optimized/thumbs/42-8d-3cba4127.jpg",
+    "image": "assets/optimized/full/42-8d-3cba4127-transparent.png",
+    "thumb": "assets/optimized/thumbs/42-8d-3cba4127-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Sale Ceramic/42-8d.jpg"
   },
   {
@@ -5503,8 +5503,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/42-8e-61fc2bcd.jpg",
-    "thumb": "assets/optimized/thumbs/42-8e-61fc2bcd.jpg",
+    "image": "assets/optimized/full/42-8e-61fc2bcd-transparent.png",
+    "thumb": "assets/optimized/thumbs/42-8e-61fc2bcd-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Sale Ceramic/42-8e.jpg"
   },
   {
@@ -5515,8 +5515,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/42-8f-02ff64db.jpg",
-    "thumb": "assets/optimized/thumbs/42-8f-02ff64db.jpg",
+    "image": "assets/optimized/full/42-8f-02ff64db-transparent.png",
+    "thumb": "assets/optimized/thumbs/42-8f-02ff64db-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Sale Ceramic/42-8f.jpg"
   },
   {
@@ -5527,8 +5527,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/n-206c-fe67cc6d.jpg",
-    "thumb": "assets/optimized/thumbs/n-206c-fe67cc6d.jpg",
+    "image": "assets/optimized/full/n-206c-fe67cc6d-transparent.png",
+    "thumb": "assets/optimized/thumbs/n-206c-fe67cc6d-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Automatic/N-206C.jpg"
   },
   {
@@ -5539,8 +5539,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/n-207za-09ffc75b.jpg",
-    "thumb": "assets/optimized/thumbs/n-207za-09ffc75b.jpg",
+    "image": "assets/optimized/full/n-207za-09ffc75b-transparent.png",
+    "thumb": "assets/optimized/thumbs/n-207za-09ffc75b-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Automatic/N-207ZA.jpg"
   },
   {
@@ -5551,8 +5551,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/n-207zc-523f68ba.jpg",
-    "thumb": "assets/optimized/thumbs/n-207zc-523f68ba.jpg",
+    "image": "assets/optimized/full/n-207zc-523f68ba-transparent.png",
+    "thumb": "assets/optimized/thumbs/n-207zc-523f68ba-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Automatic/N-207ZC.jpg"
   },
   {
@@ -5563,8 +5563,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/n-209zb-b92a0055.jpg",
-    "thumb": "assets/optimized/thumbs/n-209zb-b92a0055.jpg",
+    "image": "assets/optimized/full/n-209zb-b92a0055-transparent.png",
+    "thumb": "assets/optimized/thumbs/n-209zb-b92a0055-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Retro/n-209zb.jpg"
   },
   {
@@ -5575,8 +5575,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/n-209zg-e78b9130.jpg",
-    "thumb": "assets/optimized/thumbs/n-209zg-e78b9130.jpg",
+    "image": "assets/optimized/full/n-209zg-e78b9130-transparent.png",
+    "thumb": "assets/optimized/thumbs/n-209zg-e78b9130-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Retro/n-209zg.jpg"
   },
   {
@@ -5587,8 +5587,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/n-209zh-2cbf706d.jpg",
-    "thumb": "assets/optimized/thumbs/n-209zh-2cbf706d.jpg",
+    "image": "assets/optimized/full/n-209zh-2cbf706d-transparent.png",
+    "thumb": "assets/optimized/thumbs/n-209zh-2cbf706d-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Retro/n-209zh.jpg"
   },
   {
@@ -5599,8 +5599,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/n-212b-0abb934e.jpg",
-    "thumb": "assets/optimized/thumbs/n-212b-0abb934e.jpg",
+    "image": "assets/optimized/full/n-212b-0abb934e-transparent.png",
+    "thumb": "assets/optimized/thumbs/n-212b-0abb934e-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Automatic/N-212B.jpg"
   },
   {
@@ -5611,8 +5611,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/n-212c-00d4bdc5.jpg",
-    "thumb": "assets/optimized/thumbs/n-212c-00d4bdc5.jpg",
+    "image": "assets/optimized/full/n-212c-00d4bdc5-transparent.png",
+    "thumb": "assets/optimized/thumbs/n-212c-00d4bdc5-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Automatic/n-212c.jpg"
   },
   {
@@ -5623,8 +5623,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/n-213a-da5f898b.jpg",
-    "thumb": "assets/optimized/thumbs/n-213a-da5f898b.jpg",
+    "image": "assets/optimized/full/n-213a-da5f898b-transparent.png",
+    "thumb": "assets/optimized/thumbs/n-213a-da5f898b-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Retro/n-213a.jpg"
   },
   {
@@ -5635,8 +5635,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/n-214f-6e1440f0.jpg",
-    "thumb": "assets/optimized/thumbs/n-214f-6e1440f0.jpg",
+    "image": "assets/optimized/full/n-214f-6e1440f0-transparent.png",
+    "thumb": "assets/optimized/thumbs/n-214f-6e1440f0-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Retro/n-214f.jpg"
   },
   {
@@ -5647,8 +5647,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/n-215a-ebe90112.jpg",
-    "thumb": "assets/optimized/thumbs/n-215a-ebe90112.jpg",
+    "image": "assets/optimized/full/n-215a-ebe90112-transparent.png",
+    "thumb": "assets/optimized/thumbs/n-215a-ebe90112-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Retro/n-215a.jpg"
   },
   {
@@ -5659,8 +5659,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/n209ze-f488dd31.jpg",
-    "thumb": "assets/optimized/thumbs/n209ze-f488dd31.jpg",
+    "image": "assets/optimized/full/n209ze-f488dd31-transparent.png",
+    "thumb": "assets/optimized/thumbs/n209ze-f488dd31-transparent.png",
     "source": "kleine Bilder/Jaques Lemans/Retro/n209ze.jpg"
   }
 ];
