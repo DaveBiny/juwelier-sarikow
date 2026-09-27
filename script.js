@@ -97,6 +97,7 @@ const catalogState = {
   brand: "all",
   openCategory: "auto"
 };
+const watchBrandOrder = ["Frederique Constant", "Citizen", "Zeppelin", "Boss", "G-Shock", "Edifice", "Tommy Hilfiger", "Jack Lemens", "Casio"];
 
 function normalizeFilter(value) {
   return String(value || "").trim().toLowerCase();
@@ -208,7 +209,9 @@ function renderBrandGroups(grid, category, items) {
     acc[product.brand].push(product);
     return acc;
   }, {});
-  const brands = Object.keys(grouped).sort((a, b) => grouped[b].length - grouped[a].length || a.localeCompare(b, "de"));
+  const brands = category === "Uhren"
+    ? watchBrandOrder.filter((brand) => grouped[brand])
+    : Object.keys(grouped).sort((a, b) => grouped[b].length - grouped[a].length || a.localeCompare(b, "de"));
 
   grid.innerHTML = brands
     .map((brand) => {
@@ -295,7 +298,10 @@ function renderCatalogFilters() {
   const brandsForCategory = (category) => {
     const brandCategory = category === "all" ? "all" : category;
     const brandBase = products.filter((product) => brandCategory === "all" || product.category === brandCategory);
-    const brands = [...new Set(brandBase.map((product) => product.brand))].sort((a, b) => a.localeCompare(b, "de"));
+    const productBrands = [...new Set(brandBase.map((product) => product.brand))].sort((a, b) => a.localeCompare(b, "de"));
+    const brands = brandCategory === "Uhren"
+      ? [...watchBrandOrder, ...productBrands.filter((brand) => !watchBrandOrder.includes(brand))]
+      : productBrands;
     return {
       brandBase,
       brands: brands.slice(0, 24),
