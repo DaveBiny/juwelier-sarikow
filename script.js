@@ -243,6 +243,25 @@ function renderBrandGroups(grid, category, items) {
     .join("");
 }
 
+function renderSelectedBrandGroup(grid, category, items) {
+  const brand = catalogState.brand;
+  grid.innerHTML = `
+    <section class="brand-product-section selected-brand-section">
+      <div class="brand-product-head">
+        <div>
+          <p>${category === "all" ? "Marke" : category}</p>
+          <h3>${brand}</h3>
+          <span>${items.length} Produkte</span>
+        </div>
+        <button class="button ghost" type="button" data-filter-brand="all">Alle Marken</button>
+      </div>
+      <div class="product-grid brand-product-grid">
+        ${items.map(productCard).join("")}
+      </div>
+    </section>
+  `;
+}
+
 function renderProducts() {
   document.querySelectorAll("[data-product-grid]").forEach((grid) => {
     const category = grid.dataset.category || "all";
@@ -251,16 +270,20 @@ function renderProducts() {
     const shown = visibleCount[key] || defaultLimit;
     const allItems = filteredProducts(category);
     const items = allItems.slice(0, shown);
-    const groupedMode = grid.dataset.groupByBrand === "true" && catalogState.brand === "all" && !searchInput?.value.trim();
+    const catalogGrid = grid.dataset.groupByBrand === "true";
+    const groupedMode = catalogGrid && catalogState.brand === "all" && !searchInput?.value.trim();
+    const selectedBrandMode = catalogGrid && catalogState.brand !== "all" && !searchInput?.value.trim();
     if (groupedMode) {
       renderBrandGroups(grid, activeCategoryForGrid(category), allItems);
+    } else if (selectedBrandMode) {
+      renderSelectedBrandGroup(grid, activeCategoryForGrid(category), items);
     } else {
       grid.innerHTML = items.map(productCard).join("");
     }
     if (!items.length) grid.innerHTML = `<p>Keine Produkte gefunden.</p>`;
     const existingButton = grid.nextElementSibling?.matches?.("[data-load-more]") ? grid.nextElementSibling : null;
     if (existingButton) existingButton.remove();
-    if (!groupedMode && allItems.length > shown) {
+    if (!groupedMode && !selectedBrandMode && allItems.length > shown) {
       const button = document.createElement("button");
       button.className = "button ghost load-more";
       button.type = "button";

@@ -481,11 +481,17 @@ textarea {
   min-width: 0;
 }
 
+.product-card > a {
+  display: block;
+  background: var(--cream);
+}
+
 .product-card img {
+  display: block;
   width: 100%;
   aspect-ratio: 1 / 1.12;
   object-fit: contain;
-  padding: 14px;
+  padding: 18px;
   background: var(--cream);
 }
 
@@ -1117,13 +1123,16 @@ output {
 
 .product-detail-image {
   background: var(--cream);
+  overflow: hidden;
 }
 
 .product-detail-image img {
+  display: block;
   width: 100%;
   aspect-ratio: 1 / 1.05;
   object-fit: contain;
   padding: 24px;
+  background: var(--cream);
 }
 
 .product-detail-copy {
