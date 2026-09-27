@@ -3211,8 +3211,8 @@ window.sarikowImportedProducts = [
     "price": 4595,
     "description": "Worldtimer Manufacture von Frederique Constant, Referenz FC-718WM4H6. Verfuegbar auf Anfrage bei Juwelier Sarikow in Wien.",
     "specs": "Marke: Frederique Constant\nReferenz: FC-718WM4H6\nAutomatik-Manufakturkaliber FC-718\n42 mm Edelstahlgehaeuse\nWeltzeitfunktion\nWasserdichtheit: 5 ATM\nVerfuegbarkeit: auf Anfrage",
-    "image": "assets/optimized/full/fc-718wm4h6-f0b35c18.jpg",
-    "thumb": "assets/optimized/thumbs/fc-718wm4h6-f0b35c18.jpg",
+    "image": "assets/optimized/full/fc-718wm4h6-f0b35c18-transparent.png",
+    "thumb": "assets/optimized/thumbs/fc-718wm4h6-f0b35c18-transparent.png",
     "source": "kleine Bilder/Frederique Constant/FC-718WM4H6.jpg"
   },
   {
@@ -3223,8 +3223,8 @@ window.sarikowImportedProducts = [
     "price": 2595,
     "description": "Ladies Automatic von Frederique Constant, Referenz FC-303LGD3BD6. Verfuegbar auf Anfrage bei Juwelier Sarikow in Wien.",
     "specs": "Marke: Frederique Constant\nReferenz: FC-303LGD3BD6\nAutomatikwerk FC-303\n36 mm Edelstahlgehaeuse\nDiamantbesatz\nWasserdichtheit: 5 ATM\nVerfuegbarkeit: auf Anfrage",
-    "image": "assets/optimized/full/fc-303lgd3bd6-5d6763f3.jpg",
-    "thumb": "assets/optimized/thumbs/fc-303lgd3bd6-5d6763f3.jpg",
+    "image": "assets/optimized/full/fc-303lgd3bd6-5d6763f3-transparent.png",
+    "thumb": "assets/optimized/thumbs/fc-303lgd3bd6-5d6763f3-transparent.png",
     "source": "kleine Bilder/Frederique Constant/FC-303LGD3BD6.jpg"
   },
   {
@@ -3235,8 +3235,8 @@ window.sarikowImportedProducts = [
     "price": 3990,
     "description": "Double Heart Beat Automatic von Frederique Constant, Referenz FC-310BDHB2PD6. Verfuegbar auf Anfrage bei Juwelier Sarikow in Wien.",
     "specs": "Marke: Frederique Constant\nReferenz: FC-310BDHB2PD6\nAutomatikwerk FC-310\nDouble-Heart-Beat Anzeige\nDiamantbesatz\nWasserdichtheit: 3 ATM\nVerfuegbarkeit: auf Anfrage",
-    "image": "assets/optimized/full/fc-310bdhb2pd6-90e8f26a.jpg",
-    "thumb": "assets/optimized/thumbs/fc-310bdhb2pd6-90e8f26a.jpg",
+    "image": "assets/optimized/full/fc-310bdhb2pd6-90e8f26a-transparent.png",
+    "thumb": "assets/optimized/thumbs/fc-310bdhb2pd6-90e8f26a-transparent.png",
     "source": "kleine Bilder/Frederique Constant/FC-310BDHB2PD6.jpg"
   },
   {
@@ -3271,8 +3271,8 @@ window.sarikowImportedProducts = [
     "price": 995,
     "description": "Classics Index Automatic von Frederique Constant, Referenz FC-303SN5B6. Verfuegbar auf Anfrage bei Juwelier Sarikow in Wien.",
     "specs": "Marke: Frederique Constant\nReferenz: FC-303SN5B6\nAutomatikwerk FC-303\n40 mm Edelstahlgehaeuse\nSilberfarbenes Zifferblatt\nLederband\nVerfuegbarkeit: auf Anfrage",
-    "image": "assets/optimized/full/fc-303sn5b6-fbb7a3ad.jpg",
-    "thumb": "assets/optimized/thumbs/fc-303sn5b6-fbb7a3ad.jpg",
+    "image": "assets/optimized/full/fc-303sn5b6-fbb7a3ad-transparent.png",
+    "thumb": "assets/optimized/thumbs/fc-303sn5b6-fbb7a3ad-transparent.png",
     "source": "kleine Bilder/Frederique Constant/FC-303SN5B6.jpg"
   },
   {
@@ -3283,8 +3283,8 @@ window.sarikowImportedProducts = [
     "price": 1395,
     "description": "Classics Index Automatic von Frederique Constant, Referenz FC-303V5B4. Verfuegbar auf Anfrage bei Juwelier Sarikow in Wien.",
     "specs": "Marke: Frederique Constant\nReferenz: FC-303V5B4\nAutomatikwerk FC-303\n40 mm Gehaeuse rosegoldfarben\nSilberfarbenes Zifferblatt\nLederband\nVerfuegbarkeit: auf Anfrage",
-    "image": "assets/optimized/full/fc-303v5b4-14f77584.jpg",
-    "thumb": "assets/optimized/thumbs/fc-303v5b4-14f77584.jpg",
+    "image": "assets/optimized/full/fc-303v5b4-14f77584-transparent.png",
+    "thumb": "assets/optimized/thumbs/fc-303v5b4-14f77584-transparent.png",
     "source": "kleine Bilder/Frederique Constant/FC-303V5B4.jpg"
   },
   {
@@ -3295,8 +3295,8 @@ window.sarikowImportedProducts = [
     "price": 1995,
     "description": "Runabout Chronograph Automatic von Frederique Constant, Referenz FC-335MC4P6. Verfuegbar auf Anfrage bei Juwelier Sarikow in Wien.",
     "specs": "Marke: Frederique Constant\nReferenz: FC-335MC4P6\nAutomatik-Chronograph\nEdelstahlgehaeuse\nGuillochiertes Zifferblatt\nLederband\nVerfuegbarkeit: auf Anfrage",
-    "image": "assets/optimized/full/fc-335mc4p6-06983096.jpg",
-    "thumb": "assets/optimized/thumbs/fc-335mc4p6-06983096.jpg",
+    "image": "assets/optimized/full/fc-335mc4p6-06983096-transparent.png",
+    "thumb": "assets/optimized/thumbs/fc-335mc4p6-06983096-transparent.png",
     "source": "kleine Bilder/Frederique Constant/FC-335MC4P6.jpg"
   },
   {
@@ -3307,8 +3307,8 @@ window.sarikowImportedProducts = [
     "price": 2795,
     "description": "Slimline Moonphase Manufacture von Frederique Constant, Referenz FC-705GR4S6. Verfuegbar auf Anfrage bei Juwelier Sarikow in Wien.",
     "specs": "Marke: Frederique Constant\nReferenz: FC-705GR4S6\nManufakturkaliber FC-705\nMondphasenanzeige\nDatum\nLederband\nVerfuegbarkeit: auf Anfrage",
-    "image": "assets/optimized/full/fc-705gr4s6-03778624.jpg",
-    "thumb": "assets/optimized/thumbs/fc-705gr4s6-03778624.jpg",
+    "image": "assets/optimized/full/fc-705gr4s6-03778624-transparent.png",
+    "thumb": "assets/optimized/thumbs/fc-705gr4s6-03778624-transparent.png",
     "source": "kleine Bilder/Frederique Constant/FC-705GR4S6.jpg"
   },
   {
@@ -3343,8 +3343,8 @@ window.sarikowImportedProducts = [
     "price": 1695,
     "description": "Maxime Manufacture Automatic von Frederique Constant, Referenz FC-306MR4S4. Verfuegbar auf Anfrage bei Juwelier Sarikow in Wien.",
     "specs": "Marke: Frederique Constant\nReferenz: FC-306MR4S4\nAutomatikwerk FC-306\nEdelstahlgehaeuse\nKlassische Anzeige\nLederband\nVerfuegbarkeit: auf Anfrage",
-    "image": "assets/optimized/full/fc-306mr4s4-1feec881.jpg",
-    "thumb": "assets/optimized/thumbs/fc-306mr4s4-1feec881.jpg",
+    "image": "assets/optimized/full/fc-306mr4s4-1feec881-transparent.png",
+    "thumb": "assets/optimized/thumbs/fc-306mr4s4-1feec881-transparent.png",
     "source": "kleine Bilder/Frederique Constant/FC-306MR4S4.jpg"
   },
   {
@@ -3367,8 +3367,8 @@ window.sarikowImportedProducts = [
     "price": 995,
     "description": "Slimline Ladies Moonphase von Frederique Constant, Referenz FC-206MPWD1S6. Verfuegbar auf Anfrage bei Juwelier Sarikow in Wien.",
     "specs": "Marke: Frederique Constant\nReferenz: FC-206MPWD1S6\nQuarzwerk FC-206\nPerlmutt-Zifferblatt\nMondphasenanzeige\nLederband\nVerfuegbarkeit: auf Anfrage",
-    "image": "assets/optimized/full/fc-206mpwd1s6-bd1a28fb.jpg",
-    "thumb": "assets/optimized/thumbs/fc-206mpwd1s6-bd1a28fb.jpg",
+    "image": "assets/optimized/full/fc-206mpwd1s6-bd1a28fb-transparent.png",
+    "thumb": "assets/optimized/thumbs/fc-206mpwd1s6-bd1a28fb-transparent.png",
     "source": "kleine Bilder/Frederique Constant/FC-206MPWD1S6.jpg"
   },
   {
@@ -3379,8 +3379,8 @@ window.sarikowImportedProducts = [
     "price": 875,
     "description": "Classics Slimline Quartz von Frederique Constant, Referenz FC-200V1S34. Verfuegbar auf Anfrage bei Juwelier Sarikow in Wien.",
     "specs": "Marke: Frederique Constant\nReferenz: FC-200V1S34\nQuarzwerk\nKlassisches Edelstahlgehaeuse\nSilberfarbenes Zifferblatt\nLederband\nVerfuegbarkeit: auf Anfrage",
-    "image": "assets/optimized/full/fc-200v1s34-ae58ee45.jpg",
-    "thumb": "assets/optimized/thumbs/fc-200v1s34-ae58ee45.jpg",
+    "image": "assets/optimized/full/fc-200v1s34-ae58ee45-transparent.png",
+    "thumb": "assets/optimized/thumbs/fc-200v1s34-ae58ee45-transparent.png",
     "source": "kleine Bilder/Frederique Constant/FC-200V1S34.jpg"
   },
   {
@@ -3403,8 +3403,8 @@ window.sarikowImportedProducts = [
     "price": 780,
     "description": "Classics Quartz von Frederique Constant, Referenz FC-259ST5B5. Verfuegbar auf Anfrage bei Juwelier Sarikow in Wien.",
     "specs": "Marke: Frederique Constant\nReferenz: FC-259ST5B5\nQuarzwerk FC-259\nEdelstahlgehaeuse\nKlassisches Zifferblatt\nLederband\nVerfuegbarkeit: auf Anfrage",
-    "image": "assets/optimized/full/fc-259st5b5-84abf8a1.jpg",
-    "thumb": "assets/optimized/thumbs/fc-259st5b5-84abf8a1.jpg",
+    "image": "assets/optimized/full/fc-259st5b5-84abf8a1-transparent.png",
+    "thumb": "assets/optimized/thumbs/fc-259st5b5-84abf8a1-transparent.png",
     "source": "kleine Bilder/Frederique Constant/FC-259ST5B5.jpg"
   },
   {
