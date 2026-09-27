@@ -286,49 +286,60 @@ function countsFor(values, key, category = "all") {
 function renderCatalogFilters() {
   const target = document.querySelector("[data-catalog-filters]");
   if (!target) return;
-  const currentPageCategory = pageCategory();
   const selectedCategory = activeCategory();
   const categories = ["all", "Schmuck", "Uhren", "Anlässe"];
   const categoryCounts = countsFor(categories.filter((category) => category !== "all"), "category");
   categoryCounts.all = products.length;
-  const brandCategory = selectedCategory === "all" ? "all" : selectedCategory;
-  const brandBase = products.filter((product) => brandCategory === "all" || product.category === brandCategory);
-  const brands = [...new Set(brandBase.map((product) => product.brand))].sort((a, b) => a.localeCompare(b, "de"));
-  const visibleBrands = brands.slice(0, 18);
-  const brandCounts = countsFor(visibleBrands, "brand", brandCategory);
+  const brandsForCategory = (category) => {
+    const brandCategory = category === "all" ? "all" : category;
+    const brandBase = products.filter((product) => brandCategory === "all" || product.category === brandCategory);
+    const brands = [...new Set(brandBase.map((product) => product.brand))].sort((a, b) => a.localeCompare(b, "de"));
+    return {
+      brandBase,
+      brands: brands.slice(0, 24),
+      brandCounts: countsFor(brands.slice(0, 24), "brand", brandCategory)
+    };
+  };
 
   target.innerHTML = `
     <div class="filter-block">
       <h3>Kategorien</h3>
       <div class="filter-list">
         ${categories
-          .map(
-            (category) => `
-              <button class="${selectedCategory === category ? "active" : ""}" type="button" data-filter-category="${category}">
-                <span>${category === "all" ? "Alle" : category}</span>
-                <small>${categoryCounts[category] || 0}</small>
-              </button>
-            `
-          )
-          .join("")}
-      </div>
-    </div>
-    <div class="filter-block">
-      <h3>Marken</h3>
-      <div class="filter-list">
-        <button class="${catalogState.brand === "all" ? "active" : ""}" type="button" data-filter-brand="all">
-          <span>Alle Marken</span>
-          <small>${brandBase.length}</small>
-        </button>
-        ${visibleBrands
-          .map(
-            (brand) => `
-              <button class="${normalizeFilter(catalogState.brand) === normalizeFilter(brand) ? "active" : ""}" type="button" data-filter-brand="${encodeURIComponent(brand)}">
-                <span>${brand}</span>
-                <small>${brandCounts[brand] || 0}</small>
-              </button>
-            `
-          )
+          .map((category) => {
+            const isActive = selectedCategory === category;
+            const brandData = isActive ? brandsForCategory(category) : null;
+            return `
+              <div class="filter-category-group">
+                <button class="${isActive ? "active" : ""}" type="button" data-filter-category="${category}">
+                  <span>${category === "all" ? "Alle" : category}</span>
+                  <small>${categoryCounts[category] || 0}</small>
+                </button>
+                ${
+                  isActive && brandData
+                    ? `
+                      <div class="filter-sublist">
+                        <button class="${catalogState.brand === "all" ? "active" : ""}" type="button" data-filter-brand="all">
+                          <span>Alle Marken</span>
+                          <small>${brandData.brandBase.length}</small>
+                        </button>
+                        ${brandData.brands
+                          .map(
+                            (brand) => `
+                              <button class="${normalizeFilter(catalogState.brand) === normalizeFilter(brand) ? "active" : ""}" type="button" data-filter-brand="${encodeURIComponent(brand)}">
+                                <span>${brand}</span>
+                                <small>${brandData.brandCounts[brand] || 0}</small>
+                              </button>
+                            `
+                          )
+                          .join("")}
+                      </div>
+                    `
+                    : ""
+                }
+              </div>
+            `;
+          })
           .join("")}
       </div>
     </div>

@@ -101,7 +101,8 @@ textarea {
   width: 230px;
   height: 58px;
   object-fit: contain;
-  background: var(--white);
+  background: transparent;
+  mix-blend-mode: multiply;
 }
 
 .brand-text {
@@ -345,9 +346,14 @@ textarea {
 .catalog-sidebar {
   position: sticky;
   top: 118px;
+  max-height: calc(100vh - 136px);
+  overflow-y: auto;
+  overscroll-behavior: contain;
   border: 1px solid var(--line);
   background: rgba(255, 255, 255, 0.76);
   padding: 18px;
+  scrollbar-width: thin;
+  scrollbar-color: var(--warm) transparent;
 }
 
 .filter-block + .filter-block {
@@ -364,6 +370,10 @@ textarea {
 .filter-list {
   display: grid;
   gap: 5px;
+}
+
+.filter-category-group {
+  display: grid;
 }
 
 .filter-list button {
@@ -389,6 +399,24 @@ textarea {
 .filter-list small {
   color: var(--warm-dark);
   font-size: 11px;
+}
+
+.filter-sublist {
+  display: grid;
+  gap: 2px;
+  margin: 4px 0 10px 12px;
+  padding-left: 12px;
+  border-left: 1px solid var(--line);
+}
+
+.filter-sublist button {
+  padding: 6px 0;
+  font-size: 13px;
+}
+
+.filter-sublist button.active {
+  color: var(--warm-dark);
+  font-weight: 700;
 }
 
 .catalog-results .product-grid {
