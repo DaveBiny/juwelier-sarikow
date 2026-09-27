@@ -3696,54 +3696,6 @@ window.sarikowImportedProducts = [
     "source": "kleine Bilder/Casio/wva-m650td-1aer.jpg"
   },
   {
-    "id": "dz1437-bf352731",
-    "name": "DZ1437",
-    "brand": "Diesel",
-    "category": "Uhren",
-    "price": 0,
-    "description": "Diesel Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
-    "specs": "Marke: Diesel\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/dz1437-bf352731.jpg",
-    "thumb": "assets/optimized/thumbs/dz1437-bf352731.jpg",
-    "source": "kleine Bilder/Diesel/DZ1437.jpg"
-  },
-  {
-    "id": "dz1844-233d5bf3",
-    "name": "DZ1844",
-    "brand": "Diesel",
-    "category": "Uhren",
-    "price": 0,
-    "description": "Diesel Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
-    "specs": "Marke: Diesel\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/dz1844-233d5bf3.jpg",
-    "thumb": "assets/optimized/thumbs/dz1844-233d5bf3.jpg",
-    "source": "kleine Bilder/Diesel/DZ1844.jpg"
-  },
-  {
-    "id": "dz4341-c5edaf4b",
-    "name": "DZ4341",
-    "brand": "Diesel",
-    "category": "Uhren",
-    "price": 0,
-    "description": "Diesel Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
-    "specs": "Marke: Diesel\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/dz4341-c5edaf4b.jpg",
-    "thumb": "assets/optimized/thumbs/dz4341-c5edaf4b.jpg",
-    "source": "kleine Bilder/Diesel/DZ4341.jpg"
-  },
-  {
-    "id": "dz4342-e329ba0a",
-    "name": "DZ4342",
-    "brand": "Diesel",
-    "category": "Uhren",
-    "price": 0,
-    "description": "Diesel Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
-    "specs": "Marke: Diesel\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/dz4342-e329ba0a.jpg",
-    "thumb": "assets/optimized/thumbs/dz4342-e329ba0a.jpg",
-    "source": "kleine Bilder/Diesel/DZ4342.jpg"
-  },
-  {
     "id": "ecw-m300edb-1aer-de4c4168",
     "name": "ECW M300EDB 1AER",
     "brand": "Edifice",
@@ -3972,18 +3924,6 @@ window.sarikowImportedProducts = [
     "source": "kleine Bilder/Edifice/EVF-570P-1AVUEF.jpg"
   },
   {
-    "id": "ar2514-ec5ab904",
-    "name": "AR2514",
-    "brand": "Emporio Armani",
-    "category": "Uhren",
-    "price": 0,
-    "description": "Emporio Armani Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
-    "specs": "Marke: Emporio Armani\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/ar2514-ec5ab904.jpg",
-    "thumb": "assets/optimized/thumbs/ar2514-ec5ab904.jpg",
-    "source": "kleine Bilder/Emporio Armani/AR2514.jpg"
-  },
-  {
     "id": "fc-200s1s36b3-88970a24",
     "name": "FC 200S1S36B3",
     "brand": "Frederique Constant",
@@ -3997,12 +3937,12 @@ window.sarikowImportedProducts = [
   },
   {
     "id": "fc-200v1s34-ae58ee45",
-    "name": "FC 200V1S34",
+    "name": "Classics Slimline Quartz FC-200V1S34",
     "brand": "Frederique Constant",
     "category": "Uhren",
-    "price": 0,
-    "description": "Frederique Constant Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
-    "specs": "Marke: Frederique Constant\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
+    "price": 875,
+    "description": "Classics Slimline Quartz von Frederique Constant, Referenz FC-200V1S34. Verfuegbar auf Anfrage bei Juwelier Sarikow in Wien.",
+    "specs": "Marke: Frederique Constant\nReferenz: FC-200V1S34\nQuarzwerk\nKlassisches Edelstahlgehaeuse\nSilberfarbenes Zifferblatt\nLederband\nVerfuegbarkeit: auf Anfrage",
     "image": "assets/optimized/full/fc-200v1s34-ae58ee45.jpg",
     "thumb": "assets/optimized/thumbs/fc-200v1s34-ae58ee45.jpg",
     "source": "kleine Bilder/Frederique Constant/FC-200V1S34.jpg"
@@ -4021,12 +3961,12 @@ window.sarikowImportedProducts = [
   },
   {
     "id": "fc-206mpwd1s6-bd1a28fb",
-    "name": "FC 206MPWD1S6",
+    "name": "Slimline Ladies Moonphase FC-206MPWD1S6",
     "brand": "Frederique Constant",
     "category": "Uhren",
-    "price": 0,
-    "description": "Frederique Constant Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
-    "specs": "Marke: Frederique Constant\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
+    "price": 995,
+    "description": "Slimline Ladies Moonphase von Frederique Constant, Referenz FC-206MPWD1S6. Verfuegbar auf Anfrage bei Juwelier Sarikow in Wien.",
+    "specs": "Marke: Frederique Constant\nReferenz: FC-206MPWD1S6\nQuarzwerk FC-206\nPerlmutt-Zifferblatt\nMondphasenanzeige\nLederband\nVerfuegbarkeit: auf Anfrage",
     "image": "assets/optimized/full/fc-206mpwd1s6-bd1a28fb.jpg",
     "thumb": "assets/optimized/thumbs/fc-206mpwd1s6-bd1a28fb.jpg",
     "source": "kleine Bilder/Frederique Constant/FC-206MPWD1S6.jpg"
@@ -4069,12 +4009,12 @@ window.sarikowImportedProducts = [
   },
   {
     "id": "fc-259st5b5-84abf8a1",
-    "name": "FC 259ST5B5",
+    "name": "Classics Quartz FC-259ST5B5",
     "brand": "Frederique Constant",
     "category": "Uhren",
-    "price": 0,
-    "description": "Frederique Constant Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
-    "specs": "Marke: Frederique Constant\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
+    "price": 780,
+    "description": "Classics Quartz von Frederique Constant, Referenz FC-259ST5B5. Verfuegbar auf Anfrage bei Juwelier Sarikow in Wien.",
+    "specs": "Marke: Frederique Constant\nReferenz: FC-259ST5B5\nQuarzwerk FC-259\nEdelstahlgehaeuse\nKlassisches Zifferblatt\nLederband\nVerfuegbarkeit: auf Anfrage",
     "image": "assets/optimized/full/fc-259st5b5-84abf8a1.jpg",
     "thumb": "assets/optimized/thumbs/fc-259st5b5-84abf8a1.jpg",
     "source": "kleine Bilder/Frederique Constant/FC-259ST5B5.jpg"
@@ -4117,12 +4057,12 @@ window.sarikowImportedProducts = [
   },
   {
     "id": "fc-303lgd3bd6-5d6763f3",
-    "name": "FC 303LGD3BD6",
+    "name": "Ladies Automatic FC-303LGD3BD6",
     "brand": "Frederique Constant",
     "category": "Uhren",
-    "price": 0,
-    "description": "Frederique Constant Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
-    "specs": "Marke: Frederique Constant\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
+    "price": 2595,
+    "description": "Ladies Automatic von Frederique Constant, Referenz FC-303LGD3BD6. Verfuegbar auf Anfrage bei Juwelier Sarikow in Wien.",
+    "specs": "Marke: Frederique Constant\nReferenz: FC-303LGD3BD6\nAutomatikwerk FC-303\n36 mm Edelstahlgehaeuse\nDiamantbesatz\nWasserdichtheit: 5 ATM\nVerfuegbarkeit: auf Anfrage",
     "image": "assets/optimized/full/fc-303lgd3bd6-5d6763f3.jpg",
     "thumb": "assets/optimized/thumbs/fc-303lgd3bd6-5d6763f3.jpg",
     "source": "kleine Bilder/Frederique Constant/FC-303LGD3BD6.jpg"
@@ -4141,60 +4081,60 @@ window.sarikowImportedProducts = [
   },
   {
     "id": "fc-303sn5b6-fbb7a3ad",
-    "name": "FC 303SN5B6",
+    "name": "Classics Index Automatic FC-303SN5B6",
     "brand": "Frederique Constant",
     "category": "Uhren",
-    "price": 0,
-    "description": "Frederique Constant Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
-    "specs": "Marke: Frederique Constant\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
+    "price": 995,
+    "description": "Classics Index Automatic von Frederique Constant, Referenz FC-303SN5B6. Verfuegbar auf Anfrage bei Juwelier Sarikow in Wien.",
+    "specs": "Marke: Frederique Constant\nReferenz: FC-303SN5B6\nAutomatikwerk FC-303\n40 mm Edelstahlgehaeuse\nSilberfarbenes Zifferblatt\nLederband\nVerfuegbarkeit: auf Anfrage",
     "image": "assets/optimized/full/fc-303sn5b6-fbb7a3ad.jpg",
     "thumb": "assets/optimized/thumbs/fc-303sn5b6-fbb7a3ad.jpg",
     "source": "kleine Bilder/Frederique Constant/FC-303SN5B6.jpg"
   },
   {
     "id": "fc-303v5b4-14f77584",
-    "name": "FC 303V5B4",
+    "name": "Classics Index Automatic FC-303V5B4",
     "brand": "Frederique Constant",
     "category": "Uhren",
-    "price": 0,
-    "description": "Frederique Constant Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
-    "specs": "Marke: Frederique Constant\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
+    "price": 1395,
+    "description": "Classics Index Automatic von Frederique Constant, Referenz FC-303V5B4. Verfuegbar auf Anfrage bei Juwelier Sarikow in Wien.",
+    "specs": "Marke: Frederique Constant\nReferenz: FC-303V5B4\nAutomatikwerk FC-303\n40 mm Gehaeuse roségoldfarben\nSilberfarbenes Zifferblatt\nLederband\nVerfuegbarkeit: auf Anfrage",
     "image": "assets/optimized/full/fc-303v5b4-14f77584.jpg",
     "thumb": "assets/optimized/thumbs/fc-303v5b4-14f77584.jpg",
     "source": "kleine Bilder/Frederique Constant/FC-303V5B4.jpg"
   },
   {
     "id": "fc-306mr4s4-1feec881",
-    "name": "FC 306MR4S4",
+    "name": "Maxime Manufacture Automatic FC-306MR4S4",
     "brand": "Frederique Constant",
     "category": "Uhren",
-    "price": 0,
-    "description": "Frederique Constant Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
-    "specs": "Marke: Frederique Constant\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
+    "price": 1695,
+    "description": "Maxime Manufacture Automatic von Frederique Constant, Referenz FC-306MR4S4. Verfuegbar auf Anfrage bei Juwelier Sarikow in Wien.",
+    "specs": "Marke: Frederique Constant\nReferenz: FC-306MR4S4\nAutomatikwerk FC-306\nEdelstahlgehaeuse\nKlassische Anzeige\nLederband\nVerfuegbarkeit: auf Anfrage",
     "image": "assets/optimized/full/fc-306mr4s4-1feec881.jpg",
     "thumb": "assets/optimized/thumbs/fc-306mr4s4-1feec881.jpg",
     "source": "kleine Bilder/Frederique Constant/FC-306MR4S4.jpg"
   },
   {
     "id": "fc-310bdhb2pd6-90e8f26a",
-    "name": "FC 310BDHB2PD6",
+    "name": "Double Heart Beat Automatic FC-310BDHB2PD6",
     "brand": "Frederique Constant",
     "category": "Uhren",
-    "price": 0,
-    "description": "Frederique Constant Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
-    "specs": "Marke: Frederique Constant\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
+    "price": 3990,
+    "description": "Double Heart Beat Automatic von Frederique Constant, Referenz FC-310BDHB2PD6. Verfuegbar auf Anfrage bei Juwelier Sarikow in Wien.",
+    "specs": "Marke: Frederique Constant\nReferenz: FC-310BDHB2PD6\nAutomatikwerk FC-310\nDouble-Heart-Beat Anzeige\nDiamantbesatz\nWasserdichtheit: 3 ATM\nVerfuegbarkeit: auf Anfrage",
     "image": "assets/optimized/full/fc-310bdhb2pd6-90e8f26a.jpg",
     "thumb": "assets/optimized/thumbs/fc-310bdhb2pd6-90e8f26a.jpg",
     "source": "kleine Bilder/Frederique Constant/FC-310BDHB2PD6.jpg"
   },
   {
     "id": "fc-335mc4p6-06983096",
-    "name": "FC 335MC4P6",
+    "name": "Runabout Chronograph Automatic FC-335MC4P6",
     "brand": "Frederique Constant",
     "category": "Uhren",
-    "price": 0,
-    "description": "Frederique Constant Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
-    "specs": "Marke: Frederique Constant\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
+    "price": 1995,
+    "description": "Runabout Chronograph Automatic von Frederique Constant, Referenz FC-335MC4P6. Verfuegbar auf Anfrage bei Juwelier Sarikow in Wien.",
+    "specs": "Marke: Frederique Constant\nReferenz: FC-335MC4P6\nAutomatik-Chronograph\nEdelstahlgehaeuse\nGuillochiertes Zifferblatt\nLederband\nVerfuegbarkeit: auf Anfrage",
     "image": "assets/optimized/full/fc-335mc4p6-06983096.jpg",
     "thumb": "assets/optimized/thumbs/fc-335mc4p6-06983096.jpg",
     "source": "kleine Bilder/Frederique Constant/FC-335MC4P6.jpg"
@@ -4213,24 +4153,24 @@ window.sarikowImportedProducts = [
   },
   {
     "id": "fc-705gr4s6-03778624",
-    "name": "FC 705GR4S6",
+    "name": "Slimline Moonphase Manufacture FC-705GR4S6",
     "brand": "Frederique Constant",
     "category": "Uhren",
-    "price": 0,
-    "description": "Frederique Constant Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
-    "specs": "Marke: Frederique Constant\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
+    "price": 2795,
+    "description": "Slimline Moonphase Manufacture von Frederique Constant, Referenz FC-705GR4S6. Verfuegbar auf Anfrage bei Juwelier Sarikow in Wien.",
+    "specs": "Marke: Frederique Constant\nReferenz: FC-705GR4S6\nManufakturkaliber FC-705\nMondphasenanzeige\nDatum\nLederband\nVerfuegbarkeit: auf Anfrage",
     "image": "assets/optimized/full/fc-705gr4s6-03778624.jpg",
     "thumb": "assets/optimized/thumbs/fc-705gr4s6-03778624.jpg",
     "source": "kleine Bilder/Frederique Constant/FC-705GR4S6.jpg"
   },
   {
     "id": "fc-718wm4h6-f0b35c18",
-    "name": "FC 718WM4H6",
+    "name": "Worldtimer Manufacture FC-718WM4H6",
     "brand": "Frederique Constant",
     "category": "Uhren",
-    "price": 0,
-    "description": "Frederique Constant Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
-    "specs": "Marke: Frederique Constant\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
+    "price": 4595,
+    "description": "Worldtimer Manufacture von Frederique Constant, Referenz FC-718WM4H6. Verfuegbar auf Anfrage bei Juwelier Sarikow in Wien.",
+    "specs": "Marke: Frederique Constant\nReferenz: FC-718WM4H6\nAutomatik-Manufakturkaliber FC-718\n42 mm Edelstahlgehaeuse\nWeltzeitfunktion\nWasserdichtheit: 5 ATM\nVerfuegbarkeit: auf Anfrage",
     "image": "assets/optimized/full/fc-718wm4h6-f0b35c18.jpg",
     "thumb": "assets/optimized/thumbs/fc-718wm4h6-f0b35c18.jpg",
     "source": "kleine Bilder/Frederique Constant/FC-718WM4H6.jpg"
@@ -4502,7 +4442,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1117-1an-6f88b9e2",
     "name": "Jaques Lemans Modell 1 1117.1an",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -4514,7 +4454,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1117-1dn-15587856",
     "name": "Jaques Lemans Modell 1 1117.1dn",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -4526,7 +4466,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1117-1en-6d10fa27",
     "name": "Jaques Lemans Modell 1 1117.1en",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -4538,7 +4478,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1117-1ln-7c9235b8",
     "name": "Jaques Lemans Modell 1 1117.1ln",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -4550,7 +4490,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1117-pn-5a8a147d",
     "name": "Jaques Lemans Modell 1 1117.pn",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -4562,7 +4502,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1540a-e7a59748",
     "name": "Jaques Lemans Modell 1 1540a",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -4574,7 +4514,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1540e-2d4361b3",
     "name": "Jaques Lemans Modell 1 1540e",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -4586,7 +4526,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1540h-b081e134",
     "name": "Jaques Lemans Modell 1 1540h",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -4598,7 +4538,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1542a-a1b351f8",
     "name": "Jaques Lemans Modell 1 1542a",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -4610,7 +4550,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1542c-96e5de0b",
     "name": "Jaques Lemans Modell 1 1542c",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -4622,7 +4562,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1542l-8493dbd0",
     "name": "Jaques Lemans Modell 1 1542l",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -4634,7 +4574,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1593-1f-7322c303",
     "name": "Jaques Lemans Modell 1 1593 1f",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -4646,7 +4586,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1645-1k-d713eb51",
     "name": "Jaques Lemans Modell 1 1645 1k",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -4658,7 +4598,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1648e-87bcd2f3",
     "name": "Jaques Lemans Modell 1 1648e",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -4670,7 +4610,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1651a-aabd968f",
     "name": "Jaques Lemans Modell 1 1651a",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -4682,7 +4622,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1799c-b863d14f",
     "name": "Jaques Lemans Modell 1 1799c",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -4694,7 +4634,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1799f-f18e3460",
     "name": "Jaques Lemans Modell 1 1799f",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -4706,7 +4646,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1799h-5bb3731e",
     "name": "Jaques Lemans Modell 1 1799h",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -4718,7 +4658,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1830a-5a7ac927",
     "name": "Jaques Lemans Modell 1 1830a",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -4730,7 +4670,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1830f-a5085a16",
     "name": "Jaques Lemans Modell 1 1830f",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -4742,7 +4682,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1844f-f7ac4ec1",
     "name": "Jaques Lemans Modell 1 1844f",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -4754,7 +4694,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1844h-a9030573",
     "name": "Jaques Lemans Modell 1 1844h",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -4766,7 +4706,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1844l-d53491bf",
     "name": "Jaques Lemans Modell 1 1844L",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -4778,7 +4718,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1844za-64f062eb",
     "name": "Jaques Lemans Modell 1 1844za",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -4790,7 +4730,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1846-1a-28c24f41",
     "name": "Jaques Lemans Modell 1 1846 1A",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -4802,7 +4742,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1846-1b-19b3b91b",
     "name": "Jaques Lemans Modell 1 1846 1B",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -4814,7 +4754,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1846-1d-0907534e",
     "name": "Jaques Lemans Modell 1 1846 1D",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -4826,7 +4766,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1846-1f-73cecf3f",
     "name": "Jaques Lemans Modell 1 1846 1F",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -4838,7 +4778,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1850b-c0d6c8e2",
     "name": "Jaques Lemans Modell 1 1850b",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -4850,7 +4790,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1852g-be100aa9",
     "name": "Jaques Lemans Modell 1 1852g",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -4862,7 +4802,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1852zb-1e34c15d",
     "name": "Jaques Lemans Modell 1 1852zb",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -4874,7 +4814,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1855a-0e2eba2a",
     "name": "Jaques Lemans Modell 1 1855a",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -4886,7 +4826,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1856b-37d82b40",
     "name": "Jaques Lemans Modell 1 1856b",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -4898,7 +4838,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1856e-8181d66a",
     "name": "Jaques Lemans Modell 1 1856e",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -4910,7 +4850,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1856h-6b6c8aa5",
     "name": "Jaques Lemans Modell 1 1856h",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -4922,7 +4862,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1857l-5ef95255",
     "name": "Jaques Lemans Modell 1 1857l",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -4934,7 +4874,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1900b-f0c70a94",
     "name": "Jaques Lemans Modell 1 1900b",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -4946,7 +4886,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1901b-60aeb49b",
     "name": "Jaques Lemans Modell 1 1901b",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -4958,7 +4898,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1901e-e6b6a1f3",
     "name": "Jaques Lemans Modell 1 1901e",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -4970,7 +4910,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1912a-a004db86",
     "name": "Jaques Lemans Modell 1 1912A",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -4982,7 +4922,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1912d-d6100ecd",
     "name": "Jaques Lemans Modell 1 1912D",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -4994,7 +4934,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1912f-79afa062",
     "name": "Jaques Lemans Modell 1 1912F",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5006,7 +4946,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1931a-7db01ec9",
     "name": "Jaques Lemans Modell 1 1931a",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5018,7 +4958,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1939a-139c4683",
     "name": "Jaques Lemans Modell 1 1939a",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5030,7 +4970,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1939b-3aad226b",
     "name": "Jaques Lemans Modell 1 1939b",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5042,7 +4982,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1939c-719decdb",
     "name": "Jaques Lemans Modell 1 1939c",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5054,7 +4994,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1939d-85c7d5ad",
     "name": "Jaques Lemans Modell 1 1939d",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5066,7 +5006,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1940a-c96bc068",
     "name": "Jaques Lemans Modell 1 1940a",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5078,7 +5018,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1940b-3dd7c3d9",
     "name": "Jaques Lemans Modell 1 1940b",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5090,7 +5030,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1940c-81cd9972",
     "name": "Jaques Lemans Modell 1 1940c",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5102,7 +5042,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1941c-a914c59d",
     "name": "Jaques Lemans Modell 1 1941c",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5114,7 +5054,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1999a-76372847",
     "name": "Jaques Lemans Modell 1 1999A",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5126,7 +5066,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1999b-4e490c21",
     "name": "Jaques Lemans Modell 1 1999B",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5138,7 +5078,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1999c-95257005",
     "name": "Jaques Lemans Modell 1 1999c",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5150,7 +5090,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1999d-c28e4b4b",
     "name": "Jaques Lemans Modell 1 1999d",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5162,7 +5102,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-1999g-5a968aeb",
     "name": "Jaques Lemans Modell 1 1999g",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5174,7 +5114,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-2002f-35e8ef3e",
     "name": "Jaques Lemans Modell 1 2002f",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5186,7 +5126,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-2002j-ee3f4d5b",
     "name": "Jaques Lemans Modell 1 2002j",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5198,7 +5138,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-2002l-109c4d09",
     "name": "Jaques Lemans Modell 1 2002l",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5210,7 +5150,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-2002n-c589e975",
     "name": "Jaques Lemans Modell 1 2002n",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5222,7 +5162,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-2003a-58e8d5e4",
     "name": "Jaques Lemans Modell 1 2003a",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5234,7 +5174,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-2003b-ceac63b3",
     "name": "Jaques Lemans Modell 1 2003b",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5246,7 +5186,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-2003c-1bfe9b75",
     "name": "Jaques Lemans Modell 1 2003c",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5258,7 +5198,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-2003d-1c18c92c",
     "name": "Jaques Lemans Modell 1 2003d",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5270,7 +5210,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-2003f-18c7ebeb",
     "name": "Jaques Lemans Modell 1 2003f",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5282,7 +5222,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-2003g-10235f2d",
     "name": "Jaques Lemans Modell 1 2003g",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5294,7 +5234,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-2003l-3ee8a544",
     "name": "Jaques Lemans Modell 1 2003l",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5306,7 +5246,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-2004c-c23d821c",
     "name": "Jaques Lemans Modell 1 2004c",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5318,7 +5258,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-2004h-94c3bf03",
     "name": "Jaques Lemans Modell 1 2004h",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5330,7 +5270,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-2065f-738cb8c2",
     "name": "Jaques Lemans Modell 1 2065f",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5342,7 +5282,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-2066b-4797d0af",
     "name": "Jaques Lemans Modell 1 2066b",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5354,7 +5294,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-2066f-1c492d25",
     "name": "Jaques Lemans Modell 1 2066f",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5366,7 +5306,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-2067a-4846d7cb",
     "name": "Jaques Lemans Modell 1 2067a",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5378,7 +5318,7 @@ window.sarikowImportedProducts = [
   {
     "id": "1-2067g-57cd076e",
     "name": "Jaques Lemans Modell 1 2067g",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5390,7 +5330,7 @@ window.sarikowImportedProducts = [
   {
     "id": "40-1d-6e538e8a",
     "name": "Jaques Lemans Modell 40 1d",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5402,7 +5342,7 @@ window.sarikowImportedProducts = [
   {
     "id": "42-6-1a-57eada3f",
     "name": "Jaques Lemans Modell 42 6.1a",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5414,7 +5354,7 @@ window.sarikowImportedProducts = [
   {
     "id": "42-6-1d-8cf22967",
     "name": "Jaques Lemans Modell 42 6.1d",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5426,7 +5366,7 @@ window.sarikowImportedProducts = [
   {
     "id": "42-6-1e-2caf0dbc",
     "name": "Jaques Lemans Modell 42 6.1e",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5438,7 +5378,7 @@ window.sarikowImportedProducts = [
   {
     "id": "42-6-1f-f2101176",
     "name": "Jaques Lemans Modell 42 6.1f",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5450,7 +5390,7 @@ window.sarikowImportedProducts = [
   {
     "id": "42-6-1h-d64de32c",
     "name": "Jaques Lemans Modell 42 6.1h",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5462,7 +5402,7 @@ window.sarikowImportedProducts = [
   {
     "id": "42-6b-fb9358b4",
     "name": "Jaques Lemans Modell 42 6b",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5474,7 +5414,7 @@ window.sarikowImportedProducts = [
   {
     "id": "42-6c-88cc3254",
     "name": "Jaques Lemans Modell 42 6c",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5486,7 +5426,7 @@ window.sarikowImportedProducts = [
   {
     "id": "42-6g-f046de4e",
     "name": "Jaques Lemans Modell 42 6g",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5498,7 +5438,7 @@ window.sarikowImportedProducts = [
   {
     "id": "42-7a-856247b4",
     "name": "Jaques Lemans Modell 42 7a",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5510,7 +5450,7 @@ window.sarikowImportedProducts = [
   {
     "id": "42-7c-bd842989",
     "name": "Jaques Lemans Modell 42 7c",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5522,7 +5462,7 @@ window.sarikowImportedProducts = [
   {
     "id": "42-7d-ce118e5a",
     "name": "Jaques Lemans Modell 42 7d",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5534,7 +5474,7 @@ window.sarikowImportedProducts = [
   {
     "id": "42-7f-63e6b727",
     "name": "Jaques Lemans Modell 42 7f",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5546,7 +5486,7 @@ window.sarikowImportedProducts = [
   {
     "id": "42-7g-c948446b",
     "name": "Jaques Lemans Modell 42 7g",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5558,7 +5498,7 @@ window.sarikowImportedProducts = [
   {
     "id": "42-7m-92dc230f",
     "name": "Jaques Lemans Modell 42 7m",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5570,7 +5510,7 @@ window.sarikowImportedProducts = [
   {
     "id": "42-8a-f29fcdc1",
     "name": "Jaques Lemans Modell 42 8a",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5582,7 +5522,7 @@ window.sarikowImportedProducts = [
   {
     "id": "42-8b-256c811e",
     "name": "Jaques Lemans Modell 42 8b",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5594,7 +5534,7 @@ window.sarikowImportedProducts = [
   {
     "id": "42-8c-0fa22b94",
     "name": "Jaques Lemans Modell 42 8c",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5606,7 +5546,7 @@ window.sarikowImportedProducts = [
   {
     "id": "42-8d-3cba4127",
     "name": "Jaques Lemans Modell 42 8d",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5618,7 +5558,7 @@ window.sarikowImportedProducts = [
   {
     "id": "42-8e-61fc2bcd",
     "name": "Jaques Lemans Modell 42 8e",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5630,7 +5570,7 @@ window.sarikowImportedProducts = [
   {
     "id": "42-8f-02ff64db",
     "name": "Jaques Lemans Modell 42 8f",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5642,7 +5582,7 @@ window.sarikowImportedProducts = [
   {
     "id": "n-206c-fe67cc6d",
     "name": "N 206C",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5654,7 +5594,7 @@ window.sarikowImportedProducts = [
   {
     "id": "n-207za-09ffc75b",
     "name": "N 207ZA",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5666,7 +5606,7 @@ window.sarikowImportedProducts = [
   {
     "id": "n-207zc-523f68ba",
     "name": "N 207ZC",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5678,7 +5618,7 @@ window.sarikowImportedProducts = [
   {
     "id": "n-209zb-b92a0055",
     "name": "n 209zb",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5690,7 +5630,7 @@ window.sarikowImportedProducts = [
   {
     "id": "n-209zg-e78b9130",
     "name": "n 209zg",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5702,7 +5642,7 @@ window.sarikowImportedProducts = [
   {
     "id": "n-209zh-2cbf706d",
     "name": "n 209zh",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5714,7 +5654,7 @@ window.sarikowImportedProducts = [
   {
     "id": "n-212b-0abb934e",
     "name": "N 212B",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5726,7 +5666,7 @@ window.sarikowImportedProducts = [
   {
     "id": "n-212c-00d4bdc5",
     "name": "n 212c",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5738,7 +5678,7 @@ window.sarikowImportedProducts = [
   {
     "id": "n-213a-da5f898b",
     "name": "n 213a",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5750,7 +5690,7 @@ window.sarikowImportedProducts = [
   {
     "id": "n-214f-6e1440f0",
     "name": "n 214f",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5762,7 +5702,7 @@ window.sarikowImportedProducts = [
   {
     "id": "n-215a-ebe90112",
     "name": "n 215a",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5774,7 +5714,7 @@ window.sarikowImportedProducts = [
   {
     "id": "n209ze-f488dd31",
     "name": "n209ze",
-    "brand": "Jaques Lemans",
+    "brand": "Jacques Lemans",
     "category": "Uhren",
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
@@ -5784,467 +5724,75 @@ window.sarikowImportedProducts = [
     "source": "kleine Bilder/Jaques Lemans/Retro/n209ze.jpg"
   },
   {
-    "id": "lc-06519-650-d6cbf2f2",
-    "name": "LC 06519.650",
-    "brand": "Lee Cooper",
+    "id": "fc303nn5b6b-a1441447",
+    "name": "Classics Index Automatic FC-303NN5B6B",
+    "brand": "Frederique Constant",
     "category": "Uhren",
-    "price": 0,
-    "description": "Lee Cooper Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
-    "specs": "Marke: Lee Cooper\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/lc-06519-650-d6cbf2f2.jpg",
-    "thumb": "assets/optimized/thumbs/lc-06519-650-d6cbf2f2.jpg",
-    "source": "kleine Bilder/Lee Cooper/LC 06519.650.jpg"
+    "price": 1095,
+    "description": "Classics Index Automatic von Frederique Constant, Referenz FC-303NN5B6B. Verfuegbar auf Anfrage bei Juwelier Sarikow in Wien.",
+    "specs": "Marke: Frederique Constant\nReferenz: FC-303NN5B6B\nAutomatikwerk FC-303\n40 mm Edelstahlgehaeuse\nBlaues Zifferblatt\nEdelstahlband\nVerfuegbarkeit: auf Anfrage",
+    "image": "assets/optimized/full/fc303nn5b6b-1b248377.png",
+    "thumb": "assets/optimized/thumbs/fc303nn5b6b-1b248377.png",
+    "source": "Sinan Saat / online Haendlerbild"
   },
   {
-    "id": "lc-06582-350-e92ea80a",
-    "name": "LC 06582.350",
-    "brand": "Lee Cooper",
+    "id": "fc303v4nh2b-092f8130",
+    "name": "Highlife Automatic COSC FC-303V4NH2B",
+    "brand": "Frederique Constant",
     "category": "Uhren",
-    "price": 0,
-    "description": "Lee Cooper Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
-    "specs": "Marke: Lee Cooper\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/lc-06582-350-e92ea80a.jpg",
-    "thumb": "assets/optimized/thumbs/lc-06582-350-e92ea80a.jpg",
-    "source": "kleine Bilder/Lee Cooper/LC 06582.350.jpg"
+    "price": 2395,
+    "description": "Highlife Automatic COSC von Frederique Constant, Referenz FC-303V4NH2B. Verfuegbar auf Anfrage bei Juwelier Sarikow in Wien.",
+    "specs": "Marke: Frederique Constant\nReferenz: FC-303V4NH2B\nAutomatikwerk FC-303\nCOSC-zertifiziert\n41 mm Highlife Gehaeuse\nZweifarbiges Edelstahlband\nVerfuegbarkeit: auf Anfrage",
+    "image": "assets/optimized/full/fc303v4nh2b-37cd41c8.png",
+    "thumb": "assets/optimized/thumbs/fc303v4nh2b-37cd41c8.png",
+    "source": "Jura Watches / online Haendlerbild"
   },
   {
-    "id": "lc-06653-390-2fde0432",
-    "name": "LC 06653 390",
-    "brand": "Lee Cooper",
+    "id": "fc303wgh5b6-6d9b8cb4",
+    "name": "Vintage Rally Healey Automatic FC-303WGH5B6",
+    "brand": "Frederique Constant",
     "category": "Uhren",
-    "price": 0,
-    "description": "Lee Cooper Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
-    "specs": "Marke: Lee Cooper\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/lc-06653-390-2fde0432.jpg",
-    "thumb": "assets/optimized/thumbs/lc-06653-390-2fde0432.jpg",
-    "source": "kleine Bilder/Lee Cooper/LC 06653 390.jpg"
+    "price": 1395,
+    "description": "Vintage Rally Healey Automatic von Frederique Constant, Referenz FC-303WGH5B6. Verfuegbar auf Anfrage bei Juwelier Sarikow in Wien.",
+    "specs": "Marke: Frederique Constant\nReferenz: FC-303WGH5B6\nAutomatikwerk FC-303\n40 mm Edelstahlgehaeuse\nVintage Rally Healey Edition\nLederband\nVerfuegbarkeit: auf Anfrage",
+    "image": "assets/optimized/full/fc303wgh5b6-a6681609.png",
+    "thumb": "assets/optimized/thumbs/fc303wgh5b6-a6681609.png",
+    "source": "Zegarek.net / online Haendlerbild"
   },
   {
-    "id": "lc-06653-950-9eb02bc3",
-    "name": "LC 06653.950",
-    "brand": "Lee Cooper",
+    "id": "fc200mpw2ar2b-950efc84",
+    "name": "Classics Art Deco Round FC-200MPW2AR2B",
+    "brand": "Frederique Constant",
     "category": "Uhren",
-    "price": 0,
-    "description": "Lee Cooper Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
-    "specs": "Marke: Lee Cooper\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/lc-06653-950-9eb02bc3.jpg",
-    "thumb": "assets/optimized/thumbs/lc-06653-950-9eb02bc3.jpg",
-    "source": "kleine Bilder/Lee Cooper/LC 06653.950.jpg"
+    "price": 1295,
+    "description": "Classics Art Deco Round von Frederique Constant, Referenz FC-200MPW2AR2B. Verfuegbar auf Anfrage bei Juwelier Sarikow in Wien.",
+    "specs": "Marke: Frederique Constant\nReferenz: FC-200MPW2AR2B\nQuarzwerk\n30 mm Gehaeuse\nPerlmutt-Zifferblatt\nZweifarbiges Edelstahlband\nVerfuegbarkeit: auf Anfrage",
+    "image": "assets/optimized/full/fc200mpw2ar2b-1fd068e0.png",
+    "thumb": "assets/optimized/thumbs/fc200mpw2ar2b-1fd068e0.png",
+    "source": "Ann-Louise Jewellers / online Haendlerbild"
   },
   {
-    "id": "lc-06707-350-b8806ece",
-    "name": "LC 06707.350",
-    "brand": "Lee Cooper",
+    "id": "fc303v4c4-cd81c8ef",
+    "name": "Classics Carree Automatic FC-303V4C4",
+    "brand": "Frederique Constant",
     "category": "Uhren",
-    "price": 0,
-    "description": "Lee Cooper Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
-    "specs": "Marke: Lee Cooper\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/lc-06707-350-b8806ece.jpg",
-    "thumb": "assets/optimized/thumbs/lc-06707-350-b8806ece.jpg",
-    "source": "kleine Bilder/Lee Cooper/LC 06707.350.jpg"
+    "price": 1395,
+    "description": "Classics Carree Automatic von Frederique Constant, Referenz FC-303V4C4. Verfuegbar auf Anfrage bei Juwelier Sarikow in Wien.",
+    "specs": "Marke: Frederique Constant\nReferenz: FC-303V4C4\nAutomatikwerk FC-303\nCarree Gehaeuse 33,3 x 30,4 mm\nRoségoldplattierung\nLederband\nVerfuegbarkeit: auf Anfrage",
+    "image": "assets/optimized/full/fc303v4c4-95c656b0.png",
+    "thumb": "assets/optimized/thumbs/fc303v4c4-95c656b0.png",
+    "source": "Frederique Constant Japan / Produktbild"
   },
   {
-    "id": "lc-06822-330-ed9e8085",
-    "name": "LC 06822.330",
-    "brand": "Lee Cooper",
+    "id": "fc292mc4p6-3eb56730",
+    "name": "Classics Quartz Chronograph FC-292MC4P6",
+    "brand": "Frederique Constant",
     "category": "Uhren",
-    "price": 0,
-    "description": "Lee Cooper Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
-    "specs": "Marke: Lee Cooper\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/lc-06822-330-ed9e8085.jpg",
-    "thumb": "assets/optimized/thumbs/lc-06822-330-ed9e8085.jpg",
-    "source": "kleine Bilder/Lee Cooper/LC 06822.330.jpg"
-  },
-  {
-    "id": "lc-06838-399-02efa9b6",
-    "name": "LC 06838.399",
-    "brand": "Lee Cooper",
-    "category": "Uhren",
-    "price": 0,
-    "description": "Lee Cooper Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
-    "specs": "Marke: Lee Cooper\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/lc-06838-399-02efa9b6.jpg",
-    "thumb": "assets/optimized/thumbs/lc-06838-399-02efa9b6.jpg",
-    "source": "kleine Bilder/Lee Cooper/LC 06838.399.jpg"
-  },
-  {
-    "id": "lc-06878-390-28548047",
-    "name": "LC 06878.390",
-    "brand": "Lee Cooper",
-    "category": "Uhren",
-    "price": 0,
-    "description": "Lee Cooper Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
-    "specs": "Marke: Lee Cooper\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/lc-06878-390-28548047.jpg",
-    "thumb": "assets/optimized/thumbs/lc-06878-390-28548047.jpg",
-    "source": "kleine Bilder/Lee Cooper/LC 06878.390.jpg"
-  },
-  {
-    "id": "lc06878-130-7b60fea8",
-    "name": "LC06878 130",
-    "brand": "Lee Cooper",
-    "category": "Uhren",
-    "price": 0,
-    "description": "Lee Cooper Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
-    "specs": "Marke: Lee Cooper\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/lc06878-130-7b60fea8.jpg",
-    "thumb": "assets/optimized/thumbs/lc06878-130-7b60fea8.jpg",
-    "source": "kleine Bilder/Lee Cooper/LC06878-130.jpg"
-  },
-  {
-    "id": "mk3312-6acb58ee",
-    "name": "MK3312",
-    "brand": "Michael Kors",
-    "category": "Uhren",
-    "price": 0,
-    "description": "Michael Kors Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
-    "specs": "Marke: Michael Kors\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/mk3312-6acb58ee.jpg",
-    "thumb": "assets/optimized/thumbs/mk3312-6acb58ee.jpg",
-    "source": "kleine Bilder/Michael Kors/MK3312.jpg"
-  },
-  {
-    "id": "mk3727-97099966",
-    "name": "MK3727",
-    "brand": "Michael Kors",
-    "category": "Uhren",
-    "price": 0,
-    "description": "Michael Kors Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
-    "specs": "Marke: Michael Kors\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/mk3727-97099966.jpg",
-    "thumb": "assets/optimized/thumbs/mk3727-97099966.jpg",
-    "source": "kleine Bilder/Michael Kors/MK3727.jpg"
-  },
-  {
-    "id": "mk4335-84ce423d",
-    "name": "MK4335",
-    "brand": "Michael Kors",
-    "category": "Uhren",
-    "price": 0,
-    "description": "Michael Kors Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
-    "specs": "Marke: Michael Kors\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/mk4335-84ce423d.jpg",
-    "thumb": "assets/optimized/thumbs/mk4335-84ce423d.jpg",
-    "source": "kleine Bilder/Michael Kors/MK4335.jpg"
-  },
-  {
-    "id": "mk6576-84e6d89c",
-    "name": "MK6576",
-    "brand": "Michael Kors",
-    "category": "Uhren",
-    "price": 0,
-    "description": "Michael Kors Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
-    "specs": "Marke: Michael Kors\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/mk6576-84e6d89c.jpg",
-    "thumb": "assets/optimized/thumbs/mk6576-84e6d89c.jpg",
-    "source": "kleine Bilder/Michael Kors/MK6576.jpg"
-  },
-  {
-    "id": "cof-17048-59gtl-f621ecbc",
-    "name": "COF.17048 59GTL",
-    "brand": "Michel Herbelin",
-    "category": "Uhren",
-    "price": 0,
-    "description": "Michel Herbelin Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
-    "specs": "Marke: Michel Herbelin\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/cof-17048-59gtl-f621ecbc.jpg",
-    "thumb": "assets/optimized/thumbs/cof-17048-59gtl-f621ecbc.jpg",
-    "source": "kleine Bilder/Michel Herbelin/COF.17048-59GTL.jpg"
-  },
-  {
-    "id": "cof-17447-bt08g-a9830bed",
-    "name": "COF.17447 BT08G",
-    "brand": "Michel Herbelin",
-    "category": "Uhren",
-    "price": 0,
-    "description": "Michel Herbelin Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
-    "specs": "Marke: Michel Herbelin\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/cof-17447-bt08g-a9830bed.jpg",
-    "thumb": "assets/optimized/thumbs/cof-17447-bt08g-a9830bed.jpg",
-    "source": "kleine Bilder/Michel Herbelin/COF.17447-BT08G.jpg"
-  },
-  {
-    "id": "12245-b12-392e7a01",
-    "name": "Michel Herbelin Modell 12245 B12",
-    "brand": "Michel Herbelin",
-    "category": "Uhren",
-    "price": 0,
-    "description": "Michel Herbelin Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
-    "specs": "Marke: Michel Herbelin\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/12245-b12-392e7a01.jpg",
-    "thumb": "assets/optimized/thumbs/12245-b12-392e7a01.jpg",
-    "source": "kleine Bilder/Michel Herbelin/12245 B12.jpg"
-  },
-  {
-    "id": "12245-b14-93ac8719",
-    "name": "Michel Herbelin Modell 12245 b14",
-    "brand": "Michel Herbelin",
-    "category": "Uhren",
-    "price": 0,
-    "description": "Michel Herbelin Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
-    "specs": "Marke: Michel Herbelin\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/12245-b14-93ac8719.jpg",
-    "thumb": "assets/optimized/thumbs/12245-b14-93ac8719.jpg",
-    "source": "kleine Bilder/Michel Herbelin/12245-b14.jpg"
-  },
-  {
-    "id": "12248-08-d126c512",
-    "name": "Michel Herbelin Modell 12248 08",
-    "brand": "Michel Herbelin",
-    "category": "Uhren",
-    "price": 0,
-    "description": "Michel Herbelin Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
-    "specs": "Marke: Michel Herbelin\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/12248-08-d126c512.jpg",
-    "thumb": "assets/optimized/thumbs/12248-08-d126c512.jpg",
-    "source": "kleine Bilder/Michel Herbelin/12248-08.jpg"
-  },
-  {
-    "id": "12248-p01-04d63f96",
-    "name": "Michel Herbelin Modell 12248 P01",
-    "brand": "Michel Herbelin",
-    "category": "Uhren",
-    "price": 0,
-    "description": "Michel Herbelin Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
-    "specs": "Marke: Michel Herbelin\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/12248-p01-04d63f96.jpg",
-    "thumb": "assets/optimized/thumbs/12248-p01-04d63f96.jpg",
-    "source": "kleine Bilder/Michel Herbelin/12248 P01.jpg"
-  },
-  {
-    "id": "12260-an15b-c1816713",
-    "name": "Michel Herbelin Modell 12260 AN15B",
-    "brand": "Michel Herbelin",
-    "category": "Uhren",
-    "price": 0,
-    "description": "Michel Herbelin Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
-    "specs": "Marke: Michel Herbelin\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/12260-an15b-c1816713.jpg",
-    "thumb": "assets/optimized/thumbs/12260-an15b-c1816713.jpg",
-    "source": "kleine Bilder/Michel Herbelin/12260-AN15B.jpg"
-  },
-  {
-    "id": "12443-s01-c2007398",
-    "name": "Michel Herbelin Modell 12443 S01",
-    "brand": "Michel Herbelin",
-    "category": "Uhren",
-    "price": 0,
-    "description": "Michel Herbelin Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
-    "specs": "Marke: Michel Herbelin\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/12443-s01-c2007398.jpg",
-    "thumb": "assets/optimized/thumbs/12443-s01-c2007398.jpg",
-    "source": "kleine Bilder/Michel Herbelin/12443 S01.jpg"
-  },
-  {
-    "id": "12747-pr11go-18cfa24b",
-    "name": "Michel Herbelin Modell 12747 PR11GO",
-    "brand": "Michel Herbelin",
-    "category": "Uhren",
-    "price": 0,
-    "description": "Michel Herbelin Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
-    "specs": "Marke: Michel Herbelin\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/12747-pr11go-18cfa24b.jpg",
-    "thumb": "assets/optimized/thumbs/12747-pr11go-18cfa24b.jpg",
-    "source": "kleine Bilder/Michel Herbelin/12747-PR11GO.jpg"
-  },
-  {
-    "id": "14245-btr12-d4a70a1e",
-    "name": "Michel Herbelin Modell 14245 BTR12",
-    "brand": "Michel Herbelin",
-    "category": "Uhren",
-    "price": 0,
-    "description": "Michel Herbelin Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
-    "specs": "Marke: Michel Herbelin\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/14245-btr12-d4a70a1e.jpg",
-    "thumb": "assets/optimized/thumbs/14245-btr12-d4a70a1e.jpg",
-    "source": "kleine Bilder/Michel Herbelin/14245 BTR12.jpg"
-  },
-  {
-    "id": "16845-p28go-7c8c25b6",
-    "name": "Michel Herbelin Modell 16845 P28GO",
-    "brand": "Michel Herbelin",
-    "category": "Uhren",
-    "price": 0,
-    "description": "Michel Herbelin Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
-    "specs": "Marke: Michel Herbelin\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/16845-p28go-7c8c25b6.jpg",
-    "thumb": "assets/optimized/thumbs/16845-p28go-7c8c25b6.jpg",
-    "source": "kleine Bilder/Michel Herbelin/16845 P28GO.jpg"
-  },
-  {
-    "id": "17048-01ng-b79a3075",
-    "name": "Michel Herbelin Modell 17048 01NG",
-    "brand": "Michel Herbelin",
-    "category": "Uhren",
-    "price": 0,
-    "description": "Michel Herbelin Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
-    "specs": "Marke: Michel Herbelin\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/17048-01ng-b79a3075.jpg",
-    "thumb": "assets/optimized/thumbs/17048-01ng-b79a3075.jpg",
-    "source": "kleine Bilder/Michel Herbelin/17048-01NG.jpg"
-  },
-  {
-    "id": "17137-19b-6291b4a1",
-    "name": "Michel Herbelin Modell 17137 19B",
-    "brand": "Michel Herbelin",
-    "category": "Uhren",
-    "price": 0,
-    "description": "Michel Herbelin Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
-    "specs": "Marke: Michel Herbelin\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/17137-19b-6291b4a1.jpg",
-    "thumb": "assets/optimized/thumbs/17137-19b-6291b4a1.jpg",
-    "source": "kleine Bilder/Michel Herbelin/17137 19B.jpg"
-  },
-  {
-    "id": "17317-pr19bla-0434fce8",
-    "name": "Michel Herbelin Modell 17317 PR19BLA",
-    "brand": "Michel Herbelin",
-    "category": "Uhren",
-    "price": 0,
-    "description": "Michel Herbelin Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
-    "specs": "Marke: Michel Herbelin\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/17317-pr19bla-0434fce8.jpg",
-    "thumb": "assets/optimized/thumbs/17317-pr19bla-0434fce8.jpg",
-    "source": "kleine Bilder/Michel Herbelin/17317 PR19BLA.jpg"
-  },
-  {
-    "id": "17447-b08lr-a28f1759",
-    "name": "Michel Herbelin Modell 17447 B08LR",
-    "brand": "Michel Herbelin",
-    "category": "Uhren",
-    "price": 0,
-    "description": "Michel Herbelin Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
-    "specs": "Marke: Michel Herbelin\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/17447-b08lr-a28f1759.jpg",
-    "thumb": "assets/optimized/thumbs/17447-b08lr-a28f1759.jpg",
-    "source": "kleine Bilder/Michel Herbelin/17447 B08LR.jpg"
-  },
-  {
-    "id": "17457-bt01-e9fc536c",
-    "name": "Michel Herbelin Modell 17457 BT01",
-    "brand": "Michel Herbelin",
-    "category": "Uhren",
-    "price": 0,
-    "description": "Michel Herbelin Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
-    "specs": "Marke: Michel Herbelin\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/17457-bt01-e9fc536c.jpg",
-    "thumb": "assets/optimized/thumbs/17457-bt01-e9fc536c.jpg",
-    "source": "kleine Bilder/Michel Herbelin/17457_BT01.jpg"
-  },
-  {
-    "id": "17487-b01a-289a9218",
-    "name": "Michel Herbelin Modell 17487 B01A",
-    "brand": "Michel Herbelin",
-    "category": "Uhren",
-    "price": 0,
-    "description": "Michel Herbelin Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
-    "specs": "Marke: Michel Herbelin\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/17487-b01a-289a9218.jpg",
-    "thumb": "assets/optimized/thumbs/17487-b01a-289a9218.jpg",
-    "source": "kleine Bilder/Michel Herbelin/17487_B01A.jpg"
-  },
-  {
-    "id": "17487-bp01-53812f45",
-    "name": "Michel Herbelin Modell 17487 BP01",
-    "brand": "Michel Herbelin",
-    "category": "Uhren",
-    "price": 0,
-    "description": "Michel Herbelin Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
-    "specs": "Marke: Michel Herbelin\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/17487-bp01-53812f45.jpg",
-    "thumb": "assets/optimized/thumbs/17487-bp01-53812f45.jpg",
-    "source": "kleine Bilder/Michel Herbelin/17487_BP01.jpg"
-  },
-  {
-    "id": "37645-b14-80e23054",
-    "name": "Michel Herbelin Modell 37645 B14",
-    "brand": "Michel Herbelin",
-    "category": "Uhren",
-    "price": 0,
-    "description": "Michel Herbelin Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
-    "specs": "Marke: Michel Herbelin\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/37645-b14-80e23054.jpg",
-    "thumb": "assets/optimized/thumbs/37645-b14-80e23054.jpg",
-    "source": "kleine Bilder/Michel Herbelin/37645 B14.jpg"
-  }
-];
-window.sarikowBusinessImages = [
-  {
-    "rel": "Mischa2.jpg",
-    "image": "assets/business/mischa2-fbb8628e.jpg",
-    "title": "Mischa2"
-  },
-  {
-    "rel": "Mischaüberuns1.jpg",
-    "image": "assets/business/mischauberuns1-484967b4.jpg",
-    "title": "Mischaüberuns1"
-  },
-  {
-    "rel": "Slide1.jpg",
-    "image": "assets/business/slide1-e4f2de32.jpg",
-    "title": "Slide1"
-  },
-  {
-    "rel": "SliderDiesel.jpg",
-    "image": "assets/business/sliderdiesel-078a95c0.jpg",
-    "title": "SliderDiesel"
-  }
-];
-window.sarikowLogoImages = [
-  {
-    "rel": "C&C Bilder/c&c logo Kopie.png",
-    "image": "assets/logos/c-und-c-logo-kopie-44dc6c3f.jpg"
-  },
-  {
-    "rel": "C&C Bilder/c&c logo.png",
-    "image": "assets/logos/c-und-c-logo-0c432fb0.jpg"
-  },
-  {
-    "rel": "C&C Bilder/logoweiß.jpg",
-    "image": "assets/logos/logowei-8391597f.jpg"
-  },
-  {
-    "rel": "C&C Bilder/logoweiß.png",
-    "image": "assets/logos/logowei-c79d1cf3.jpg"
-  },
-  {
-    "rel": "Coer de Lion Bilder/Coeur de Lion/Coeur de Lion Logo.jpg",
-    "image": "assets/logos/coeur-de-lion-logo-2ee23465.jpg"
-  },
-  {
-    "rel": "Coer de Lion Bilder/logo.jpg",
-    "image": "assets/logos/logo-b155b762.jpg"
-  },
-  {
-    "rel": "GuessSchmuck/guess-logo.webp",
-    "image": "assets/logos/guess-logo-f8219088.jpg"
-  },
-  {
-    "rel": "Logos/Gescäft Innen.jpg",
-    "image": "assets/logos/gescaft-innen-c2010a06.jpg"
-  },
-  {
-    "rel": "Logos/Icon.jpg",
-    "image": "assets/logos/icon-c9e43d5b.jpg"
-  },
-  {
-    "rel": "Logos/Logofooter.png",
-    "image": "assets/logos/logofooter-9ad1eae7.jpg"
-  },
-  {
-    "rel": "Logos/Logoheader.jpg",
-    "image": "assets/logos/logoheader-db62a08d.jpg"
-  },
-  {
-    "rel": "Logos/Ring.jpg",
-    "image": "assets/logos/ring-849d1282.jpg"
-  },
-  {
-    "rel": "Logos/Sarikowfooter.png",
-    "image": "assets/logos/sarikowfooter-89ae5a3a.jpg"
-  },
-  {
-    "rel": "Logos/überUns.jpg",
-    "image": "assets/logos/uberuns-199357e4.jpg"
+    "price": 895,
+    "description": "Classics Quartz Chronograph von Frederique Constant, Referenz FC-292MC4P6. Verfuegbar auf Anfrage bei Juwelier Sarikow in Wien.",
+    "specs": "Marke: Frederique Constant\nReferenz: FC-292MC4P6\nQuarz-Chronograph FC-292\n40 mm Edelstahlgehaeuse\nGuillochiertes Zifferblatt\nLederband\nVerfuegbarkeit: auf Anfrage",
+    "image": "assets/optimized/full/fc292mc4p6-aaa2db07.png",
+    "thumb": "assets/optimized/thumbs/fc292mc4p6-aaa2db07.png",
+    "source": "P & M Belanger / online Haendlerbild"
   }
 ];

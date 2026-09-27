@@ -34,8 +34,8 @@ const defaultProducts = [
   },
   {
     id: "chronograph-nova",
-    name: "Chronograph Nova",
-    brand: "Chrona",
+    name: "Classics Index Automatic",
+    brand: "Frederique Constant",
     category: "Uhren",
     price: 5750,
     description: "Mechanische Uhr mit klarem Zifferblatt, poliertem Gehaeuse und Lederband.",
@@ -67,8 +67,8 @@ const defaultProducts = [
   },
   {
     id: "automatik-orion",
-    name: "Automatik Orion",
-    brand: "Nordstern",
+    name: "G-Shock Analoguhr",
+    brand: "G-Shock",
     category: "Uhren",
     price: 6420,
     description: "Zeitmesser mit fein gearbeiteter Luenette und ruhiger Praesenz am Handgelenk.",
