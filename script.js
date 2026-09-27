@@ -94,7 +94,8 @@ const sessionKey = "juwelier-admin";
 const wishlistKey = "juwelier-wishlist";
 const visibleCount = {};
 const catalogState = {
-  brand: "all"
+  brand: "all",
+  openCategory: "auto"
 };
 
 function normalizeFilter(value) {
@@ -287,6 +288,7 @@ function renderCatalogFilters() {
   const target = document.querySelector("[data-catalog-filters]");
   if (!target) return;
   const selectedCategory = activeCategory();
+  const openCategory = catalogState.openCategory === "auto" ? selectedCategory : catalogState.openCategory;
   const categories = ["all", "Schmuck", "Uhren", "Anlässe"];
   const categoryCounts = countsFor(categories.filter((category) => category !== "all"), "category");
   categoryCounts.all = products.length;
@@ -308,15 +310,16 @@ function renderCatalogFilters() {
         ${categories
           .map((category) => {
             const isActive = selectedCategory === category;
-            const brandData = isActive ? brandsForCategory(category) : null;
+            const isOpen = openCategory === category;
+            const brandData = isOpen ? brandsForCategory(category) : null;
             return `
               <div class="filter-category-group">
-                <button class="${isActive ? "active" : ""}" type="button" data-filter-category="${category}">
+                <button class="${isActive ? "active" : ""}" type="button" data-filter-category="${category}" aria-expanded="${isOpen ? "true" : "false"}">
                   <span>${category === "all" ? "Alle" : category}</span>
                   <small>${categoryCounts[category] || 0}</small>
                 </button>
                 ${
-                  isActive && brandData
+                  isOpen && brandData
                     ? `
                       <div class="filter-sublist">
                         <button class="${catalogState.brand === "all" ? "active" : ""}" type="button" data-filter-brand="all">
@@ -606,7 +609,15 @@ function wireEvents() {
         window.location.href = targetPage;
         return;
       }
+      const currentCategory = activeCategory();
+      const currentOpenCategory = catalogState.openCategory === "auto" ? currentCategory : catalogState.openCategory;
+      if (filterCategory === currentCategory) {
+        catalogState.openCategory = currentOpenCategory === filterCategory ? "" : filterCategory;
+        renderCatalogFilters();
+        return;
+      }
       if (categoryFilter) categoryFilter.value = filterCategory;
+      catalogState.openCategory = filterCategory;
       catalogState.brand = "all";
       Object.keys(visibleCount).forEach((key) => delete visibleCount[key]);
       renderProducts();
