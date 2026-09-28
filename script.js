@@ -104,10 +104,23 @@ const adminState = {
   selected: new Set()
 };
 const watchBrandOrder = ["Frederique Constant", "Citizen", "Zeppelin", "Boss", "G-Shock", "Edifice", "Tommy Hilfiger", "Jack Lemens", "Casio"];
+const categoryBrandOptions = {
+  Schmuck: ["Sarikow Diamonds", "Linea Oro", "Valere", "Ruesch", "Aurielle", "C & C", "Guess"],
+  Uhren: watchBrandOrder,
+  Anlässe: ["Sarikow Diamonds", "Maison Lune", "Ruesch", "Valere", "Linea Oro"]
+};
 const removedWatchBrands = ["diesel", "armani", "emporio armani", "lee cooper", "michael kors", "michel herbelin"];
 
 function normalizeFilter(value) {
   return String(value || "").trim().toLowerCase();
+}
+
+function escapeAttribute(value) {
+  return String(value || "")
+    .replace(/&/g, "&amp;")
+    .replace(/"/g, "&quot;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;");
 }
 
 function canonicalWatchBrand(value) {
@@ -142,6 +155,16 @@ function adminFilteredProducts() {
     const haystack = normalizeFilter(`${product.name} ${product.brand} ${product.category} ${product.description}`);
     return inCategory && (!query || haystack.includes(query));
   });
+}
+
+function brandOptionsForCategory(category) {
+  const base = categoryBrandOptions[category] || [];
+  const existing = products
+    .filter((product) => product.category === category)
+    .map((product) => product.brand)
+    .filter(Boolean);
+  const merged = [...base, ...existing];
+  return [...new Map(merged.map((brand) => [normalizeFilter(brand), brand])).values()];
 }
 
 const productForm = document.querySelector("#productForm");
@@ -545,7 +568,42 @@ function showAdminState() {
   const isLoggedIn = localStorage.getItem(sessionKey) === "true";
   loginView.hidden = isLoggedIn;
   adminView.hidden = !isLoggedIn;
-  if (isLoggedIn) renderAdminProducts();
+  if (isLoggedIn) {
+    updateBrandSelect();
+    renderAdminProducts();
+  }
+}
+
+function updateBrandSelect(selectedBrand = "") {
+  if (!productForm?.elements.brand) return;
+  const category = normalizeCategoryName(productForm.elements.category?.value || "Schmuck", selectedBrand);
+  const select = productForm.elements.brand;
+  const options = brandOptionsForCategory(category);
+  const normalizedSelected = normalizeFilter(selectedBrand || select.value);
+  const matchingBrand = options.find((brand) => normalizeFilter(brand) === normalizedSelected);
+  select.innerHTML = [
+    `<option value="">Marke auswählen</option>`,
+    ...options.map((brand) => `<option value="${escapeAttribute(brand)}">${escapeAttribute(brand)}</option>`),
+    `<option value="__custom">Eigene Marke...</option>`
+  ].join("");
+  select.value = matchingBrand || (selectedBrand ? "__custom" : "");
+  syncCustomBrandField(matchingBrand ? "" : selectedBrand);
+}
+
+function syncCustomBrandField(customValue = "") {
+  if (!productForm?.elements.brand || !productForm.elements.customBrand) return;
+  const isCustom = productForm.elements.brand.value === "__custom";
+  productForm.elements.customBrand.hidden = !isCustom;
+  productForm.elements.customBrand.required = isCustom;
+  if (!isCustom) productForm.elements.customBrand.value = "";
+  else if (customValue) productForm.elements.customBrand.value = customValue;
+}
+
+function syncProductCategoryPicker() {
+  if (!productForm?.elements.category) return;
+  document.querySelectorAll("[data-product-category-choice]").forEach((item) => {
+    item.classList.toggle("active", item.dataset.productCategoryChoice === productForm.elements.category.value);
+  });
 }
 
 function imageFromFile(file) {
@@ -781,22 +839,27 @@ async function saveProduct(event) {
   const data = new FormData(productForm);
   const existingId = data.get("id");
   const current = products.find((product) => product.id === existingId);
+  const submittedBrand = data.get("brand") === "__custom" ? data.get("customBrand") : data.get("brand");
+  const category = normalizeCategoryName(data.get("category"), submittedBrand);
+  if (!String(submittedBrand || "").trim()) {
+    productMessage.textContent = "Bitte eine Marke auswählen.";
+    return;
+  }
   let uploadedImages = null;
   if (data.get("image")?.size) {
     productMessage.textContent = "Bild wird freigestellt und optimiert ...";
     try {
-      uploadedImages = await fileToProductImages(data.get("image"), normalizeCategoryName(data.get("category"), data.get("brand")));
+      uploadedImages = await fileToProductImages(data.get("image"), category);
     } catch (error) {
       productMessage.textContent = "Bild konnte nicht verarbeitet werden. Bitte ein JPG, PNG oder WebP verwenden.";
       return;
     }
   }
 
-  const category = normalizeCategoryName(data.get("category"), data.get("brand"));
   const product = {
     id: existingId || `p-${Date.now()}`,
     name: data.get("name").trim(),
-    brand: category === "Uhren" ? canonicalWatchBrand(data.get("brand")).trim() : data.get("brand").trim(),
+    brand: category === "Uhren" ? canonicalWatchBrand(submittedBrand).trim() : submittedBrand.trim(),
     category,
     price: Number(data.get("price")),
     description: data.get("description").trim(),
@@ -812,6 +875,8 @@ async function saveProduct(event) {
   writeJson(storageKey, products);
   productForm.reset();
   productForm.elements.id.value = "";
+  updateBrandSelect();
+  syncProductCategoryPicker();
   productMessage.textContent = "Produkt wurde gespeichert.";
   renderProducts();
   renderWishlist();
@@ -823,8 +888,8 @@ function editProduct(id) {
   if (!product || !productForm) return;
   productForm.elements.id.value = product.id;
   productForm.elements.name.value = product.name;
-  productForm.elements.brand.value = product.brand;
   productForm.elements.category.value = product.category;
+  updateBrandSelect(product.brand);
   productForm.elements.price.value = product.price;
   productForm.elements.description.value = product.description || "";
   if (productForm.elements.specs) productForm.elements.specs.value = product.specs || "";
@@ -1131,15 +1196,17 @@ function wireEvents() {
     const button = event.target.closest("[data-product-category-choice]");
     if (!button || !productForm?.elements.category) return;
     productForm.elements.category.value = button.dataset.productCategoryChoice;
-    document.querySelectorAll("[data-product-category-choice]").forEach((item) => {
-      item.classList.toggle("active", item === button);
-    });
+    updateBrandSelect();
+    syncProductCategoryPicker();
   });
 
   productForm?.elements.category?.addEventListener("change", (event) => {
-    document.querySelectorAll("[data-product-category-choice]").forEach((item) => {
-      item.classList.toggle("active", item.dataset.productCategoryChoice === event.target.value);
-    });
+    updateBrandSelect();
+    syncProductCategoryPicker();
+  });
+
+  productForm?.elements.brand?.addEventListener("change", () => {
+    syncCustomBrandField();
   });
 
   document.body.addEventListener("click", (event) => {

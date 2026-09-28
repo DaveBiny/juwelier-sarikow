@@ -8,7 +8,7 @@
       name="description"
       content="Eine elegante Juwelier-Webseite mit Produktpflege, Anfrageformular und hochwertiger Katalog-Struktur."
     >
-    <link rel="stylesheet" href="styles.css?v=20260928h">
+    <link rel="stylesheet" href="styles.css?v=20260928i">
   </head>
   <body>
     <header class="site-header">
@@ -317,7 +317,8 @@
             <div class="field-row">
               <label>
                 Marke
-                <input name="brand" required placeholder="z.B. Sarikow Diamonds">
+                <select name="brand" required data-brand-select></select>
+                <input name="customBrand" data-custom-brand hidden placeholder="Eigene Marke eintragen">
               </label>
               <label>
                 Kategorie
@@ -375,7 +376,7 @@
       </div>
     </dialog>
 
-    <script src="assets/generated/products-data.js?v=20260928h"></script>
-    <script src="script.js?v=20260928h"></script>
+    <script src="assets/generated/products-data.js?v=20260928i"></script>
+    <script src="script.js?v=20260928i"></script>
   </body>
 </html>
