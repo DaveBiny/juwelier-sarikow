@@ -899,12 +899,28 @@ textarea {
 
 .admin-product-row {
   display: grid;
-  grid-template-columns: 76px 1fr auto;
+  grid-template-columns: 28px 76px 1fr auto;
   gap: 14px;
   align-items: center;
   padding: 12px;
   background: var(--white);
   border: 1px solid var(--line);
+}
+
+.admin-product-row.selected {
+  border-color: var(--warm);
+  box-shadow: inset 3px 0 0 var(--warm);
+}
+
+.admin-select-product {
+  display: grid;
+  place-items: center;
+}
+
+.admin-select-product input {
+  width: 18px;
+  height: 18px;
+  accent-color: var(--charcoal);
 }
 
 .admin-product-row img {
@@ -926,14 +942,16 @@ textarea {
 }
 
 .admin-category-picker,
-.admin-category-tabs {
+.admin-category-tabs,
+.admin-bulk-actions {
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
 }
 
 .admin-category-picker button,
-.admin-category-tabs button {
+.admin-category-tabs button,
+.admin-bulk-actions button {
   border: 1px solid var(--line);
   background: var(--white);
   color: var(--muted);
@@ -950,6 +968,22 @@ textarea {
   color: var(--white);
   background: var(--charcoal);
   border-color: var(--charcoal);
+}
+
+.admin-bulk-actions button {
+  padding: 8px 10px;
+  font-size: 11px;
+}
+
+.admin-bulk-actions button.danger {
+  color: #8a2d1f;
+  border-color: #e3b9ae;
+}
+
+.admin-bulk-actions button.danger:hover {
+  color: var(--white);
+  background: #8a2d1f;
+  border-color: #8a2d1f;
 }
 
 .admin-list-head {

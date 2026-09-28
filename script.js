@@ -100,7 +100,8 @@ const catalogState = {
 };
 const adminState = {
   category: "custom",
-  query: ""
+  query: "",
+  selected: new Set()
 };
 const watchBrandOrder = ["Frederique Constant", "Citizen", "Zeppelin", "Boss", "G-Shock", "Edifice", "Tommy Hilfiger", "Jack Lemens", "Casio"];
 const removedWatchBrands = ["diesel", "armani", "emporio armani", "lee cooper", "michael kors", "michel herbelin"];
@@ -131,6 +132,16 @@ function normalizeProduct(product) {
 
 function isCustomProduct(product) {
   return String(product?.id || "").startsWith("p-");
+}
+
+function adminFilteredProducts() {
+  const query = normalizeFilter(adminState.query);
+  return products.filter((product) => {
+    const inCategory = adminState.category === "all"
+      || (adminState.category === "custom" ? isCustomProduct(product) : product.category === adminState.category);
+    const haystack = normalizeFilter(`${product.name} ${product.brand} ${product.category} ${product.description}`);
+    return inCategory && (!query || haystack.includes(query));
+  });
 }
 
 const productForm = document.querySelector("#productForm");
@@ -489,17 +500,18 @@ function renderProductDetail() {
 
 function renderAdminProducts() {
   if (!adminProducts) return;
-  const query = normalizeFilter(adminState.query);
-  const adminItems = products.filter((product) => {
-    const inCategory = adminState.category === "all"
-      || (adminState.category === "custom" ? isCustomProduct(product) : product.category === adminState.category);
-    const haystack = normalizeFilter(`${product.name} ${product.brand} ${product.category} ${product.description}`);
-    return inCategory && (!query || haystack.includes(query));
+  const adminItems = adminFilteredProducts();
+  const visibleIds = new Set(adminItems.map((product) => product.id));
+  adminState.selected.forEach((id) => {
+    if (!products.some((product) => product.id === id)) adminState.selected.delete(id);
   });
   adminProducts.innerHTML = adminItems
     .map(
       (product) => `
-        <article class="admin-product-row">
+        <article class="admin-product-row ${adminState.selected.has(product.id) ? "selected" : ""}">
+          <label class="admin-select-product" aria-label="${product.name} auswählen">
+            <input type="checkbox" data-admin-select-product="${product.id}" ${adminState.selected.has(product.id) ? "checked" : ""}>
+          </label>
           <img src="${product.image}" alt="${product.name}">
           <div>
             <strong>${product.name}</strong><br>
@@ -518,6 +530,8 @@ function renderAdminProducts() {
   });
   const count = document.querySelector("[data-admin-result-count]");
   if (count) count.textContent = `${adminItems.length} Produkte`;
+  const selectedCount = document.querySelector("[data-admin-selected-count]");
+  if (selectedCount) selectedCount.textContent = `${[...adminState.selected].filter((id) => visibleIds.has(id)).length} ausgewählt`;
 }
 
 function updateWishlistCounter() {
@@ -821,6 +835,7 @@ function editProduct(id) {
 function deleteProduct(id) {
   products = products.filter((product) => product.id !== id);
   wishlist = wishlist.filter((productId) => productId !== id);
+  adminState.selected.delete(id);
   writeJson(storageKey, products);
   writeJson(wishlistKey, wishlist);
   renderProducts();
@@ -1040,16 +1055,62 @@ function wireEvents() {
     if (deleteId) deleteProduct(deleteId);
   });
 
+  adminProducts?.addEventListener("change", (event) => {
+    const checkbox = event.target.closest("[data-admin-select-product]");
+    if (!checkbox) return;
+    if (checkbox.checked) adminState.selected.add(checkbox.dataset.adminSelectProduct);
+    else adminState.selected.delete(checkbox.dataset.adminSelectProduct);
+    renderAdminProducts();
+  });
+
   document.querySelector("[data-admin-category-tabs]")?.addEventListener("click", (event) => {
     const button = event.target.closest("[data-admin-category]");
     if (!button) return;
     adminState.category = button.dataset.adminCategory;
+    adminState.selected.clear();
     renderAdminProducts();
   });
 
   document.querySelector("#adminProductSearch")?.addEventListener("input", (event) => {
     adminState.query = event.target.value;
+    adminState.selected.clear();
     renderAdminProducts();
+  });
+
+  document.querySelector("[data-admin-select-visible]")?.addEventListener("click", () => {
+    adminFilteredProducts().forEach((product) => adminState.selected.add(product.id));
+    renderAdminProducts();
+  });
+
+  document.querySelector("[data-admin-clear-selection]")?.addEventListener("click", () => {
+    adminState.selected.clear();
+    renderAdminProducts();
+  });
+
+  document.querySelector("[data-admin-delete-selected]")?.addEventListener("click", () => {
+    const ids = [...adminState.selected].filter((id) => products.some((product) => product.id === id));
+    if (!ids.length) {
+      productMessage.textContent = "Keine Produkte ausgewählt.";
+      return;
+    }
+    const ok = window.confirm(`${ids.length} ausgewählte Produkte wirklich löschen?`);
+    if (!ok) return;
+    products = products.filter((product) => !ids.includes(product.id));
+    wishlist = wishlist.filter((productId) => !ids.includes(productId));
+    adminState.selected.clear();
+    writeJson(storageKey, products);
+    writeJson(wishlistKey, wishlist);
+    productMessage.textContent = `${ids.length} Produkte wurden gelöscht.`;
+    renderProducts();
+    renderWishlist();
+    renderAdminProducts();
+    updateWishlistCounter();
+  });
+
+  document.querySelector("[data-admin-scroll-top]")?.addEventListener("click", () => {
+    const scrollTarget = document.querySelector("#adminProducts");
+    scrollTarget?.scrollTo({ top: 0, behavior: "smooth" });
+    document.querySelector(".admin-list-head")?.scrollIntoView({ behavior: "smooth", block: "start" });
   });
 
   document.querySelector(".admin-category-picker")?.addEventListener("click", (event) => {

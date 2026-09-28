@@ -8,7 +8,7 @@
       name="description"
       content="Eine elegante Juwelier-Webseite mit Produktpflege, Anfrageformular und hochwertiger Katalog-Struktur."
     >
-    <link rel="stylesheet" href="styles.css?v=20260928e">
+    <link rel="stylesheet" href="styles.css?v=20260928f">
   </head>
   <body>
     <header class="site-header">
@@ -363,14 +363,20 @@
               <button type="button" data-admin-category="Anlässe">Anlässe</button>
               <button type="button" data-admin-category="all">Alle</button>
             </div>
-            <small data-admin-result-count>0 Produkte</small>
+            <div class="admin-bulk-actions">
+              <button type="button" data-admin-select-visible>Alle sichtbaren auswählen</button>
+              <button type="button" data-admin-clear-selection>Auswahl aufheben</button>
+              <button class="danger" type="button" data-admin-delete-selected>Ausgewählte löschen</button>
+              <button type="button" data-admin-scroll-top>↑ Nach oben</button>
+            </div>
+            <small><span data-admin-result-count>0 Produkte</span> · <span data-admin-selected-count>0 ausgewählt</span></small>
           </div>
           <div class="admin-products" id="adminProducts"></div>
         </section>
       </div>
     </dialog>
 
-    <script src="assets/generated/products-data.js?v=20260928e"></script>
-    <script src="script.js?v=20260928e"></script>
+    <script src="assets/generated/products-data.js?v=20260928f"></script>
+    <script src="script.js?v=20260928f"></script>
   </body>
 </html>
