@@ -508,6 +508,45 @@ function stripWhiteBackground(sourceCanvas) {
   const { width, height } = sourceCanvas;
   const imageData = context.getImageData(0, 0, width, height);
   const { data } = imageData;
+  const edgeSamples = [];
+  const sampleStep = Math.max(2, Math.floor(Math.min(width, height) / 34));
+  const addSample = (x, y) => {
+    const offset = (y * width + x) * 4;
+    const a = data[offset + 3];
+    if (a < 12) return;
+    edgeSamples.push([data[offset], data[offset + 1], data[offset + 2]]);
+  };
+  for (let x = 0; x < width; x += sampleStep) {
+    addSample(x, 0);
+    addSample(x, height - 1);
+  }
+  for (let y = 0; y < height; y += sampleStep) {
+    addSample(0, y);
+    addSample(width - 1, y);
+  }
+  const colorDistance = (r, g, b, color) => {
+    const dr = r - color[0];
+    const dg = g - color[1];
+    const db = b - color[2];
+    return Math.sqrt(dr * dr * 0.9 + dg * dg + db * db * 0.8);
+  };
+  const backgroundDistance = (r, g, b) => {
+    if (!edgeSamples.length) return 255;
+    let distance = 255;
+    for (const color of edgeSamples) {
+      distance = Math.min(distance, colorDistance(r, g, b, color));
+      if (distance < 16) break;
+    }
+    return distance;
+  };
+  const isLowDetailBackground = (index) => {
+    const offset = index * 4;
+    const r = data[offset];
+    const g = data[offset + 1];
+    const b = data[offset + 2];
+    const spread = Math.max(r, g, b) - Math.min(r, g, b);
+    return spread < 34 && Math.max(r, g, b) > 178;
+  };
   const seen = new Uint8Array(width * height);
   const queue = [];
   const isBackground = (index) => {
@@ -516,7 +555,11 @@ function stripWhiteBackground(sourceCanvas) {
     const g = data[offset + 1];
     const b = data[offset + 2];
     const a = data[offset + 3];
-    return a < 12 || (r > 222 && g > 222 && b > 222 && Math.max(r, g, b) - Math.min(r, g, b) < 52);
+    if (a < 12) return true;
+    const distance = backgroundDistance(r, g, b);
+    const spread = Math.max(r, g, b) - Math.min(r, g, b);
+    const lightNeutral = Math.max(r, g, b) > 210 && spread < 62;
+    return distance < 68 || lightNeutral || (isLowDetailBackground(index) && distance < 96);
   };
   const push = (x, y) => {
     if (x < 0 || y < 0 || x >= width || y >= height) return;
@@ -533,8 +576,8 @@ function stripWhiteBackground(sourceCanvas) {
     push(0, y);
     push(width - 1, y);
   }
-  while (queue.length) {
-    const index = queue.shift();
+  for (let cursor = 0; cursor < queue.length; cursor += 1) {
+    const index = queue[cursor];
     const x = index % width;
     const y = Math.floor(index / width);
     push(x + 1, y);
@@ -543,7 +586,16 @@ function stripWhiteBackground(sourceCanvas) {
     push(x, y - 1);
   }
   for (let index = 0; index < seen.length; index += 1) {
-    if (seen[index]) data[index * 4 + 3] = 0;
+    const offset = index * 4;
+    const r = data[offset];
+    const g = data[offset + 1];
+    const b = data[offset + 2];
+    const distance = backgroundDistance(r, g, b);
+    if (seen[index]) {
+      data[offset + 3] = distance < 48 || isLowDetailBackground(index) ? 0 : Math.min(data[offset + 3], Math.round((distance - 48) * 8));
+    } else if (distance < 22 && isLowDetailBackground(index)) {
+      data[offset + 3] = 0;
+    }
   }
   context.putImageData(imageData, 0, 0);
   return sourceCanvas;
@@ -614,7 +666,7 @@ async function saveProduct(event) {
   const current = products.find((product) => product.id === existingId);
   let uploadedImages = null;
   if (data.get("image")?.size) {
-    productMessage.textContent = "Bild wird optimiert ...";
+    productMessage.textContent = "Bild wird freigestellt und optimiert ...";
     try {
       uploadedImages = await fileToProductImages(data.get("image"));
     } catch (error) {
