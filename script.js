@@ -1019,6 +1019,20 @@ async function submitEmailForm(form, output, successText) {
 }
 
 function wireEvents() {
+  document.body.insertAdjacentHTML(
+    "beforeend",
+    `<button class="back-to-top" type="button" aria-label="Nach oben" data-page-scroll-top>↑</button>`
+  );
+  const pageScrollTop = document.querySelector("[data-page-scroll-top]");
+  const updatePageScrollTop = () => {
+    pageScrollTop?.classList.toggle("visible", window.scrollY > 520);
+  };
+  updatePageScrollTop();
+  window.addEventListener("scroll", updatePageScrollTop, { passive: true });
+  pageScrollTop?.addEventListener("click", () => {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  });
+
   document.querySelectorAll("[data-open-admin]").forEach((button) => {
     button.addEventListener("click", () => {
       showAdminState();
