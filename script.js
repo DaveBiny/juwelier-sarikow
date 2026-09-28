@@ -100,6 +100,7 @@ const catalogState = {
 };
 const adminState = {
   category: "custom",
+  brand: "all",
   query: "",
   selected: new Set()
 };
@@ -149,11 +150,13 @@ function isCustomProduct(product) {
 
 function adminFilteredProducts() {
   const query = normalizeFilter(adminState.query);
+  const selectedBrand = normalizeFilter(adminState.brand);
   return products.filter((product) => {
     const inCategory = adminState.category === "all"
       || (adminState.category === "custom" ? isCustomProduct(product) : product.category === adminState.category);
+    const inBrand = adminState.brand === "all" || normalizeFilter(product.brand) === selectedBrand;
     const haystack = normalizeFilter(`${product.name} ${product.brand} ${product.category} ${product.description}`);
-    return inCategory && (!query || haystack.includes(query));
+    return inCategory && inBrand && (!query || haystack.includes(query));
   });
 }
 
@@ -165,6 +168,16 @@ function brandOptionsForCategory(category) {
     .filter(Boolean);
   const merged = [...base, ...existing];
   return [...new Map(merged.map((brand) => [normalizeFilter(brand), brand])).values()];
+}
+
+function adminBrandOptions() {
+  const scope = products.filter((product) => {
+    if (adminState.category === "all") return true;
+    if (adminState.category === "custom") return isCustomProduct(product);
+    return product.category === adminState.category;
+  });
+  return [...new Map(scope.map((product) => product.brand).filter(Boolean).map((brand) => [normalizeFilter(brand), brand])).values()]
+    .sort((a, b) => a.localeCompare(b, "de"));
 }
 
 const productForm = document.querySelector("#productForm");
@@ -523,6 +536,7 @@ function renderProductDetail() {
 
 function renderAdminProducts() {
   if (!adminProducts) return;
+  renderAdminBrandFilter();
   const adminItems = adminFilteredProducts();
   const visibleIds = new Set(adminItems.map((product) => product.id));
   adminState.selected.forEach((id) => {
@@ -555,6 +569,21 @@ function renderAdminProducts() {
   if (count) count.textContent = `${adminItems.length} Produkte`;
   const selectedCount = document.querySelector("[data-admin-selected-count]");
   if (selectedCount) selectedCount.textContent = `${[...adminState.selected].filter((id) => visibleIds.has(id)).length} ausgewählt`;
+}
+
+function renderAdminBrandFilter() {
+  const select = document.querySelector("[data-admin-brand-filter]");
+  if (!select) return;
+  const options = adminBrandOptions();
+  if (adminState.brand !== "all" && !options.some((brand) => normalizeFilter(brand) === normalizeFilter(adminState.brand))) {
+    adminState.brand = "all";
+  }
+  const current = adminState.brand;
+  select.innerHTML = [
+    `<option value="all">Alle Marken</option>`,
+    ...options.map((brand) => `<option value="${escapeAttribute(brand)}">${escapeAttribute(brand)}</option>`)
+  ].join("");
+  select.value = current;
 }
 
 function updateWishlistCounter() {
@@ -1146,12 +1175,19 @@ function wireEvents() {
     const button = event.target.closest("[data-admin-category]");
     if (!button) return;
     adminState.category = button.dataset.adminCategory;
+    adminState.brand = "all";
     adminState.selected.clear();
     renderAdminProducts();
   });
 
   document.querySelector("#adminProductSearch")?.addEventListener("input", (event) => {
     adminState.query = event.target.value;
+    adminState.selected.clear();
+    renderAdminProducts();
+  });
+
+  document.querySelector("[data-admin-brand-filter]")?.addEventListener("change", (event) => {
+    adminState.brand = event.target.value;
     adminState.selected.clear();
     renderAdminProducts();
   });

@@ -1035,6 +1035,13 @@ textarea {
   font-weight: 700;
 }
 
+.admin-filter-row {
+  display: grid;
+  grid-template-columns: minmax(220px, 1fr) minmax(180px, 280px);
+  gap: 10px;
+  align-items: end;
+}
+
 .admin-search {
   display: grid;
   gap: 7px;
@@ -1048,11 +1055,31 @@ textarea {
   text-transform: uppercase;
 }
 
-.admin-search input {
+.admin-search input,
+.admin-search select {
   width: 100%;
   border: 1px solid var(--line);
   background: var(--white);
   padding: 11px 12px;
+}
+
+.admin-search-box {
+  position: relative;
+  display: block;
+}
+
+.admin-search-box > span {
+  position: absolute;
+  left: 12px;
+  top: 50%;
+  color: var(--warm);
+  font-size: 18px;
+  transform: translateY(-50%);
+  pointer-events: none;
+}
+
+.admin-search-box input {
+  padding-left: 38px;
 }
 
 .admin-product-row strong {
@@ -1509,6 +1536,7 @@ output {
   .occasion-grid,
   .service-detail-grid,
   .brand-strip,
+  .admin-filter-row,
   .spec-list {
     grid-template-columns: 1fr;
   }
