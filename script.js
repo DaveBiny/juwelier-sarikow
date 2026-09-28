@@ -7,8 +7,8 @@ const defaultProducts = [
     price: 4290,
     description: "Gelbgold mit brillantem Mittelstein, fein poliert und klassisch gefasst.",
     specs: "Material: 750 Gelbgold\nStein: Brillant\nFassung: Krappenfassung\nVerfuegbarkeit: auf Anfrage",
-    image: "assets/optimized/full/01rueschpartnerringe02-fda5387e.jpg",
-    thumb: "assets/optimized/thumbs/01rueschpartnerringe02-fda5387e.jpg"
+    image: "assets/optimized/full/01rueschpartnerringe02-fda5387e-transparent.webp",
+    thumb: "assets/optimized/thumbs/01rueschpartnerringe02-fda5387e-transparent.webp"
   },
   {
     id: "ring-selene",
@@ -18,8 +18,8 @@ const defaultProducts = [
     price: 8960,
     description: "Elegante Fassung fuer Verlobung, Jubilaeum und bleibende Erinnerungen.",
     specs: "Material: Platin\nStein: Diamant\nAnlass: Verlobung\nVerfuegbarkeit: auf Anfrage",
-    image: "assets/optimized/full/03451-paar-k-w-200-rg-a35f9e1e.jpg",
-    thumb: "assets/optimized/thumbs/03451-paar-k-w-200-rg-a35f9e1e.jpg"
+    image: "assets/optimized/full/03451-paar-k-w-200-rg-a35f9e1e-transparent.webp",
+    thumb: "assets/optimized/thumbs/03451-paar-k-w-200-rg-a35f9e1e-transparent.webp"
   },
   {
     id: "creolen-livia",
@@ -29,8 +29,8 @@ const defaultProducts = [
     price: 2350,
     description: "Feine Creolen mit warmem Goldton und zeitloser Silhouette.",
     specs: "Material: 750 Gelbgold\nOberflaeche: poliert\nVerschluss: Steckverschluss\nVerfuegbarkeit: lagernd auf Anfrage",
-    image: "assets/optimized/full/1-1-4258ab30.jpg",
-    thumb: "assets/optimized/thumbs/1-1-4258ab30.jpg"
+    image: "assets/optimized/full/1-1-4258ab30-transparent.webp",
+    thumb: "assets/optimized/thumbs/1-1-4258ab30-transparent.webp"
   },
   {
     id: "chronograph-nova",
@@ -40,8 +40,8 @@ const defaultProducts = [
     price: 5750,
     description: "Mechanische Uhr mit klarem Zifferblatt, poliertem Gehaeuse und Lederband.",
     specs: "Gehaeuse: Edelstahl\nUhrwerk: Automatik\nArmband: Leder\nWasserdichtheit: 5 bar",
-    image: "assets/optimized/full/fc-200s1s36b3-88970a24.jpg",
-    thumb: "assets/optimized/thumbs/fc-200s1s36b3-88970a24.jpg"
+    image: "assets/optimized/full/fc303nn5b6b-1b248377.webp",
+    thumb: "assets/optimized/thumbs/fc303nn5b6b-1b248377.webp"
   },
   {
     id: "tennisarmband-etoile",
@@ -51,8 +51,8 @@ const defaultProducts = [
     price: 11750,
     description: "Brillanten in harmonischer Linie, sicher gefasst und sehr angenehm zu tragen.",
     specs: "Material: Weissgold\nSteine: Brillanten\nVerschluss: Kastenschloss\nVerfuegbarkeit: auf Anfrage",
-    image: "assets/optimized/full/23-30330-46a8d213.jpg",
-    thumb: "assets/optimized/thumbs/23-30330-46a8d213.jpg"
+    image: "assets/optimized/full/23-30330-46a8d213-transparent.webp",
+    thumb: "assets/optimized/thumbs/23-30330-46a8d213-transparent.webp"
   },
   {
     id: "collier-marina",
@@ -62,8 +62,8 @@ const defaultProducts = [
     price: 3290,
     description: "Zarte Kette mit glaenzendem Anhaenger fuer festliche und persoenliche Momente.",
     specs: "Material: Rosegold\nLaenge: 42 cm\nAnhaenger: poliert\nVerfuegbarkeit: auf Anfrage",
-    image: "assets/optimized/full/021433-1500-ad7d82e3.jpg",
-    thumb: "assets/optimized/thumbs/021433-1500-ad7d82e3.jpg"
+    image: "assets/optimized/full/021433-1500-ad7d82e3-transparent.webp",
+    thumb: "assets/optimized/thumbs/021433-1500-ad7d82e3-transparent.webp"
   },
   {
     id: "automatik-orion",
@@ -73,8 +73,8 @@ const defaultProducts = [
     price: 6420,
     description: "Zeitmesser mit fein gearbeiteter Luenette und ruhiger Praesenz am Handgelenk.",
     specs: "Gehaeuse: Edelstahl\nUhrwerk: Automatik\nArmband: Edelstahl\nZifferblatt: Blau",
-    image: "assets/optimized/full/awg-m100a-1aer-316b2306.jpg",
-    thumb: "assets/optimized/thumbs/awg-m100a-1aer-316b2306.jpg"
+    image: "assets/optimized/full/awg-m100a-1aer-316b2306-transparent.webp",
+    thumb: "assets/optimized/thumbs/awg-m100a-1aer-316b2306-transparent.webp"
   },
   {
     id: "ohrringe-perla",
@@ -84,14 +84,15 @@ const defaultProducts = [
     price: 1890,
     description: "Klassische Form mit sanftem Schimmer und dezentem Auftritt.",
     specs: "Material: 585 Gelbgold\nStein: Perlmutt\nVerschluss: Steckverschluss\nVerfuegbarkeit: auf Anfrage",
-    image: "assets/optimized/full/1-3-e52ca634.jpg",
-    thumb: "assets/optimized/thumbs/1-3-e52ca634.jpg"
+    image: "assets/optimized/full/1-3-e52ca634-transparent.webp",
+    thumb: "assets/optimized/thumbs/1-3-e52ca634-transparent.webp"
   }
 ];
 
 const storageKey = "juwelier-products";
 const sessionKey = "juwelier-admin";
 const wishlistKey = "juwelier-wishlist";
+const inquiryEndpoint = "https://formsubmit.co/ajax/office@sarikow.com";
 const visibleCount = {};
 const catalogState = {
   brand: "all",
@@ -115,6 +116,10 @@ const adminView = document.querySelector("[data-admin-view]");
 const searchInput = document.querySelector("#productSearch");
 const categoryFilter = document.querySelector("#categoryFilter");
 const nav = document.querySelector(".main-nav");
+const businessHours = {
+  default: { start: "09:00", end: "18:30" },
+  saturday: { start: "09:00", end: "13:00" }
+};
 
 let products = loadProducts();
 let wishlist = readJson(wishlistKey, []);
@@ -438,7 +443,7 @@ function renderProductDetail() {
       <p>${product.description}</p>
       <div class="detail-actions">
         <button class="button dark" type="button" data-inquiry="${product.id}">Anfrage</button>
-        <a class="button ghost" href="kontakt.html">Terminvereinbarung</a>
+        <button class="button ghost" type="button" data-appointment>Terminvereinbarung</button>
       </div>
       <dl class="spec-list">${specs}</dl>
     </div>
@@ -480,17 +485,126 @@ function showAdminState() {
   if (isLoggedIn) renderAdminProducts();
 }
 
-function fileToDataUrl(file) {
+function imageFromFile(file) {
   return new Promise((resolve, reject) => {
     if (!file || !file.size) {
-      resolve("");
+      resolve(null);
       return;
     }
     const reader = new FileReader();
-    reader.onload = () => resolve(reader.result);
+    reader.onload = () => {
+      const image = new Image();
+      image.onload = () => resolve(image);
+      image.onerror = reject;
+      image.src = reader.result;
+    };
     reader.onerror = reject;
     reader.readAsDataURL(file);
   });
+}
+
+function stripWhiteBackground(sourceCanvas) {
+  const context = sourceCanvas.getContext("2d", { willReadFrequently: true });
+  const { width, height } = sourceCanvas;
+  const imageData = context.getImageData(0, 0, width, height);
+  const { data } = imageData;
+  const seen = new Uint8Array(width * height);
+  const queue = [];
+  const isBackground = (index) => {
+    const offset = index * 4;
+    const r = data[offset];
+    const g = data[offset + 1];
+    const b = data[offset + 2];
+    const a = data[offset + 3];
+    return a < 12 || (r > 222 && g > 222 && b > 222 && Math.max(r, g, b) - Math.min(r, g, b) < 52);
+  };
+  const push = (x, y) => {
+    if (x < 0 || y < 0 || x >= width || y >= height) return;
+    const index = y * width + x;
+    if (seen[index] || !isBackground(index)) return;
+    seen[index] = 1;
+    queue.push(index);
+  };
+  for (let x = 0; x < width; x += 1) {
+    push(x, 0);
+    push(x, height - 1);
+  }
+  for (let y = 0; y < height; y += 1) {
+    push(0, y);
+    push(width - 1, y);
+  }
+  while (queue.length) {
+    const index = queue.shift();
+    const x = index % width;
+    const y = Math.floor(index / width);
+    push(x + 1, y);
+    push(x - 1, y);
+    push(x, y + 1);
+    push(x, y - 1);
+  }
+  for (let index = 0; index < seen.length; index += 1) {
+    if (seen[index]) data[index * 4 + 3] = 0;
+  }
+  context.putImageData(imageData, 0, 0);
+  return sourceCanvas;
+}
+
+function trimTransparentCanvas(canvas) {
+  const context = canvas.getContext("2d", { willReadFrequently: true });
+  const { width, height } = canvas;
+  const imageData = context.getImageData(0, 0, width, height);
+  const { data } = imageData;
+  let minX = width;
+  let minY = height;
+  let maxX = 0;
+  let maxY = 0;
+  for (let y = 0; y < height; y += 1) {
+    for (let x = 0; x < width; x += 1) {
+      if (data[(y * width + x) * 4 + 3] > 8) {
+        minX = Math.min(minX, x);
+        minY = Math.min(minY, y);
+        maxX = Math.max(maxX, x);
+        maxY = Math.max(maxY, y);
+      }
+    }
+  }
+  if (minX > maxX || minY > maxY) return canvas;
+  const trimmed = document.createElement("canvas");
+  trimmed.width = maxX - minX + 1;
+  trimmed.height = maxY - minY + 1;
+  trimmed.getContext("2d").drawImage(canvas, minX, minY, trimmed.width, trimmed.height, 0, 0, trimmed.width, trimmed.height);
+  return trimmed;
+}
+
+function fitProductCanvas(sourceCanvas, size) {
+  const trimmed = trimTransparentCanvas(sourceCanvas);
+  const canvas = document.createElement("canvas");
+  canvas.width = size;
+  canvas.height = size;
+  const context = canvas.getContext("2d");
+  const maxSide = size * 0.86;
+  const scale = maxSide / Math.max(trimmed.width, trimmed.height);
+  const width = Math.max(1, Math.round(trimmed.width * scale));
+  const height = Math.max(1, Math.round(trimmed.height * scale));
+  context.clearRect(0, 0, size, size);
+  context.drawImage(trimmed, (size - width) / 2, (size - height) / 2, width, height);
+  return canvas;
+}
+
+async function fileToProductImages(file) {
+  const image = await imageFromFile(file);
+  if (!image) return null;
+  const workMax = 900;
+  const scale = Math.min(1, workMax / Math.max(image.naturalWidth, image.naturalHeight));
+  const workCanvas = document.createElement("canvas");
+  workCanvas.width = Math.max(1, Math.round(image.naturalWidth * scale));
+  workCanvas.height = Math.max(1, Math.round(image.naturalHeight * scale));
+  workCanvas.getContext("2d").drawImage(image, 0, 0, workCanvas.width, workCanvas.height);
+  stripWhiteBackground(workCanvas);
+  return {
+    image: fitProductCanvas(workCanvas, 1200).toDataURL("image/webp", 0.86),
+    thumb: fitProductCanvas(workCanvas, 520).toDataURL("image/webp", 0.82)
+  };
 }
 
 async function saveProduct(event) {
@@ -498,7 +612,16 @@ async function saveProduct(event) {
   const data = new FormData(productForm);
   const existingId = data.get("id");
   const current = products.find((product) => product.id === existingId);
-  const uploadedImage = await fileToDataUrl(data.get("image"));
+  let uploadedImages = null;
+  if (data.get("image")?.size) {
+    productMessage.textContent = "Bild wird optimiert ...";
+    try {
+      uploadedImages = await fileToProductImages(data.get("image"));
+    } catch (error) {
+      productMessage.textContent = "Bild konnte nicht verarbeitet werden. Bitte ein JPG, PNG oder WebP verwenden.";
+      return;
+    }
+  }
 
   const product = {
     id: existingId || `p-${Date.now()}`,
@@ -508,7 +631,8 @@ async function saveProduct(event) {
     price: Number(data.get("price")),
     description: data.get("description").trim(),
     specs: data.get("specs")?.trim() || current?.specs || "",
-    image: uploadedImage || current?.image || defaultProducts[0].image
+    image: uploadedImages?.image || current?.image || defaultProducts[0].image,
+    thumb: uploadedImages?.thumb || current?.thumb || current?.image || defaultProducts[0].thumb || defaultProducts[0].image
   };
 
   products = existingId
@@ -560,9 +684,16 @@ function ensureInquiryDialog() {
           <p>Produktanfrage</p>
           <h2 id="inquiryTitle">Anfrage senden</h2>
           <form class="admin-form" id="inquiryForm">
+            <input type="hidden" name="_subject" value="Neue Produktanfrage über sarikow.com">
+            <input type="hidden" name="_captcha" value="false">
+            <input type="hidden" name="Produkt" id="inquiryProductField">
             <label>
               Ihr Name
               <input name="name" required>
+            </label>
+            <label>
+              Ihre Telefonnummer
+              <input name="phone" type="tel" required>
             </label>
             <label>
               Ihre E-Mail-Adresse
@@ -572,7 +703,7 @@ function ensureInquiryDialog() {
               Ihre Nachricht
               <textarea name="message" rows="4"></textarea>
             </label>
-            <button class="button dark" type="submit">Anfrage vorbereiten</button>
+            <button class="button dark" type="submit">Anfrage senden</button>
             <output id="inquiryMessage" role="status"></output>
           </form>
         </div>
@@ -581,17 +712,139 @@ function ensureInquiryDialog() {
   );
 }
 
+function ensureAppointmentDialog() {
+  if (document.querySelector("#appointmentDialog")) return;
+  document.body.insertAdjacentHTML(
+    "beforeend",
+    `
+      <dialog class="admin-dialog appointment-dialog" id="appointmentDialog">
+        <div class="admin-shell">
+          <button class="close-button" type="button" aria-label="Termin schließen" data-close-appointment>×</button>
+          <p>Terminvereinbarung</p>
+          <h2>Termin im Geschäft anfragen</h2>
+          <form class="admin-form" id="appointmentForm">
+            <input type="hidden" name="_subject" value="Neue Terminvereinbarung über sarikow.com">
+            <input type="hidden" name="_captcha" value="false">
+            <input type="hidden" name="Terminzeit" id="appointmentTimeField" required>
+            <label>
+              Datum
+              <input name="date" id="appointmentDate" type="date" required>
+            </label>
+            <div class="time-slot-panel">
+              <span>Uhrzeit auswählen</span>
+              <div class="time-slots" id="appointmentSlots"></div>
+            </div>
+            <div class="field-row">
+              <label>
+                Ihr Name
+                <input name="name" required>
+              </label>
+              <label>
+                Telefonnummer
+                <input name="phone" type="tel" required>
+              </label>
+            </div>
+            <label>
+              E-Mail-Adresse
+              <input name="email" type="email">
+            </label>
+            <label>
+              Nachricht
+              <textarea name="message" rows="3" placeholder="Wunsch, Produkt oder Anlass"></textarea>
+            </label>
+            <button class="button dark" type="submit">Termin anfragen</button>
+            <output id="appointmentMessage" role="status"></output>
+          </form>
+        </div>
+      </dialog>
+    `
+  );
+  const dateInput = document.querySelector("#appointmentDate");
+  const today = new Date();
+  dateInput.min = formatDateInput(today);
+  dateInput.value = formatDateInput(today);
+  renderAppointmentSlots();
+  dateInput.addEventListener("change", renderAppointmentSlots);
+}
+
 function openInquiry(productId) {
   ensureInquiryDialog();
   const product = products.find((item) => item.id === productId);
   const dialog = document.querySelector("#inquiryDialog");
   const title = document.querySelector("#inquiryTitle");
   const message = document.querySelector("#inquiryForm textarea");
+  const productField = document.querySelector("#inquiryProductField");
   title.textContent = product ? `Anfrage zu ${product.name}` : "Produktanfrage";
+  productField.value = product ? `${product.brand} ${product.name} (${formatPrice(product.price)})` : "Allgemeine Produktanfrage";
   message.value = product
     ? `Ich interessiere mich fuer ${product.brand} ${product.name}. Bitte kontaktieren Sie mich.`
     : "";
   dialog.showModal();
+}
+
+function formatDateInput(date) {
+  const year = date.getFullYear();
+  const month = String(date.getMonth() + 1).padStart(2, "0");
+  const day = String(date.getDate()).padStart(2, "0");
+  return `${year}-${month}-${day}`;
+}
+
+function minutesFromTime(time) {
+  const [hours, minutes] = time.split(":").map(Number);
+  return hours * 60 + minutes;
+}
+
+function timeFromMinutes(totalMinutes) {
+  return `${String(Math.floor(totalMinutes / 60)).padStart(2, "0")}:${String(totalMinutes % 60).padStart(2, "0")}`;
+}
+
+function renderAppointmentSlots() {
+  const dateInput = document.querySelector("#appointmentDate");
+  const slots = document.querySelector("#appointmentSlots");
+  const timeField = document.querySelector("#appointmentTimeField");
+  if (!dateInput || !slots || !timeField) return;
+  const selectedDate = new Date(`${dateInput.value}T12:00:00`);
+  const hours = selectedDate.getDay() === 6 ? businessHours.saturday : businessHours.default;
+  const start = minutesFromTime(hours.start);
+  const end = minutesFromTime(hours.end);
+  const lastStart = end - 30;
+  const now = new Date();
+  const isToday = dateInput.value === formatDateInput(now);
+  slots.innerHTML = "";
+  timeField.value = "";
+  for (let time = start; time <= lastStart; time += 30) {
+    const label = timeFromMinutes(time);
+    const slotDate = new Date(`${dateInput.value}T${label}:00`);
+    const button = document.createElement("button");
+    button.type = "button";
+    button.textContent = label;
+    button.dataset.timeSlot = label;
+    button.disabled = isToday && slotDate <= now;
+    button.addEventListener("click", () => {
+      slots.querySelectorAll("button").forEach((item) => item.classList.remove("active"));
+      button.classList.add("active");
+      timeField.value = `${dateInput.value} ${label}`;
+    });
+    slots.append(button);
+  }
+}
+
+function openAppointmentDialog() {
+  ensureAppointmentDialog();
+  document.querySelector("#appointmentDialog")?.showModal();
+}
+
+async function submitEmailForm(form, output, successText) {
+  const formData = new FormData(form);
+  output.textContent = "Wird gesendet ...";
+  const response = await fetch(inquiryEndpoint, {
+    method: "POST",
+    headers: { Accept: "application/json" },
+    body: formData
+  });
+  if (!response.ok) throw new Error("Formular konnte nicht gesendet werden.");
+  form.reset();
+  output.textContent = successText;
 }
 
 function wireEvents() {
@@ -611,7 +864,7 @@ function wireEvents() {
   loginForm?.addEventListener("submit", (event) => {
     event.preventDefault();
     const data = new FormData(loginForm);
-    const valid = data.get("username") === "admin" && data.get("password") === "atelier2026";
+    const valid = normalizeFilter(data.get("username")) === "admin" && data.get("password") === "Michael.1959";
     if (!valid) {
       loginMessage.textContent = "Zugangsdaten stimmen nicht.";
       return;
@@ -632,12 +885,22 @@ function wireEvents() {
   });
 
   document.body.addEventListener("click", (event) => {
-    const target = event.target.closest("[data-inquiry], [data-wishlist], [data-filter-category], [data-filter-brand], [data-close-inquiry], [data-history-back]");
+    const target = event.target.closest("[data-inquiry], [data-wishlist], [data-filter-category], [data-filter-brand], [data-close-inquiry], [data-close-appointment], [data-history-back], [data-appointment]");
+    const appointmentTrigger = event.target.closest("a, button, article");
+    if (appointmentTrigger && !target && /termin/i.test(appointmentTrigger.textContent || "")) {
+      event.preventDefault();
+      openAppointmentDialog();
+      return;
+    }
     if (!target) return;
     const inquiryId = target.dataset.inquiry;
     const wishId = target.dataset.wishlist;
     const filterCategory = target.dataset.filterCategory;
     const filterBrand = target.dataset.filterBrand ? decodeURIComponent(target.dataset.filterBrand) : undefined;
+    if (target.dataset.appointment !== undefined) {
+      event.preventDefault();
+      openAppointmentDialog();
+    }
     if (inquiryId) openInquiry(inquiryId);
     if (filterCategory) {
       const currentPageCategory = pageCategory();
@@ -676,6 +939,9 @@ function wireEvents() {
     if (target.matches("[data-close-inquiry]")) {
       document.querySelector("#inquiryDialog")?.close();
     }
+    if (target.matches("[data-close-appointment]")) {
+      document.querySelector("#appointmentDialog")?.close();
+    }
     if (target.matches("[data-history-back]")) {
       if (window.history.length > 1) window.history.back();
       else window.location.href = "index.html";
@@ -685,8 +951,22 @@ function wireEvents() {
   document.body.addEventListener("submit", (event) => {
     if (event.target.id === "inquiryForm") {
       event.preventDefault();
-      document.querySelector("#inquiryMessage").textContent =
-        "Danke. In der Live-Version wird diese Anfrage per E-Mail versendet.";
+      submitEmailForm(event.target, document.querySelector("#inquiryMessage"), "Danke, Ihre Anfrage wurde gesendet.")
+        .catch(() => {
+          document.querySelector("#inquiryMessage").textContent = "Senden war nicht möglich. Bitte rufen Sie uns unter 01 5454176 an.";
+        });
+    }
+    if (event.target.id === "appointmentForm") {
+      event.preventDefault();
+      const output = document.querySelector("#appointmentMessage");
+      if (!document.querySelector("#appointmentTimeField")?.value) {
+        output.textContent = "Bitte wählen Sie eine Uhrzeit aus.";
+        return;
+      }
+      submitEmailForm(event.target, output, "Danke, Ihre Terminanfrage wurde gesendet.")
+        .catch(() => {
+          output.textContent = "Senden war nicht möglich. Bitte rufen Sie uns unter 01 5454176 an.";
+        });
     }
   });
 
@@ -717,7 +997,12 @@ function wireEvents() {
 
   document.querySelector(".contact-form")?.addEventListener("submit", (event) => {
     event.preventDefault();
-    event.currentTarget.reset();
+    const output = event.currentTarget.querySelector("output") || document.createElement("output");
+    if (!output.parentElement) event.currentTarget.append(output);
+    submitEmailForm(event.currentTarget, output, "Danke, Ihre Nachricht wurde gesendet.")
+      .catch(() => {
+        output.textContent = "Senden war nicht möglich. Bitte rufen Sie uns unter 01 5454176 an.";
+      });
   });
 }
 

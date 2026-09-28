@@ -7,8 +7,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/01rueschpartnerringe02-fda5387e.jpg",
-    "thumb": "assets/optimized/thumbs/01rueschpartnerringe02-fda5387e.jpg",
+    "image": "assets/optimized/full/01rueschpartnerringe02-fda5387e-transparent.webp",
+    "thumb": "assets/optimized/thumbs/01rueschpartnerringe02-fda5387e-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Classic Collection/01RueschPartnerringe02.jpg"
   },
   {
@@ -19,8 +19,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/02-40010-055-02-40020-055-450-3b1c4b37.jpg",
-    "thumb": "assets/optimized/thumbs/02-40010-055-02-40020-055-450-3b1c4b37.jpg",
+    "image": "assets/optimized/full/02-40010-055-02-40020-055-450-3b1c4b37-transparent.webp",
+    "thumb": "assets/optimized/thumbs/02-40010-055-02-40020-055-450-3b1c4b37-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Premium/02-40010-055+02-40020-055_450.jpg"
   },
   {
@@ -31,8 +31,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/02-40030-050-02-40040-050-400-67-3af62a0e.jpg",
-    "thumb": "assets/optimized/thumbs/02-40030-050-02-40040-050-400-67-3af62a0e.jpg",
+    "image": "assets/optimized/full/02-40030-050-02-40040-050-400-67-3af62a0e-transparent.webp",
+    "thumb": "assets/optimized/thumbs/02-40030-050-02-40040-050-400-67-3af62a0e-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Premium/02-40030-050+02-40040-050_400_67.jpg"
   },
   {
@@ -43,8 +43,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/02-40050-050-02-40060-050-400-67-b4958da3.jpg",
-    "thumb": "assets/optimized/thumbs/02-40050-050-02-40060-050-400-67-b4958da3.jpg",
+    "image": "assets/optimized/full/02-40050-050-02-40060-050-400-67-b4958da3-transparent.webp",
+    "thumb": "assets/optimized/thumbs/02-40050-050-02-40060-050-400-67-b4958da3-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Premium/02-40050-050+02-40060-050_400_67.jpg"
   },
   {
@@ -55,8 +55,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/02-40070-060-02-40080-060-400-67-0521aed1.jpg",
-    "thumb": "assets/optimized/thumbs/02-40070-060-02-40080-060-400-67-0521aed1.jpg",
+    "image": "assets/optimized/full/02-40070-060-02-40080-060-400-67-0521aed1-transparent.webp",
+    "thumb": "assets/optimized/thumbs/02-40070-060-02-40080-060-400-67-0521aed1-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Premium/02-40070-060+02-40080-060_400_67.jpg"
   },
   {
@@ -67,8 +67,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/02-40090-060-02-40100-060-400-67-156658cc.jpg",
-    "thumb": "assets/optimized/thumbs/02-40090-060-02-40100-060-400-67-156658cc.jpg",
+    "image": "assets/optimized/full/02-40090-060-02-40100-060-400-67-156658cc-transparent.webp",
+    "thumb": "assets/optimized/thumbs/02-40090-060-02-40100-060-400-67-156658cc-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Premium/02-40090-060+02-40100-060_400_67.jpg"
   },
   {
@@ -79,8 +79,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/02-40110-060-02-40120-060-400-67-17f4aaae.jpg",
-    "thumb": "assets/optimized/thumbs/02-40110-060-02-40120-060-400-67-17f4aaae.jpg",
+    "image": "assets/optimized/full/02-40110-060-02-40120-060-400-67-17f4aaae-transparent.webp",
+    "thumb": "assets/optimized/thumbs/02-40110-060-02-40120-060-400-67-17f4aaae-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Premium/02-40110-060+02-40120-060_400_67.jpg"
   },
   {
@@ -91,8 +91,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/02-40130-055-02-40140-055-400-67-b7cbc3ed.jpg",
-    "thumb": "assets/optimized/thumbs/02-40130-055-02-40140-055-400-67-b7cbc3ed.jpg",
+    "image": "assets/optimized/full/02-40130-055-02-40140-055-400-67-b7cbc3ed-transparent.webp",
+    "thumb": "assets/optimized/thumbs/02-40130-055-02-40140-055-400-67-b7cbc3ed-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Premium/02-40130-055+02-40140-055_400_67.jpg"
   },
   {
@@ -103,8 +103,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/02-40150-050-02-40160-050-400-67-633590b1.jpg",
-    "thumb": "assets/optimized/thumbs/02-40150-050-02-40160-050-400-67-633590b1.jpg",
+    "image": "assets/optimized/full/02-40150-050-02-40160-050-400-67-633590b1-transparent.webp",
+    "thumb": "assets/optimized/thumbs/02-40150-050-02-40160-050-400-67-633590b1-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Premium/02-40150-050+02-40160-050_400_67.jpg"
   },
   {
@@ -115,8 +115,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/02-40170-065-02-40180-065-400-67-dc22cbab.jpg",
-    "thumb": "assets/optimized/thumbs/02-40170-065-02-40180-065-400-67-dc22cbab.jpg",
+    "image": "assets/optimized/full/02-40170-065-02-40180-065-400-67-dc22cbab-transparent.webp",
+    "thumb": "assets/optimized/thumbs/02-40170-065-02-40180-065-400-67-dc22cbab-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Premium/02-40170-065+02-40180-065_400_67.jpg"
   },
   {
@@ -127,8 +127,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/02-40190-065-02-40200-060-400-67-8de4dcc2.jpg",
-    "thumb": "assets/optimized/thumbs/02-40190-065-02-40200-060-400-67-8de4dcc2.jpg",
+    "image": "assets/optimized/full/02-40190-065-02-40200-060-400-67-8de4dcc2-transparent.webp",
+    "thumb": "assets/optimized/thumbs/02-40190-065-02-40200-060-400-67-8de4dcc2-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Premium/02-40190-065+02-40200-060_400_67.jpg"
   },
   {
@@ -139,8 +139,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/02-40210-070-02-40220-070-400-67-7cbfac58.jpg",
-    "thumb": "assets/optimized/thumbs/02-40210-070-02-40220-070-400-67-7cbfac58.jpg",
+    "image": "assets/optimized/full/02-40210-070-02-40220-070-400-67-7cbfac58-transparent.webp",
+    "thumb": "assets/optimized/thumbs/02-40210-070-02-40220-070-400-67-7cbfac58-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Premium/02-40210-070+02-40220-070_400_67.jpg"
   },
   {
@@ -151,8 +151,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/02-40230-060-02-40240-060-450-5b96a48d.jpg",
-    "thumb": "assets/optimized/thumbs/02-40230-060-02-40240-060-450-5b96a48d.jpg",
+    "image": "assets/optimized/full/02-40230-060-02-40240-060-450-5b96a48d-transparent.webp",
+    "thumb": "assets/optimized/thumbs/02-40230-060-02-40240-060-450-5b96a48d-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Premium/02-40230-060+02-40240-060_450.jpg"
   },
   {
@@ -163,8 +163,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/02-40250-060-02-40260-060-400-67-872c818a.jpg",
-    "thumb": "assets/optimized/thumbs/02-40250-060-02-40260-060-400-67-872c818a.jpg",
+    "image": "assets/optimized/full/02-40250-060-02-40260-060-400-67-872c818a-transparent.webp",
+    "thumb": "assets/optimized/thumbs/02-40250-060-02-40260-060-400-67-872c818a-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Premium/02-40250-060+02-40260-060_400_67.jpg"
   },
   {
@@ -175,8 +175,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/02-40270-060-02-40280-060-400-67-9e54f04f.jpg",
-    "thumb": "assets/optimized/thumbs/02-40270-060-02-40280-060-400-67-9e54f04f.jpg",
+    "image": "assets/optimized/full/02-40270-060-02-40280-060-400-67-9e54f04f-transparent.webp",
+    "thumb": "assets/optimized/thumbs/02-40270-060-02-40280-060-400-67-9e54f04f-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Premium/02-40270-060+02-40280-060_400_67.jpg"
   },
   {
@@ -187,8 +187,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/02-40290-065-02-40300-065-400-67-c78f2eb6.jpg",
-    "thumb": "assets/optimized/thumbs/02-40290-065-02-40300-065-400-67-c78f2eb6.jpg",
+    "image": "assets/optimized/full/02-40290-065-02-40300-065-400-67-c78f2eb6-transparent.webp",
+    "thumb": "assets/optimized/thumbs/02-40290-065-02-40300-065-400-67-c78f2eb6-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Premium/02-40290-065+02-40300-065_400_67.jpg"
   },
   {
@@ -199,8 +199,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/02-40310-065-02-40320-065-400-67-6ab548ea.jpg",
-    "thumb": "assets/optimized/thumbs/02-40310-065-02-40320-065-400-67-6ab548ea.jpg",
+    "image": "assets/optimized/full/02-40310-065-02-40320-065-400-67-6ab548ea-transparent.webp",
+    "thumb": "assets/optimized/thumbs/02-40310-065-02-40320-065-400-67-6ab548ea-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Premium/02-40310-065+02-40320-065_400_67.jpg"
   },
   {
@@ -211,8 +211,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/02-40330-055-02-40340-055-400-67-30c74317.jpg",
-    "thumb": "assets/optimized/thumbs/02-40330-055-02-40340-055-400-67-30c74317.jpg",
+    "image": "assets/optimized/full/02-40330-055-02-40340-055-400-67-30c74317-transparent.webp",
+    "thumb": "assets/optimized/thumbs/02-40330-055-02-40340-055-400-67-30c74317-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Premium/02-40330-055+02-40340-055_400_67.jpg"
   },
   {
@@ -223,8 +223,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/02-40350-063-02-40360-063-400-67-4915f6b6.jpg",
-    "thumb": "assets/optimized/thumbs/02-40350-063-02-40360-063-400-67-4915f6b6.jpg",
+    "image": "assets/optimized/full/02-40350-063-02-40360-063-400-67-4915f6b6-transparent.webp",
+    "thumb": "assets/optimized/thumbs/02-40350-063-02-40360-063-400-67-4915f6b6-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Premium/02-40350-063+02-40360-063_400_67.jpg"
   },
   {
@@ -235,8 +235,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/02-40370-055-02-40380-055-400-67-c1d18882.jpg",
-    "thumb": "assets/optimized/thumbs/02-40370-055-02-40380-055-400-67-c1d18882.jpg",
+    "image": "assets/optimized/full/02-40370-055-02-40380-055-400-67-c1d18882-transparent.webp",
+    "thumb": "assets/optimized/thumbs/02-40370-055-02-40380-055-400-67-c1d18882-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Premium/02-40370-055+02-40380-055_400_67.jpg"
   },
   {
@@ -247,8 +247,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/02-40390-050-02-40400-050-450-3cd84722.jpg",
-    "thumb": "assets/optimized/thumbs/02-40390-050-02-40400-050-450-3cd84722.jpg",
+    "image": "assets/optimized/full/02-40390-050-02-40400-050-450-3cd84722-transparent.webp",
+    "thumb": "assets/optimized/thumbs/02-40390-050-02-40400-050-450-3cd84722-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Premium/02-40390-050+02-40400-050_450.jpg"
   },
   {
@@ -259,8 +259,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/02-40410-080-02-40420-080-450-e082d3fd.jpg",
-    "thumb": "assets/optimized/thumbs/02-40410-080-02-40420-080-450-e082d3fd.jpg",
+    "image": "assets/optimized/full/02-40410-080-02-40420-080-450-e082d3fd-transparent.webp",
+    "thumb": "assets/optimized/thumbs/02-40410-080-02-40420-080-450-e082d3fd-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Premium/02-40410-080+02-40420-080_450.jpg"
   },
   {
@@ -271,8 +271,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/02-40430-060-02-40440-060-400-67-c3294194.jpg",
-    "thumb": "assets/optimized/thumbs/02-40430-060-02-40440-060-400-67-c3294194.jpg",
+    "image": "assets/optimized/full/02-40430-060-02-40440-060-400-67-c3294194-transparent.webp",
+    "thumb": "assets/optimized/thumbs/02-40430-060-02-40440-060-400-67-c3294194-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Premium/02-40430-060+02-40440-060_400_67.jpg"
   },
   {
@@ -283,8 +283,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/02-40450-056-02-40460-056-400-67-fd05e742.jpg",
-    "thumb": "assets/optimized/thumbs/02-40450-056-02-40460-056-400-67-fd05e742.jpg",
+    "image": "assets/optimized/full/02-40450-056-02-40460-056-400-67-fd05e742-transparent.webp",
+    "thumb": "assets/optimized/thumbs/02-40450-056-02-40460-056-400-67-fd05e742-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Premium/02-40450-056+02-40460-056_400_67.jpg"
   },
   {
@@ -295,8 +295,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/02-40490-065-02-40500-065-400-67-e9bd065f.jpg",
-    "thumb": "assets/optimized/thumbs/02-40490-065-02-40500-065-400-67-e9bd065f.jpg",
+    "image": "assets/optimized/full/02-40490-065-02-40500-065-400-67-e9bd065f-transparent.webp",
+    "thumb": "assets/optimized/thumbs/02-40490-065-02-40500-065-400-67-e9bd065f-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Premium/02-40490-065+02-40500-065_400_67.jpg"
   },
   {
@@ -307,8 +307,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/02-40510-055-02-40520-055-400-67-a18f1178.jpg",
-    "thumb": "assets/optimized/thumbs/02-40510-055-02-40520-055-400-67-a18f1178.jpg",
+    "image": "assets/optimized/full/02-40510-055-02-40520-055-400-67-a18f1178-transparent.webp",
+    "thumb": "assets/optimized/thumbs/02-40510-055-02-40520-055-400-67-a18f1178-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Premium/02-40510-055+02-40520-055_400_67.jpg"
   },
   {
@@ -319,8 +319,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/02-40530-060-02-40540-060-400-67-4ea1d036.jpg",
-    "thumb": "assets/optimized/thumbs/02-40530-060-02-40540-060-400-67-4ea1d036.jpg",
+    "image": "assets/optimized/full/02-40530-060-02-40540-060-400-67-4ea1d036-transparent.webp",
+    "thumb": "assets/optimized/thumbs/02-40530-060-02-40540-060-400-67-4ea1d036-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Premium/02-40530-060+02-40540-060_400_67.jpg"
   },
   {
@@ -331,8 +331,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/02-40550-060-02-40560-060-400-67-fc7ef934.jpg",
-    "thumb": "assets/optimized/thumbs/02-40550-060-02-40560-060-400-67-fc7ef934.jpg",
+    "image": "assets/optimized/full/02-40550-060-02-40560-060-400-67-fc7ef934-transparent.webp",
+    "thumb": "assets/optimized/thumbs/02-40550-060-02-40560-060-400-67-fc7ef934-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Premium/02-40550-060+02-40560-060_400_67.jpg"
   },
   {
@@ -343,8 +343,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/02-40570-055-02-40580-055-400-67-13839557.jpg",
-    "thumb": "assets/optimized/thumbs/02-40570-055-02-40580-055-400-67-13839557.jpg",
+    "image": "assets/optimized/full/02-40570-055-02-40580-055-400-67-13839557-transparent.webp",
+    "thumb": "assets/optimized/thumbs/02-40570-055-02-40580-055-400-67-13839557-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Premium/02-40570-055+02-40580-055_400_67.jpg"
   },
   {
@@ -355,8 +355,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/02-40590-065-02-40600-065-400-67-564311b9.jpg",
-    "thumb": "assets/optimized/thumbs/02-40590-065-02-40600-065-400-67-564311b9.jpg",
+    "image": "assets/optimized/full/02-40590-065-02-40600-065-400-67-564311b9-transparent.webp",
+    "thumb": "assets/optimized/thumbs/02-40590-065-02-40600-065-400-67-564311b9-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Premium/02-40590-065+02-40600-065_400_67.jpg"
   },
   {
@@ -367,8 +367,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/02-40610-060-02-40620-060-400-67-62b4b9e7.jpg",
-    "thumb": "assets/optimized/thumbs/02-40610-060-02-40620-060-400-67-62b4b9e7.jpg",
+    "image": "assets/optimized/full/02-40610-060-02-40620-060-400-67-62b4b9e7-transparent.webp",
+    "thumb": "assets/optimized/thumbs/02-40610-060-02-40620-060-400-67-62b4b9e7-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Premium/02-40610-060+02-40620-060_400_67.jpg"
   },
   {
@@ -379,8 +379,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/02-40630-065-02-40640-065-400-67-b7afe207.jpg",
-    "thumb": "assets/optimized/thumbs/02-40630-065-02-40640-065-400-67-b7afe207.jpg",
+    "image": "assets/optimized/full/02-40630-065-02-40640-065-400-67-b7afe207-transparent.webp",
+    "thumb": "assets/optimized/thumbs/02-40630-065-02-40640-065-400-67-b7afe207-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Premium/02-40630-065+02-40640-065_400_67.jpg"
   },
   {
@@ -391,8 +391,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/02-40650-065-02-40660-065-400-67-db177189.jpg",
-    "thumb": "assets/optimized/thumbs/02-40650-065-02-40660-065-400-67-db177189.jpg",
+    "image": "assets/optimized/full/02-40650-065-02-40660-065-400-67-db177189-transparent.webp",
+    "thumb": "assets/optimized/thumbs/02-40650-065-02-40660-065-400-67-db177189-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Premium/02-40650-065+02-40660-065_400_67.jpg"
   },
   {
@@ -403,8 +403,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/02-40670-060-02-40680-060-400-67-202fd6be.jpg",
-    "thumb": "assets/optimized/thumbs/02-40670-060-02-40680-060-400-67-202fd6be.jpg",
+    "image": "assets/optimized/full/02-40670-060-02-40680-060-400-67-202fd6be-transparent.webp",
+    "thumb": "assets/optimized/thumbs/02-40670-060-02-40680-060-400-67-202fd6be-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Premium/02-40670-060+02-40680-060_400_67.jpg"
   },
   {
@@ -415,8 +415,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/02-40690-055-02-40700-055-400-67-f13af108.jpg",
-    "thumb": "assets/optimized/thumbs/02-40690-055-02-40700-055-400-67-f13af108.jpg",
+    "image": "assets/optimized/full/02-40690-055-02-40700-055-400-67-f13af108-transparent.webp",
+    "thumb": "assets/optimized/thumbs/02-40690-055-02-40700-055-400-67-f13af108-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Premium/02-40690-055+02-40700-055_400_67.jpg"
   },
   {
@@ -427,8 +427,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/02-40710-060-02-40720-060-400-67-5f0a2d7e.jpg",
-    "thumb": "assets/optimized/thumbs/02-40710-060-02-40720-060-400-67-5f0a2d7e.jpg",
+    "image": "assets/optimized/full/02-40710-060-02-40720-060-400-67-5f0a2d7e-transparent.webp",
+    "thumb": "assets/optimized/thumbs/02-40710-060-02-40720-060-400-67-5f0a2d7e-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Premium/02-40710-060+02-40720-060_400_67.jpg"
   },
   {
@@ -439,8 +439,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/02-40730-073-02-40740-073-400-67-2ab0f977.jpg",
-    "thumb": "assets/optimized/thumbs/02-40730-073-02-40740-073-400-67-2ab0f977.jpg",
+    "image": "assets/optimized/full/02-40730-073-02-40740-073-400-67-2ab0f977-transparent.webp",
+    "thumb": "assets/optimized/thumbs/02-40730-073-02-40740-073-400-67-2ab0f977-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Premium/02-40730-073+02-40740-073_400_67.jpg"
   },
   {
@@ -451,8 +451,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/02-40750-065-02-40760-065-400-67-b6a9cafa.jpg",
-    "thumb": "assets/optimized/thumbs/02-40750-065-02-40760-065-400-67-b6a9cafa.jpg",
+    "image": "assets/optimized/full/02-40750-065-02-40760-065-400-67-b6a9cafa-transparent.webp",
+    "thumb": "assets/optimized/thumbs/02-40750-065-02-40760-065-400-67-b6a9cafa-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Premium/02-40750-065+02-40760-065_400_67.jpg"
   },
   {
@@ -463,8 +463,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/02-40770-070-02-40780-070-400-67-9fdfc1cd.jpg",
-    "thumb": "assets/optimized/thumbs/02-40770-070-02-40780-070-400-67-9fdfc1cd.jpg",
+    "image": "assets/optimized/full/02-40770-070-02-40780-070-400-67-9fdfc1cd-transparent.webp",
+    "thumb": "assets/optimized/thumbs/02-40770-070-02-40780-070-400-67-9fdfc1cd-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Premium/02-40770-070+02-40780-070_400_67.jpg"
   },
   {
@@ -475,8 +475,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/02-40790-070-02-40800-070-400-67-ce050d5b.jpg",
-    "thumb": "assets/optimized/thumbs/02-40790-070-02-40800-070-400-67-ce050d5b.jpg",
+    "image": "assets/optimized/full/02-40790-070-02-40800-070-400-67-ce050d5b-transparent.webp",
+    "thumb": "assets/optimized/thumbs/02-40790-070-02-40800-070-400-67-ce050d5b-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Premium/02-40790-070+02-40800-070_400_67.jpg"
   },
   {
@@ -487,8 +487,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/02-40810-070-02-40820-070-400-67-0c54d75a.jpg",
-    "thumb": "assets/optimized/thumbs/02-40810-070-02-40820-070-400-67-0c54d75a.jpg",
+    "image": "assets/optimized/full/02-40810-070-02-40820-070-400-67-0c54d75a-transparent.webp",
+    "thumb": "assets/optimized/thumbs/02-40810-070-02-40820-070-400-67-0c54d75a-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Premium/02-40810-070+02-40820-070_400_67.jpg"
   },
   {
@@ -499,8 +499,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/02-40830-060-02-40840-060-400-67-7a2a8e25.jpg",
-    "thumb": "assets/optimized/thumbs/02-40830-060-02-40840-060-400-67-7a2a8e25.jpg",
+    "image": "assets/optimized/full/02-40830-060-02-40840-060-400-67-7a2a8e25-transparent.webp",
+    "thumb": "assets/optimized/thumbs/02-40830-060-02-40840-060-400-67-7a2a8e25-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Premium/02-40830-060+02-40840-060_400_67.jpg"
   },
   {
@@ -511,8 +511,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/03451-paar-k-w-200-f2c6dc6d.jpg",
-    "thumb": "assets/optimized/thumbs/03451-paar-k-w-200-f2c6dc6d.jpg",
+    "image": "assets/optimized/full/03451-paar-k-w-200-f2c6dc6d-transparent.webp",
+    "thumb": "assets/optimized/thumbs/03451-paar-k-w-200-f2c6dc6d-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Classic Diamonds/03451_Paar_K_W_200%.jpg"
   },
   {
@@ -523,8 +523,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/03451-paar-k-w-200-rg-a35f9e1e.jpg",
-    "thumb": "assets/optimized/thumbs/03451-paar-k-w-200-rg-a35f9e1e.jpg",
+    "image": "assets/optimized/full/03451-paar-k-w-200-rg-a35f9e1e-transparent.webp",
+    "thumb": "assets/optimized/thumbs/03451-paar-k-w-200-rg-a35f9e1e-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Classic Diamonds/03451_Paar_K_W_200%_rg.jpg"
   },
   {
@@ -535,8 +535,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/03rueschpartnerringe02-9a56dfc4.jpg",
-    "thumb": "assets/optimized/thumbs/03rueschpartnerringe02-9a56dfc4.jpg",
+    "image": "assets/optimized/full/03rueschpartnerringe02-9a56dfc4-transparent.webp",
+    "thumb": "assets/optimized/thumbs/03rueschpartnerringe02-9a56dfc4-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Classic Collection/03RueschPartnerringe02.jpg"
   },
   {
@@ -547,8 +547,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/05rueschpartnerringe02-30bdc2a1.jpg",
-    "thumb": "assets/optimized/thumbs/05rueschpartnerringe02-30bdc2a1.jpg",
+    "image": "assets/optimized/full/05rueschpartnerringe02-30bdc2a1-transparent.webp",
+    "thumb": "assets/optimized/thumbs/05rueschpartnerringe02-30bdc2a1-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Classic Collection/05RueschPartnerringe02.jpg"
   },
   {
@@ -559,8 +559,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/06rueschpartnerringe02-a-40c60cbc.jpg",
-    "thumb": "assets/optimized/thumbs/06rueschpartnerringe02-a-40c60cbc.jpg",
+    "image": "assets/optimized/full/06rueschpartnerringe02-a-40c60cbc-transparent.webp",
+    "thumb": "assets/optimized/thumbs/06rueschpartnerringe02-a-40c60cbc-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Classic Collection/06RueschPartnerringe02_a.jpg"
   },
   {
@@ -571,8 +571,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/07402-paar-e-w-200-e91d5407.jpg",
-    "thumb": "assets/optimized/thumbs/07402-paar-e-w-200-e91d5407.jpg",
+    "image": "assets/optimized/full/07402-paar-e-w-200-e91d5407-transparent.webp",
+    "thumb": "assets/optimized/thumbs/07402-paar-e-w-200-e91d5407-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Classic Diamonds/07402_Paar_E_W_200%.jpg"
   },
   {
@@ -583,8 +583,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/07rueschpartnerringe02-ec26970a.jpg",
-    "thumb": "assets/optimized/thumbs/07rueschpartnerringe02-ec26970a.jpg",
+    "image": "assets/optimized/full/07rueschpartnerringe02-ec26970a-transparent.webp",
+    "thumb": "assets/optimized/thumbs/07rueschpartnerringe02-ec26970a-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Classic Collection/07RueschPartnerringe02.jpg"
   },
   {
@@ -595,8 +595,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/08rueschpartnerr02-pdptag-01-8cbc496b.jpg",
-    "thumb": "assets/optimized/thumbs/08rueschpartnerr02-pdptag-01-8cbc496b.jpg",
+    "image": "assets/optimized/full/08rueschpartnerr02-pdptag-01-8cbc496b-transparent.webp",
+    "thumb": "assets/optimized/thumbs/08rueschpartnerr02-pdptag-01-8cbc496b-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Classic Collection/08RueschPartnerr02_PdPtAg_01.jpg"
   },
   {
@@ -607,8 +607,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/08rueschpartnerringe02-09bda29c.jpg",
-    "thumb": "assets/optimized/thumbs/08rueschpartnerringe02-09bda29c.jpg",
+    "image": "assets/optimized/full/08rueschpartnerringe02-09bda29c-transparent.webp",
+    "thumb": "assets/optimized/thumbs/08rueschpartnerringe02-09bda29c-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Classic Collection/08RueschPartnerringe02.jpg"
   },
   {
@@ -619,8 +619,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/09-30330-200-2f2eb82d.jpg",
-    "thumb": "assets/optimized/thumbs/09-30330-200-2f2eb82d.jpg",
+    "image": "assets/optimized/full/09-30330-200-2f2eb82d-transparent.webp",
+    "thumb": "assets/optimized/thumbs/09-30330-200-2f2eb82d-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Solitaire Ohrstecker/09-30330_200%.jpg"
   },
   {
@@ -631,8 +631,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/09-34330-200-5ee117cd.jpg",
-    "thumb": "assets/optimized/thumbs/09-34330-200-5ee117cd.jpg",
+    "image": "assets/optimized/full/09-34330-200-5ee117cd-transparent.webp",
+    "thumb": "assets/optimized/thumbs/09-34330-200-5ee117cd-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Solitaire Ohrstecker/09-34330_200%.jpg"
   },
   {
@@ -643,8 +643,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/09-36330-200-3f511e43.jpg",
-    "thumb": "assets/optimized/thumbs/09-36330-200-3f511e43.jpg",
+    "image": "assets/optimized/full/09-36330-200-3f511e43-transparent.webp",
+    "thumb": "assets/optimized/thumbs/09-36330-200-3f511e43-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Solitaire Ohrstecker/09-36330_200%.jpg"
   },
   {
@@ -655,8 +655,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/09rueschpartnerringe02-a64b3e96.jpg",
-    "thumb": "assets/optimized/thumbs/09rueschpartnerringe02-a64b3e96.jpg",
+    "image": "assets/optimized/full/09rueschpartnerringe02-a64b3e96-transparent.webp",
+    "thumb": "assets/optimized/thumbs/09rueschpartnerringe02-a64b3e96-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Classic Collection/09RueschPartnerringe02.jpg"
   },
   {
@@ -667,8 +667,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/10501-paar-s-w-200-c169c558.jpg",
-    "thumb": "assets/optimized/thumbs/10501-paar-s-w-200-c169c558.jpg",
+    "image": "assets/optimized/full/10501-paar-s-w-200-c169c558-transparent.webp",
+    "thumb": "assets/optimized/thumbs/10501-paar-s-w-200-c169c558-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Classic Diamonds/10501_Paar_S_W_200%.jpg"
   },
   {
@@ -679,8 +679,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/10501-paar-s-w-200-gg-a4d24e62.jpg",
-    "thumb": "assets/optimized/thumbs/10501-paar-s-w-200-gg-a4d24e62.jpg",
+    "image": "assets/optimized/full/10501-paar-s-w-200-gg-a4d24e62-transparent.webp",
+    "thumb": "assets/optimized/thumbs/10501-paar-s-w-200-gg-a4d24e62-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Classic Diamonds/10501_Paar_S_W_200%_gg.jpg"
   },
   {
@@ -691,8 +691,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/10rueschpartnerringe02-22050c81.jpg",
-    "thumb": "assets/optimized/thumbs/10rueschpartnerringe02-22050c81.jpg",
+    "image": "assets/optimized/full/10rueschpartnerringe02-22050c81-transparent.webp",
+    "thumb": "assets/optimized/thumbs/10rueschpartnerringe02-22050c81-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Classic Collection/10RueschPartnerringe02.jpg"
   },
   {
@@ -703,8 +703,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/11rueschpartnerringe02-15fb90d3.jpg",
-    "thumb": "assets/optimized/thumbs/11rueschpartnerringe02-15fb90d3.jpg",
+    "image": "assets/optimized/full/11rueschpartnerringe02-15fb90d3-transparent.webp",
+    "thumb": "assets/optimized/thumbs/11rueschpartnerringe02-15fb90d3-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Classic Collection/11RueschPartnerringe02.jpg"
   },
   {
@@ -715,8 +715,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/12rueschpartnerringe02-c34a8a42.jpg",
-    "thumb": "assets/optimized/thumbs/12rueschpartnerringe02-c34a8a42.jpg",
+    "image": "assets/optimized/full/12rueschpartnerringe02-c34a8a42-transparent.webp",
+    "thumb": "assets/optimized/thumbs/12rueschpartnerringe02-c34a8a42-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Classic Collection/12RueschPartnerringe02.jpg"
   },
   {
@@ -727,8 +727,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/13rueschpartnerringe02-ab2ca6dc.jpg",
-    "thumb": "assets/optimized/thumbs/13rueschpartnerringe02-ab2ca6dc.jpg",
+    "image": "assets/optimized/full/13rueschpartnerringe02-ab2ca6dc-transparent.webp",
+    "thumb": "assets/optimized/thumbs/13rueschpartnerringe02-ab2ca6dc-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Classic Collection/13RueschPartnerringe02.jpg"
   },
   {
@@ -739,8 +739,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/14rueschpartnerringe02-65c8436d.jpg",
-    "thumb": "assets/optimized/thumbs/14rueschpartnerringe02-65c8436d.jpg",
+    "image": "assets/optimized/full/14rueschpartnerringe02-65c8436d-transparent.webp",
+    "thumb": "assets/optimized/thumbs/14rueschpartnerringe02-65c8436d-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Classic Collection/14RueschPartnerringe02.jpg"
   },
   {
@@ -751,8 +751,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/16rueschpartnerringe02-8c16112e.jpg",
-    "thumb": "assets/optimized/thumbs/16rueschpartnerringe02-8c16112e.jpg",
+    "image": "assets/optimized/full/16rueschpartnerringe02-8c16112e-transparent.webp",
+    "thumb": "assets/optimized/thumbs/16rueschpartnerringe02-8c16112e-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Classic Collection/16RueschPartnerringe02.jpg"
   },
   {
@@ -763,8 +763,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/18273-s-03-scharf-6e718ea6.jpg",
-    "thumb": "assets/optimized/thumbs/18273-s-03-scharf-6e718ea6.jpg",
+    "image": "assets/optimized/full/18273-s-03-scharf-6e718ea6-transparent.webp",
+    "thumb": "assets/optimized/thumbs/18273-s-03-scharf-6e718ea6-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Everybody's Darling/18273_S.03_scharf.jpg"
   },
   {
@@ -775,8 +775,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/18275-s-05-scharf-3743797a.jpg",
-    "thumb": "assets/optimized/thumbs/18275-s-05-scharf-3743797a.jpg",
+    "image": "assets/optimized/full/18275-s-05-scharf-3743797a-transparent.webp",
+    "thumb": "assets/optimized/thumbs/18275-s-05-scharf-3743797a-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Everybody's Darling/18275_S.05_scharf.jpg"
   },
   {
@@ -787,8 +787,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/18276-s-07-scharf-9364cc77.jpg",
-    "thumb": "assets/optimized/thumbs/18276-s-07-scharf-9364cc77.jpg",
+    "image": "assets/optimized/full/18276-s-07-scharf-9364cc77-transparent.webp",
+    "thumb": "assets/optimized/thumbs/18276-s-07-scharf-9364cc77-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Everybody's Darling/18276_S.07_scharf.jpg"
   },
   {
@@ -799,8 +799,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/18277-s-09-scharf-a408beae.jpg",
-    "thumb": "assets/optimized/thumbs/18277-s-09-scharf-a408beae.jpg",
+    "image": "assets/optimized/full/18277-s-09-scharf-a408beae-transparent.webp",
+    "thumb": "assets/optimized/thumbs/18277-s-09-scharf-a408beae-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Everybody's Darling/18277_S.09_scharf.jpg"
   },
   {
@@ -811,8 +811,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/18279-s-10-stein-scharf-77d34f19.jpg",
-    "thumb": "assets/optimized/thumbs/18279-s-10-stein-scharf-77d34f19.jpg",
+    "image": "assets/optimized/full/18279-s-10-stein-scharf-77d34f19-transparent.webp",
+    "thumb": "assets/optimized/thumbs/18279-s-10-stein-scharf-77d34f19-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Everybody's Darling/18279_S.10_Stein_scharf.jpg"
   },
   {
@@ -823,8 +823,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/18280-s-11-scharf-1b549265.jpg",
-    "thumb": "assets/optimized/thumbs/18280-s-11-scharf-1b549265.jpg",
+    "image": "assets/optimized/full/18280-s-11-scharf-1b549265-transparent.webp",
+    "thumb": "assets/optimized/thumbs/18280-s-11-scharf-1b549265-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Everybody's Darling/18280_S.11_scharf.jpg"
   },
   {
@@ -835,8 +835,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/18283-s-12-scharf-70d0a228.jpg",
-    "thumb": "assets/optimized/thumbs/18283-s-12-scharf-70d0a228.jpg",
+    "image": "assets/optimized/full/18283-s-12-scharf-70d0a228-transparent.webp",
+    "thumb": "assets/optimized/thumbs/18283-s-12-scharf-70d0a228-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Everybody's Darling/18283_S.12_scharf.jpg"
   },
   {
@@ -847,8 +847,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/18285-s-06-scharf-1ddebc5e.jpg",
-    "thumb": "assets/optimized/thumbs/18285-s-06-scharf-1ddebc5e.jpg",
+    "image": "assets/optimized/full/18285-s-06-scharf-1ddebc5e-transparent.webp",
+    "thumb": "assets/optimized/thumbs/18285-s-06-scharf-1ddebc5e-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Everybody's Darling/18285_S.06_scharf.jpg"
   },
   {
@@ -859,8 +859,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/18288-s-04-b-scharf-0a87d3de.jpg",
-    "thumb": "assets/optimized/thumbs/18288-s-04-b-scharf-0a87d3de.jpg",
+    "image": "assets/optimized/full/18288-s-04-b-scharf-0a87d3de-transparent.webp",
+    "thumb": "assets/optimized/thumbs/18288-s-04-b-scharf-0a87d3de-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Everybody's Darling/18288_S.04_b_scharf.jpg"
   },
   {
@@ -871,8 +871,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/18587-scharf100-4b481978.jpg",
-    "thumb": "assets/optimized/thumbs/18587-scharf100-4b481978.jpg",
+    "image": "assets/optimized/full/18587-scharf100-4b481978-transparent.webp",
+    "thumb": "assets/optimized/thumbs/18587-scharf100-4b481978-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Everybody's Darling/18587_scharf100.jpg"
   },
   {
@@ -883,8 +883,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/23-30330-200-346f319b.jpg",
-    "thumb": "assets/optimized/thumbs/23-30330-200-346f319b.jpg",
+    "image": "assets/optimized/full/23-30330-200-346f319b-transparent.webp",
+    "thumb": "assets/optimized/thumbs/23-30330-200-346f319b-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Solitaire Anhänger/23-30330_200%.jpg"
   },
   {
@@ -895,8 +895,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/23-34330-200-0666c945.jpg",
-    "thumb": "assets/optimized/thumbs/23-34330-200-0666c945.jpg",
+    "image": "assets/optimized/full/23-34330-200-0666c945-transparent.webp",
+    "thumb": "assets/optimized/thumbs/23-34330-200-0666c945-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Solitaire Anhänger/23-34330_200%.jpg"
   },
   {
@@ -907,8 +907,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/23-36330-200-c6aff0b2.jpg",
-    "thumb": "assets/optimized/thumbs/23-36330-200-c6aff0b2.jpg",
+    "image": "assets/optimized/full/23-36330-200-c6aff0b2-transparent.webp",
+    "thumb": "assets/optimized/thumbs/23-36330-200-c6aff0b2-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Solitaire Anhänger/23-36330_200%.jpg"
   },
   {
@@ -919,8 +919,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/30769-66-32010-55-66-32020-55-4x-40-frei-8fe5d7ba.jpg",
-    "thumb": "assets/optimized/thumbs/30769-66-32010-55-66-32020-55-4x-40-frei-8fe5d7ba.jpg",
+    "image": "assets/optimized/full/30769-66-32010-55-66-32020-55-4x-40-frei-8fe5d7ba-transparent.webp",
+    "thumb": "assets/optimized/thumbs/30769-66-32010-55-66-32020-55-4x-40-frei-8fe5d7ba-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Pure III/30769_66-32010-55+66-32020-55_4x_40_frei.jpg"
   },
   {
@@ -931,8 +931,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/30770-66-32050-50-66-32060-50-4x-40-frei-b916b592.jpg",
-    "thumb": "assets/optimized/thumbs/30770-66-32050-50-66-32060-50-4x-40-frei-b916b592.jpg",
+    "image": "assets/optimized/full/30770-66-32050-50-66-32060-50-4x-40-frei-b916b592-transparent.webp",
+    "thumb": "assets/optimized/thumbs/30770-66-32050-50-66-32060-50-4x-40-frei-b916b592-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Pure III/30770_66-32050-50+66-32060-50_4x_40_frei.jpg"
   },
   {
@@ -943,8 +943,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/30771-66-32130-50-66-32140-50-4x-40-frei-91b08433.jpg",
-    "thumb": "assets/optimized/thumbs/30771-66-32130-50-66-32140-50-4x-40-frei-91b08433.jpg",
+    "image": "assets/optimized/full/30771-66-32130-50-66-32140-50-4x-40-frei-91b08433-transparent.webp",
+    "thumb": "assets/optimized/thumbs/30771-66-32130-50-66-32140-50-4x-40-frei-91b08433-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Pure III/30771_66-32130-50+66-32140-50_4x_40_frei.jpg"
   },
   {
@@ -955,8 +955,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/30772-66-32170-50-66-32180-50-4x-40-frei-58719ee2.jpg",
-    "thumb": "assets/optimized/thumbs/30772-66-32170-50-66-32180-50-4x-40-frei-58719ee2.jpg",
+    "image": "assets/optimized/full/30772-66-32170-50-66-32180-50-4x-40-frei-58719ee2-transparent.webp",
+    "thumb": "assets/optimized/thumbs/30772-66-32170-50-66-32180-50-4x-40-frei-58719ee2-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Pure III/30772_66-32170-50+66-32180-50_4x_40_frei.jpg"
   },
   {
@@ -967,8 +967,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/30773-66-32030-055-66-320040-055-4x-40-frei-ec43bc50.jpg",
-    "thumb": "assets/optimized/thumbs/30773-66-32030-055-66-320040-055-4x-40-frei-ec43bc50.jpg",
+    "image": "assets/optimized/full/30773-66-32030-055-66-320040-055-4x-40-frei-ec43bc50-transparent.webp",
+    "thumb": "assets/optimized/thumbs/30773-66-32030-055-66-320040-055-4x-40-frei-ec43bc50-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Pure III/30773_66-32030-055+66-320040-055_4x_40_frei.jpg"
   },
   {
@@ -979,8 +979,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/30773-66-32030-055-66-32040-055-4x-40-frei-bf6e5f0f.jpg",
-    "thumb": "assets/optimized/thumbs/30773-66-32030-055-66-32040-055-4x-40-frei-bf6e5f0f.jpg",
+    "image": "assets/optimized/full/30773-66-32030-055-66-32040-055-4x-40-frei-bf6e5f0f-transparent.webp",
+    "thumb": "assets/optimized/thumbs/30773-66-32030-055-66-32040-055-4x-40-frei-bf6e5f0f-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Pure III/30773_66-32030-055+66-32040-055_4x_40_frei.jpg"
   },
   {
@@ -991,8 +991,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/30774-66-32090-058-66-32100-58-4x-40-frei-9eca187e.jpg",
-    "thumb": "assets/optimized/thumbs/30774-66-32090-058-66-32100-58-4x-40-frei-9eca187e.jpg",
+    "image": "assets/optimized/full/30774-66-32090-058-66-32100-58-4x-40-frei-9eca187e-transparent.webp",
+    "thumb": "assets/optimized/thumbs/30774-66-32090-058-66-32100-58-4x-40-frei-9eca187e-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Pure III/30774_66-32090-058+66-32100-58_4x_40_frei.jpg"
   },
   {
@@ -1003,8 +1003,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/30775-66-32110-50-66-32120-50-4x-40-frei-3c3a0c13.jpg",
-    "thumb": "assets/optimized/thumbs/30775-66-32110-50-66-32120-50-4x-40-frei-3c3a0c13.jpg",
+    "image": "assets/optimized/full/30775-66-32110-50-66-32120-50-4x-40-frei-3c3a0c13-transparent.webp",
+    "thumb": "assets/optimized/thumbs/30775-66-32110-50-66-32120-50-4x-40-frei-3c3a0c13-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Pure III/30775_66-32110-50+66-32120-50_4x_40_frei.jpg"
   },
   {
@@ -1015,8 +1015,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/30776-66-32150-55-66-32160-55-4x-40-frei-429177e9.jpg",
-    "thumb": "assets/optimized/thumbs/30776-66-32150-55-66-32160-55-4x-40-frei-429177e9.jpg",
+    "image": "assets/optimized/full/30776-66-32150-55-66-32160-55-4x-40-frei-429177e9-transparent.webp",
+    "thumb": "assets/optimized/thumbs/30776-66-32150-55-66-32160-55-4x-40-frei-429177e9-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Pure III/30776_66-32150-55+66-32160-55_4x_40_frei.jpg"
   },
   {
@@ -1027,8 +1027,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/30776-66-32150-55-66-32160-55-4x-70-frei-601c022c.jpg",
-    "thumb": "assets/optimized/thumbs/30776-66-32150-55-66-32160-55-4x-70-frei-601c022c.jpg",
+    "image": "assets/optimized/full/30776-66-32150-55-66-32160-55-4x-70-frei-601c022c-transparent.webp",
+    "thumb": "assets/optimized/thumbs/30776-66-32150-55-66-32160-55-4x-70-frei-601c022c-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Pure III/30776_66-32150-55+66-32160-55_4x_70_frei.jpg"
   },
   {
@@ -1039,8 +1039,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/30777-66-32070-055-66-32080-55-4x-40-frei-55fbf3f7.jpg",
-    "thumb": "assets/optimized/thumbs/30777-66-32070-055-66-32080-55-4x-40-frei-55fbf3f7.jpg",
+    "image": "assets/optimized/full/30777-66-32070-055-66-32080-55-4x-40-frei-55fbf3f7-transparent.webp",
+    "thumb": "assets/optimized/thumbs/30777-66-32070-055-66-32080-55-4x-40-frei-55fbf3f7-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Pure III/30777_66-32070-055+66-32080-55_4x_40_frei.jpg"
   },
   {
@@ -1051,8 +1051,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31861-s-1-05-20030-4x-e4f5eaa6.jpg",
-    "thumb": "assets/optimized/thumbs/31861-s-1-05-20030-4x-e4f5eaa6.jpg",
+    "image": "assets/optimized/full/31861-s-1-05-20030-4x-e4f5eaa6-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31861-s-1-05-20030-4x-e4f5eaa6-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Memoire/31861_S.1_05-20030_4x.jpg"
   },
   {
@@ -1063,8 +1063,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31862-s-6-05-20010-4x-adf98c8f.jpg",
-    "thumb": "assets/optimized/thumbs/31862-s-6-05-20010-4x-adf98c8f.jpg",
+    "image": "assets/optimized/full/31862-s-6-05-20010-4x-adf98c8f-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31862-s-6-05-20010-4x-adf98c8f-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Memoire/31862_S.6_05-20010_4x.jpg"
   },
   {
@@ -1075,8 +1075,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31864-s-7-05-20070-4x-f2f11347.jpg",
-    "thumb": "assets/optimized/thumbs/31864-s-7-05-20070-4x-f2f11347.jpg",
+    "image": "assets/optimized/full/31864-s-7-05-20070-4x-f2f11347-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31864-s-7-05-20070-4x-f2f11347-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Memoire/31864_S.7_05-20070_4x.jpg"
   },
   {
@@ -1087,8 +1087,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31865-s-8-05-20050-4x-3eb7800d.jpg",
-    "thumb": "assets/optimized/thumbs/31865-s-8-05-20050-4x-3eb7800d.jpg",
+    "image": "assets/optimized/full/31865-s-8-05-20050-4x-3eb7800d-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31865-s-8-05-20050-4x-3eb7800d-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Memoire/31865_S.8_05-20050_4x.jpg"
   },
   {
@@ -1099,8 +1099,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31867-s-11-05-20090-4x-1b84e381.jpg",
-    "thumb": "assets/optimized/thumbs/31867-s-11-05-20090-4x-1b84e381.jpg",
+    "image": "assets/optimized/full/31867-s-11-05-20090-4x-1b84e381-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31867-s-11-05-20090-4x-1b84e381-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Memoire/31867_S.11_05-20090_4x.jpg"
   },
   {
@@ -1111,8 +1111,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31868-s-10-05-20110-4x-5e22047a.jpg",
-    "thumb": "assets/optimized/thumbs/31868-s-10-05-20110-4x-5e22047a.jpg",
+    "image": "assets/optimized/full/31868-s-10-05-20110-4x-5e22047a-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31868-s-10-05-20110-4x-5e22047a-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Memoire/31868_S.10_05-20110_4x.jpg"
   },
   {
@@ -1123,8 +1123,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31869-s-2-05-20030-4x-868486dd.jpg",
-    "thumb": "assets/optimized/thumbs/31869-s-2-05-20030-4x-868486dd.jpg",
+    "image": "assets/optimized/full/31869-s-2-05-20030-4x-868486dd-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31869-s-2-05-20030-4x-868486dd-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Memoire/31869_S.2_05-20030_4x.jpg"
   },
   {
@@ -1135,8 +1135,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31870-s-13-gg-05-20030-4x-f15ed98d.jpg",
-    "thumb": "assets/optimized/thumbs/31870-s-13-gg-05-20030-4x-f15ed98d.jpg",
+    "image": "assets/optimized/full/31870-s-13-gg-05-20030-4x-f15ed98d-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31870-s-13-gg-05-20030-4x-f15ed98d-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Memoire/31870_S.13_gg_05-20030_4x.jpg"
   },
   {
@@ -1147,8 +1147,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31870-s-13-platin-05-20030-4x-311f12f1.jpg",
-    "thumb": "assets/optimized/thumbs/31870-s-13-platin-05-20030-4x-311f12f1.jpg",
+    "image": "assets/optimized/full/31870-s-13-platin-05-20030-4x-311f12f1-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31870-s-13-platin-05-20030-4x-311f12f1-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Memoire/31870_S.13_platin_05-20030_4x.jpg"
   },
   {
@@ -1159,8 +1159,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31870-s-13-rg-05-20030-4x-74a33804.jpg",
-    "thumb": "assets/optimized/thumbs/31870-s-13-rg-05-20030-4x-74a33804.jpg",
+    "image": "assets/optimized/full/31870-s-13-rg-05-20030-4x-74a33804-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31870-s-13-rg-05-20030-4x-74a33804-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Memoire/31870_S.13_rg_05-20030_4x.jpg"
   },
   {
@@ -1171,8 +1171,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31870-s-13-wg-05-20030-4x-8b1376b6.jpg",
-    "thumb": "assets/optimized/thumbs/31870-s-13-wg-05-20030-4x-8b1376b6.jpg",
+    "image": "assets/optimized/full/31870-s-13-wg-05-20030-4x-8b1376b6-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31870-s-13-wg-05-20030-4x-8b1376b6-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Memoire/31870_S.13_wg_05-20030_4x.jpg"
   },
   {
@@ -1183,8 +1183,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31870-s-2-s-13-05-20030-4x-937181dd.jpg",
-    "thumb": "assets/optimized/thumbs/31870-s-2-s-13-05-20030-4x-937181dd.jpg",
+    "image": "assets/optimized/full/31870-s-2-s-13-05-20030-4x-937181dd-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31870-s-2-s-13-05-20030-4x-937181dd-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Memoire/31870_S.2+S.13_05-20030_4x.jpg"
   },
   {
@@ -1195,8 +1195,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31871-s-3-05-20030-4x-254acc8a.jpg",
-    "thumb": "assets/optimized/thumbs/31871-s-3-05-20030-4x-254acc8a.jpg",
+    "image": "assets/optimized/full/31871-s-3-05-20030-4x-254acc8a-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31871-s-3-05-20030-4x-254acc8a-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Memoire/31871_S.3_05-20030_4x.jpg"
   },
   {
@@ -1207,8 +1207,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31872-s-3-05-20030-4x-fb101323.jpg",
-    "thumb": "assets/optimized/thumbs/31872-s-3-05-20030-4x-fb101323.jpg",
+    "image": "assets/optimized/full/31872-s-3-05-20030-4x-fb101323-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31872-s-3-05-20030-4x-fb101323-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Memoire/31872_S.3_05-20030_4x.jpg"
   },
   {
@@ -1219,8 +1219,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31872-s-5-s-16-05-20030-4x-16e65ff5.jpg",
-    "thumb": "assets/optimized/thumbs/31872-s-5-s-16-05-20030-4x-16e65ff5.jpg",
+    "image": "assets/optimized/full/31872-s-5-s-16-05-20030-4x-16e65ff5-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31872-s-5-s-16-05-20030-4x-16e65ff5-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Memoire/31872_S.5+S.16_05-20030_4x.jpg"
   },
   {
@@ -1231,8 +1231,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31873-s-17-05-20130-4x-b3dddaf7.jpg",
-    "thumb": "assets/optimized/thumbs/31873-s-17-05-20130-4x-b3dddaf7.jpg",
+    "image": "assets/optimized/full/31873-s-17-05-20130-4x-b3dddaf7-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31873-s-17-05-20130-4x-b3dddaf7-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Memoire/31873_S.17_05-20130_4x.jpg"
   },
   {
@@ -1243,8 +1243,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31874-s-17-05-20130-4x-01f35eb6.jpg",
-    "thumb": "assets/optimized/thumbs/31874-s-17-05-20130-4x-01f35eb6.jpg",
+    "image": "assets/optimized/full/31874-s-17-05-20130-4x-01f35eb6-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31874-s-17-05-20130-4x-01f35eb6-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Memoire/31874_S.17_05-20130_4x.jpg"
   },
   {
@@ -1255,8 +1255,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31875-s-17-05-20130-4x-25d2beaa.jpg",
-    "thumb": "assets/optimized/thumbs/31875-s-17-05-20130-4x-25d2beaa.jpg",
+    "image": "assets/optimized/full/31875-s-17-05-20130-4x-25d2beaa-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31875-s-17-05-20130-4x-25d2beaa-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Memoire/31875_S.17_05-20130_4x.jpg"
   },
   {
@@ -1267,8 +1267,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31876-s-17-05-20130-4x-0bc1095c.jpg",
-    "thumb": "assets/optimized/thumbs/31876-s-17-05-20130-4x-0bc1095c.jpg",
+    "image": "assets/optimized/full/31876-s-17-05-20130-4x-0bc1095c-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31876-s-17-05-20130-4x-0bc1095c-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Memoire/31876_S.17_05-20130_4x.jpg"
   },
   {
@@ -1279,8 +1279,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31877-s-17-05-20150-4x-76521873.jpg",
-    "thumb": "assets/optimized/thumbs/31877-s-17-05-20150-4x-76521873.jpg",
+    "image": "assets/optimized/full/31877-s-17-05-20150-4x-76521873-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31877-s-17-05-20150-4x-76521873-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Memoire/31877_S.17_05-20150_4x.jpg"
   },
   {
@@ -1291,8 +1291,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31878-s-17-05-20150-4x-e9c1f954.jpg",
-    "thumb": "assets/optimized/thumbs/31878-s-17-05-20150-4x-e9c1f954.jpg",
+    "image": "assets/optimized/full/31878-s-17-05-20150-4x-e9c1f954-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31878-s-17-05-20150-4x-e9c1f954-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Memoire/31878_S.17_05-20150_4x.jpg"
   },
   {
@@ -1303,8 +1303,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31879-s-17-05-20150-4x-5d758538.jpg",
-    "thumb": "assets/optimized/thumbs/31879-s-17-05-20150-4x-5d758538.jpg",
+    "image": "assets/optimized/full/31879-s-17-05-20150-4x-5d758538-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31879-s-17-05-20150-4x-5d758538-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Memoire/31879_S.17_05-20150_4x.jpg"
   },
   {
@@ -1315,8 +1315,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31880-s-17-05-20150-4x-e682a5b6.jpg",
-    "thumb": "assets/optimized/thumbs/31880-s-17-05-20150-4x-e682a5b6.jpg",
+    "image": "assets/optimized/full/31880-s-17-05-20150-4x-e682a5b6-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31880-s-17-05-20150-4x-e682a5b6-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Memoire/31880_S.17_05-20150_4x.jpg"
   },
   {
@@ -1327,8 +1327,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31881-s-14-05-20200-4x-9574e3ee.jpg",
-    "thumb": "assets/optimized/thumbs/31881-s-14-05-20200-4x-9574e3ee.jpg",
+    "image": "assets/optimized/full/31881-s-14-05-20200-4x-9574e3ee-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31881-s-14-05-20200-4x-9574e3ee-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Memoire/31881_S.14_05-20200_4x.jpg"
   },
   {
@@ -1339,8 +1339,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31882-s-14-05-20200-4x-e9694dcf.jpg",
-    "thumb": "assets/optimized/thumbs/31882-s-14-05-20200-4x-e9694dcf.jpg",
+    "image": "assets/optimized/full/31882-s-14-05-20200-4x-e9694dcf-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31882-s-14-05-20200-4x-e9694dcf-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Memoire/31882_S.14_05-20200_4x.jpg"
   },
   {
@@ -1351,8 +1351,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31883-s-14-05-20200-4x-2dd72b51.jpg",
-    "thumb": "assets/optimized/thumbs/31883-s-14-05-20200-4x-2dd72b51.jpg",
+    "image": "assets/optimized/full/31883-s-14-05-20200-4x-2dd72b51-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31883-s-14-05-20200-4x-2dd72b51-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Memoire/31883_S.14_05-20200_4x.jpg"
   },
   {
@@ -1363,8 +1363,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31884-s-14-05-20210-4x-6b827b38.jpg",
-    "thumb": "assets/optimized/thumbs/31884-s-14-05-20210-4x-6b827b38.jpg",
+    "image": "assets/optimized/full/31884-s-14-05-20210-4x-6b827b38-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31884-s-14-05-20210-4x-6b827b38-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Memoire/31884_S.14_05-20210_4x.jpg"
   },
   {
@@ -1375,8 +1375,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31885-s-14-05-20210-4x-607f42a4.jpg",
-    "thumb": "assets/optimized/thumbs/31885-s-14-05-20210-4x-607f42a4.jpg",
+    "image": "assets/optimized/full/31885-s-14-05-20210-4x-607f42a4-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31885-s-14-05-20210-4x-607f42a4-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Memoire/31885_S.14_05-20210_4x.jpg"
   },
   {
@@ -1387,8 +1387,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31886-s-14-05-20210-4x-61db000f.jpg",
-    "thumb": "assets/optimized/thumbs/31886-s-14-05-20210-4x-61db000f.jpg",
+    "image": "assets/optimized/full/31886-s-14-05-20210-4x-61db000f-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31886-s-14-05-20210-4x-61db000f-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Memoire/31886_S.14_05-20210_4x.jpg"
   },
   {
@@ -1399,8 +1399,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31887-s-14-05-20220-4x-93a9f2bd.jpg",
-    "thumb": "assets/optimized/thumbs/31887-s-14-05-20220-4x-93a9f2bd.jpg",
+    "image": "assets/optimized/full/31887-s-14-05-20220-4x-93a9f2bd-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31887-s-14-05-20220-4x-93a9f2bd-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Memoire/31887_S.14_05-20220_4x.jpg"
   },
   {
@@ -1411,8 +1411,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31888-s-14-05-20220-4x-ca3e2dfd.jpg",
-    "thumb": "assets/optimized/thumbs/31888-s-14-05-20220-4x-ca3e2dfd.jpg",
+    "image": "assets/optimized/full/31888-s-14-05-20220-4x-ca3e2dfd-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31888-s-14-05-20220-4x-ca3e2dfd-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Memoire/31888_S.14_05-20220_4x.jpg"
   },
   {
@@ -1423,8 +1423,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31889-s-14-05-20220-4x-f22d53b0.jpg",
-    "thumb": "assets/optimized/thumbs/31889-s-14-05-20220-4x-f22d53b0.jpg",
+    "image": "assets/optimized/full/31889-s-14-05-20220-4x-f22d53b0-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31889-s-14-05-20220-4x-f22d53b0-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Memoire/31889_S.14_05-20220_4x.jpg"
   },
   {
@@ -1435,8 +1435,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31890-s-15-05-20110-05-20200-4x-92c6a4ec.jpg",
-    "thumb": "assets/optimized/thumbs/31890-s-15-05-20110-05-20200-4x-92c6a4ec.jpg",
+    "image": "assets/optimized/full/31890-s-15-05-20110-05-20200-4x-92c6a4ec-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31890-s-15-05-20110-05-20200-4x-92c6a4ec-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Memoire/31890_S.15_05-20110+05-20200_4x.jpg"
   },
   {
@@ -1447,8 +1447,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31892-s-15-05-20050-05-20210-4x-d1d28940.jpg",
-    "thumb": "assets/optimized/thumbs/31892-s-15-05-20050-05-20210-4x-d1d28940.jpg",
+    "image": "assets/optimized/full/31892-s-15-05-20050-05-20210-4x-d1d28940-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31892-s-15-05-20050-05-20210-4x-d1d28940-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Memoire/31892_S.15_05-20050+05-20210_4x.jpg"
   },
   {
@@ -1459,8 +1459,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31892-s-15-05-20050-05-20210-4x-red-2952ee3a.jpg",
-    "thumb": "assets/optimized/thumbs/31892-s-15-05-20050-05-20210-4x-red-2952ee3a.jpg",
+    "image": "assets/optimized/full/31892-s-15-05-20050-05-20210-4x-red-2952ee3a-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31892-s-15-05-20050-05-20210-4x-red-2952ee3a-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Memoire/31892_S.15_05-20050+05-20210_4x_RED.jpg"
   },
   {
@@ -1471,8 +1471,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31892-s-15-05-20050-05-20210-4x-yell-97b0bef0.jpg",
-    "thumb": "assets/optimized/thumbs/31892-s-15-05-20050-05-20210-4x-yell-97b0bef0.jpg",
+    "image": "assets/optimized/full/31892-s-15-05-20050-05-20210-4x-yell-97b0bef0-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31892-s-15-05-20050-05-20210-4x-yell-97b0bef0-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Memoire/31892_S.15_05-20050+05-20210_4x_YELL.jpg"
   },
   {
@@ -1483,8 +1483,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31895-s-15-05-20090-05-20200-4x-614a2e40.jpg",
-    "thumb": "assets/optimized/thumbs/31895-s-15-05-20090-05-20200-4x-614a2e40.jpg",
+    "image": "assets/optimized/full/31895-s-15-05-20090-05-20200-4x-614a2e40-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31895-s-15-05-20090-05-20200-4x-614a2e40-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Memoire/31895_S.15_05-20090+05-20200_4x.jpg"
   },
   {
@@ -1495,8 +1495,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31896-s-15-05-20150-05-20210-4x-db40c6e4.jpg",
-    "thumb": "assets/optimized/thumbs/31896-s-15-05-20150-05-20210-4x-db40c6e4.jpg",
+    "image": "assets/optimized/full/31896-s-15-05-20150-05-20210-4x-db40c6e4-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31896-s-15-05-20150-05-20210-4x-db40c6e4-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Memoire/31896_S.15_05-20150+05-20210_4x.jpg"
   },
   {
@@ -1507,8 +1507,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31898-s-15-05-20130-05-20220-4x-c6e0cd4d.jpg",
-    "thumb": "assets/optimized/thumbs/31898-s-15-05-20130-05-20220-4x-c6e0cd4d.jpg",
+    "image": "assets/optimized/full/31898-s-15-05-20130-05-20220-4x-c6e0cd4d-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31898-s-15-05-20130-05-20220-4x-c6e0cd4d-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Memoire/31898_S.15_05_20130+05-20220_4x.jpg"
   },
   {
@@ -1519,8 +1519,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31900-s-15-05-20010-05-20200-4x-6af9ea86.jpg",
-    "thumb": "assets/optimized/thumbs/31900-s-15-05-20010-05-20200-4x-6af9ea86.jpg",
+    "image": "assets/optimized/full/31900-s-15-05-20010-05-20200-4x-6af9ea86-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31900-s-15-05-20010-05-20200-4x-6af9ea86-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Memoire/31900_S.15_05-20010+05-20200_4x.jpg"
   },
   {
@@ -1531,8 +1531,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31901-s-15-05-20050-05-20200-4x-f97aaf5a.jpg",
-    "thumb": "assets/optimized/thumbs/31901-s-15-05-20050-05-20200-4x-f97aaf5a.jpg",
+    "image": "assets/optimized/full/31901-s-15-05-20050-05-20200-4x-f97aaf5a-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31901-s-15-05-20050-05-20200-4x-f97aaf5a-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Memoire/31901_S.15_05-20050+05-20200_4x.jpg"
   },
   {
@@ -1543,8 +1543,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31902-s-15-05-20070-05-20220-4x-31384ad1.jpg",
-    "thumb": "assets/optimized/thumbs/31902-s-15-05-20070-05-20220-4x-31384ad1.jpg",
+    "image": "assets/optimized/full/31902-s-15-05-20070-05-20220-4x-31384ad1-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31902-s-15-05-20070-05-20220-4x-31384ad1-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Memoire/31902_S.15_05-20070+05-20220_4x.jpg"
   },
   {
@@ -1555,8 +1555,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/51-10010-060-51-10020-060-450-ffb8025c.jpg",
-    "thumb": "assets/optimized/thumbs/51-10010-060-51-10020-060-450-ffb8025c.jpg",
+    "image": "assets/optimized/full/51-10010-060-51-10020-060-450-ffb8025c-transparent.webp",
+    "thumb": "assets/optimized/thumbs/51-10010-060-51-10020-060-450-ffb8025c-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Premium/51-10010-060+51-10020-060_450.jpg"
   },
   {
@@ -1567,8 +1567,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/51-10030-065-51-10040-065-400-67-09b4a6e4.jpg",
-    "thumb": "assets/optimized/thumbs/51-10030-065-51-10040-065-400-67-09b4a6e4.jpg",
+    "image": "assets/optimized/full/51-10030-065-51-10040-065-400-67-09b4a6e4-transparent.webp",
+    "thumb": "assets/optimized/thumbs/51-10030-065-51-10040-065-400-67-09b4a6e4-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Premium/51-10030-065+51-10040-065_400_67.jpg"
   },
   {
@@ -1579,8 +1579,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/51-10050-055-51-10060-055-400-67-e00e7240.jpg",
-    "thumb": "assets/optimized/thumbs/51-10050-055-51-10060-055-400-67-e00e7240.jpg",
+    "image": "assets/optimized/full/51-10050-055-51-10060-055-400-67-e00e7240-transparent.webp",
+    "thumb": "assets/optimized/thumbs/51-10050-055-51-10060-055-400-67-e00e7240-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Premium/51-10050-055+51-10060-055_400_67.jpg"
   },
   {
@@ -1591,8 +1591,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/51-10070-065-51-10080-065-400-67-91ed7686.jpg",
-    "thumb": "assets/optimized/thumbs/51-10070-065-51-10080-065-400-67-91ed7686.jpg",
+    "image": "assets/optimized/full/51-10070-065-51-10080-065-400-67-91ed7686-transparent.webp",
+    "thumb": "assets/optimized/thumbs/51-10070-065-51-10080-065-400-67-91ed7686-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Premium/51-10070-065+51-10080-065_400_67.jpg"
   },
   {
@@ -1603,8 +1603,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/60-30500-200-d2e877b1.jpg",
-    "thumb": "assets/optimized/thumbs/60-30500-200-d2e877b1.jpg",
+    "image": "assets/optimized/full/60-30500-200-d2e877b1-transparent.webp",
+    "thumb": "assets/optimized/thumbs/60-30500-200-d2e877b1-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Solitaire Ringe liegend/60-30500_200%.jpg"
   },
   {
@@ -1615,8 +1615,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/60-30500-200-91304d0e.jpg",
-    "thumb": "assets/optimized/thumbs/60-30500-200-91304d0e.jpg",
+    "image": "assets/optimized/full/60-30500-200-91304d0e-transparent.webp",
+    "thumb": "assets/optimized/thumbs/60-30500-200-91304d0e-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Solitaire Ringe stehend/60-30500_200%.jpg"
   },
   {
@@ -1627,8 +1627,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/60-34500-200-0331e6ba.jpg",
-    "thumb": "assets/optimized/thumbs/60-34500-200-0331e6ba.jpg",
+    "image": "assets/optimized/full/60-34500-200-0331e6ba-transparent.webp",
+    "thumb": "assets/optimized/thumbs/60-34500-200-0331e6ba-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Solitaire Ringe liegend/60-34500_200%.jpg"
   },
   {
@@ -1639,8 +1639,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/60-34500-200-d5b1a147.jpg",
-    "thumb": "assets/optimized/thumbs/60-34500-200-d5b1a147.jpg",
+    "image": "assets/optimized/full/60-34500-200-d5b1a147-transparent.webp",
+    "thumb": "assets/optimized/thumbs/60-34500-200-d5b1a147-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Solitaire Ringe stehend/60-34500_200%.jpg"
   },
   {
@@ -1651,8 +1651,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/60-36500-200-86e4e42b.jpg",
-    "thumb": "assets/optimized/thumbs/60-36500-200-86e4e42b.jpg",
+    "image": "assets/optimized/full/60-36500-200-86e4e42b-transparent.webp",
+    "thumb": "assets/optimized/thumbs/60-36500-200-86e4e42b-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Solitaire Ringe liegend/60-36500_200%.jpg"
   },
   {
@@ -1663,8 +1663,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/60-36500-200-67a16634.jpg",
-    "thumb": "assets/optimized/thumbs/60-36500-200-67a16634.jpg",
+    "image": "assets/optimized/full/60-36500-200-67a16634-transparent.webp",
+    "thumb": "assets/optimized/thumbs/60-36500-200-67a16634-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Solitaire Ringe stehend/60-36500_200%.jpg"
   },
   {
@@ -1675,8 +1675,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/60-40500-200-7c2dfac1.jpg",
-    "thumb": "assets/optimized/thumbs/60-40500-200-7c2dfac1.jpg",
+    "image": "assets/optimized/full/60-40500-200-7c2dfac1-transparent.webp",
+    "thumb": "assets/optimized/thumbs/60-40500-200-7c2dfac1-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Solitaire Ringe liegend/60-40500_200%.jpg"
   },
   {
@@ -1687,8 +1687,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/60-40500-200-477f79cc.jpg",
-    "thumb": "assets/optimized/thumbs/60-40500-200-477f79cc.jpg",
+    "image": "assets/optimized/full/60-40500-200-477f79cc-transparent.webp",
+    "thumb": "assets/optimized/thumbs/60-40500-200-477f79cc-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Solitaire Ringe stehend/60-40500_200%.jpg"
   },
   {
@@ -1699,8 +1699,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/60-44500-200-61af5db4.jpg",
-    "thumb": "assets/optimized/thumbs/60-44500-200-61af5db4.jpg",
+    "image": "assets/optimized/full/60-44500-200-61af5db4-transparent.webp",
+    "thumb": "assets/optimized/thumbs/60-44500-200-61af5db4-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Solitaire Ringe liegend/60-44500_200%.jpg"
   },
   {
@@ -1711,8 +1711,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/60-44500-200-c757acd2.jpg",
-    "thumb": "assets/optimized/thumbs/60-44500-200-c757acd2.jpg",
+    "image": "assets/optimized/full/60-44500-200-c757acd2-transparent.webp",
+    "thumb": "assets/optimized/thumbs/60-44500-200-c757acd2-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Solitaire Ringe stehend/60-44500_200%.jpg"
   },
   {
@@ -1723,8 +1723,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/60-46500-200-353c8008.jpg",
-    "thumb": "assets/optimized/thumbs/60-46500-200-353c8008.jpg",
+    "image": "assets/optimized/full/60-46500-200-353c8008-transparent.webp",
+    "thumb": "assets/optimized/thumbs/60-46500-200-353c8008-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Solitaire Ringe liegend/60-46500_200%.jpg"
   },
   {
@@ -1735,8 +1735,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/60-46500-200-ba7c38e2.jpg",
-    "thumb": "assets/optimized/thumbs/60-46500-200-ba7c38e2.jpg",
+    "image": "assets/optimized/full/60-46500-200-ba7c38e2-transparent.webp",
+    "thumb": "assets/optimized/thumbs/60-46500-200-ba7c38e2-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Solitaire Ringe stehend/60-46500_200%.jpg"
   },
   {
@@ -1747,8 +1747,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/60-54500-200-74fb059f.jpg",
-    "thumb": "assets/optimized/thumbs/60-54500-200-74fb059f.jpg",
+    "image": "assets/optimized/full/60-54500-200-74fb059f-transparent.webp",
+    "thumb": "assets/optimized/thumbs/60-54500-200-74fb059f-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Solitaire Ringe liegend/60-54500_200%.jpg"
   },
   {
@@ -1759,8 +1759,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/60-54500-200-09f9dcc6.jpg",
-    "thumb": "assets/optimized/thumbs/60-54500-200-09f9dcc6.jpg",
+    "image": "assets/optimized/full/60-54500-200-09f9dcc6-transparent.webp",
+    "thumb": "assets/optimized/thumbs/60-54500-200-09f9dcc6-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Solitaire Ringe stehend/60-54500_200%.jpg"
   },
   {
@@ -1771,8 +1771,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/60-60500-200-7b587d01.jpg",
-    "thumb": "assets/optimized/thumbs/60-60500-200-7b587d01.jpg",
+    "image": "assets/optimized/full/60-60500-200-7b587d01-transparent.webp",
+    "thumb": "assets/optimized/thumbs/60-60500-200-7b587d01-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Solitaire Ringe liegend/60-60500_200%.jpg"
   },
   {
@@ -1783,8 +1783,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/60-60500-200-85f7c997.jpg",
-    "thumb": "assets/optimized/thumbs/60-60500-200-85f7c997.jpg",
+    "image": "assets/optimized/full/60-60500-200-85f7c997-transparent.webp",
+    "thumb": "assets/optimized/thumbs/60-60500-200-85f7c997-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Solitaire Ringe stehend/60-60500_200%.jpg"
   },
   {
@@ -1795,8 +1795,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/60-64500-200-85b18bb6.jpg",
-    "thumb": "assets/optimized/thumbs/60-64500-200-85b18bb6.jpg",
+    "image": "assets/optimized/full/60-64500-200-85b18bb6-transparent.webp",
+    "thumb": "assets/optimized/thumbs/60-64500-200-85b18bb6-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Solitaire Ringe liegend/60-64500_200%.jpg"
   },
   {
@@ -1807,8 +1807,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/60-64500-200-ca630ce7.jpg",
-    "thumb": "assets/optimized/thumbs/60-64500-200-ca630ce7.jpg",
+    "image": "assets/optimized/full/60-64500-200-ca630ce7-transparent.webp",
+    "thumb": "assets/optimized/thumbs/60-64500-200-ca630ce7-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Solitaire Ringe stehend/60-64500_200%.jpg"
   },
   {
@@ -1819,8 +1819,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/66-10010-050w-66-10020-050w-67-564ab8b6.jpg",
-    "thumb": "assets/optimized/thumbs/66-10010-050w-66-10020-050w-67-564ab8b6.jpg",
+    "image": "assets/optimized/full/66-10010-050w-66-10020-050w-67-564ab8b6-transparent.webp",
+    "thumb": "assets/optimized/thumbs/66-10010-050w-66-10020-050w-67-564ab8b6-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Harmony/66_10010-050W 66_10020-050W_67.jpg"
   },
   {
@@ -1831,8 +1831,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/66-10030-045w-66-10040-045w-67-b66cc589.jpg",
-    "thumb": "assets/optimized/thumbs/66-10030-045w-66-10040-045w-67-b66cc589.jpg",
+    "image": "assets/optimized/full/66-10030-045w-66-10040-045w-67-b66cc589-transparent.webp",
+    "thumb": "assets/optimized/thumbs/66-10030-045w-66-10040-045w-67-b66cc589-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Harmony/66_10030-045W 66_10040-045W_67.jpg"
   },
   {
@@ -1843,8 +1843,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/66-10050-045w-66-10060-045w-67-92cd36cb.jpg",
-    "thumb": "assets/optimized/thumbs/66-10050-045w-66-10060-045w-67-92cd36cb.jpg",
+    "image": "assets/optimized/full/66-10050-045w-66-10060-045w-67-92cd36cb-transparent.webp",
+    "thumb": "assets/optimized/thumbs/66-10050-045w-66-10060-045w-67-92cd36cb-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Harmony/66_10050-045W 66_10060-045W_67.jpg"
   },
   {
@@ -1855,8 +1855,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/66-10070-045w-66-10080-045w-67-e8dcad84.jpg",
-    "thumb": "assets/optimized/thumbs/66-10070-045w-66-10080-045w-67-e8dcad84.jpg",
+    "image": "assets/optimized/full/66-10070-045w-66-10080-045w-67-e8dcad84-transparent.webp",
+    "thumb": "assets/optimized/thumbs/66-10070-045w-66-10080-045w-67-e8dcad84-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Harmony/66_10070-045W 66_10080-045W_67.jpg"
   },
   {
@@ -1867,8 +1867,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/66-10090-040w-66-10100-040w-67-7443bcd6.jpg",
-    "thumb": "assets/optimized/thumbs/66-10090-040w-66-10100-040w-67-7443bcd6.jpg",
+    "image": "assets/optimized/full/66-10090-040w-66-10100-040w-67-7443bcd6-transparent.webp",
+    "thumb": "assets/optimized/thumbs/66-10090-040w-66-10100-040w-67-7443bcd6-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Harmony/66_10090-040W 66_10100-040W_67.jpg"
   },
   {
@@ -1879,8 +1879,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/66-10110-045w-66-10120-045w-67-68150c21.jpg",
-    "thumb": "assets/optimized/thumbs/66-10110-045w-66-10120-045w-67-68150c21.jpg",
+    "image": "assets/optimized/full/66-10110-045w-66-10120-045w-67-68150c21-transparent.webp",
+    "thumb": "assets/optimized/thumbs/66-10110-045w-66-10120-045w-67-68150c21-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Harmony/66_10110-045W 66_10120-045W_67.jpg"
   },
   {
@@ -1891,8 +1891,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/66-10130-045w-66-10140-045w-67-359b38d5.jpg",
-    "thumb": "assets/optimized/thumbs/66-10130-045w-66-10140-045w-67-359b38d5.jpg",
+    "image": "assets/optimized/full/66-10130-045w-66-10140-045w-67-359b38d5-transparent.webp",
+    "thumb": "assets/optimized/thumbs/66-10130-045w-66-10140-045w-67-359b38d5-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Harmony/66_10130-045W 66_10140-045W_67.jpg"
   },
   {
@@ -1903,8 +1903,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/66-10150-045g-66-10160-045g-67-ff5dd457.jpg",
-    "thumb": "assets/optimized/thumbs/66-10150-045g-66-10160-045g-67-ff5dd457.jpg",
+    "image": "assets/optimized/full/66-10150-045g-66-10160-045g-67-ff5dd457-transparent.webp",
+    "thumb": "assets/optimized/thumbs/66-10150-045g-66-10160-045g-67-ff5dd457-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Harmony/66_10150-045G 66_10160-045G_67.jpg"
   },
   {
@@ -1915,8 +1915,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/66-10170-050g-66-10180-050g-67-d79f2e14.jpg",
-    "thumb": "assets/optimized/thumbs/66-10170-050g-66-10180-050g-67-d79f2e14.jpg",
+    "image": "assets/optimized/full/66-10170-050g-66-10180-050g-67-d79f2e14-transparent.webp",
+    "thumb": "assets/optimized/thumbs/66-10170-050g-66-10180-050g-67-d79f2e14-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Harmony/66_10170-050G 66_10180-050G_67.jpg"
   },
   {
@@ -1927,8 +1927,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/66-10190-045rwr-66-10200-045rwr-67-ee882500.jpg",
-    "thumb": "assets/optimized/thumbs/66-10190-045rwr-66-10200-045rwr-67-ee882500.jpg",
+    "image": "assets/optimized/full/66-10190-045rwr-66-10200-045rwr-67-ee882500-transparent.webp",
+    "thumb": "assets/optimized/thumbs/66-10190-045rwr-66-10200-045rwr-67-ee882500-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Harmony/66_10190-045RWR 66_10200-045RWR_67.jpg"
   },
   {
@@ -1939,8 +1939,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/66-10210-050g-66-10220-050g-67-cbdfd1b7.jpg",
-    "thumb": "assets/optimized/thumbs/66-10210-050g-66-10220-050g-67-cbdfd1b7.jpg",
+    "image": "assets/optimized/full/66-10210-050g-66-10220-050g-67-cbdfd1b7-transparent.webp",
+    "thumb": "assets/optimized/thumbs/66-10210-050g-66-10220-050g-67-cbdfd1b7-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Harmony/66_10210-050G 66_10220_050G_67.jpg"
   },
   {
@@ -1951,8 +1951,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/66-10230-050g-66-10240-050g-67-0facbeae.jpg",
-    "thumb": "assets/optimized/thumbs/66-10230-050g-66-10240-050g-67-0facbeae.jpg",
+    "image": "assets/optimized/full/66-10230-050g-66-10240-050g-67-0facbeae-transparent.webp",
+    "thumb": "assets/optimized/thumbs/66-10230-050g-66-10240-050g-67-0facbeae-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Harmony/66_10230-050G 66_10240-050G_67.jpg"
   },
   {
@@ -1963,8 +1963,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/66-10250-045wgw-66-10260-045wgw-67-14edf9a4.jpg",
-    "thumb": "assets/optimized/thumbs/66-10250-045wgw-66-10260-045wgw-67-14edf9a4.jpg",
+    "image": "assets/optimized/full/66-10250-045wgw-66-10260-045wgw-67-14edf9a4-transparent.webp",
+    "thumb": "assets/optimized/thumbs/66-10250-045wgw-66-10260-045wgw-67-14edf9a4-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Harmony/66_10250-045WGW 66_10260-045WGW_67.jpg"
   },
   {
@@ -1975,8 +1975,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/66-10270-050gwg-66-10280-050gwg-67-5d39fa77.jpg",
-    "thumb": "assets/optimized/thumbs/66-10270-050gwg-66-10280-050gwg-67-5d39fa77.jpg",
+    "image": "assets/optimized/full/66-10270-050gwg-66-10280-050gwg-67-5d39fa77-transparent.webp",
+    "thumb": "assets/optimized/thumbs/66-10270-050gwg-66-10280-050gwg-67-5d39fa77-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Harmony/66_10270-050GWG 66_10280-050GWG_67.jpg"
   },
   {
@@ -1987,8 +1987,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/66-10290-045rwr-66-10300-045rwr-67-721ebbc3.jpg",
-    "thumb": "assets/optimized/thumbs/66-10290-045rwr-66-10300-045rwr-67-721ebbc3.jpg",
+    "image": "assets/optimized/full/66-10290-045rwr-66-10300-045rwr-67-721ebbc3-transparent.webp",
+    "thumb": "assets/optimized/thumbs/66-10290-045rwr-66-10300-045rwr-67-721ebbc3-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Harmony/66_10290-045RWR 66_10300-045RWR_67.jpg"
   },
   {
@@ -1999,8 +1999,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/66-10310-045-w-66-10320-045-w-67-1b5915a2.jpg",
-    "thumb": "assets/optimized/thumbs/66-10310-045-w-66-10320-045-w-67-1b5915a2.jpg",
+    "image": "assets/optimized/full/66-10310-045-w-66-10320-045-w-67-1b5915a2-transparent.webp",
+    "thumb": "assets/optimized/thumbs/66-10310-045-w-66-10320-045-w-67-1b5915a2-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Harmony/66_10310_045 W 66_10320_045 W_67.jpg"
   },
   {
@@ -2011,8 +2011,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/66-10330-050-w-66-10340-050-w-67-b1b859e6.jpg",
-    "thumb": "assets/optimized/thumbs/66-10330-050-w-66-10340-050-w-67-b1b859e6.jpg",
+    "image": "assets/optimized/full/66-10330-050-w-66-10340-050-w-67-b1b859e6-transparent.webp",
+    "thumb": "assets/optimized/thumbs/66-10330-050-w-66-10340-050-w-67-b1b859e6-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Harmony/66_10330-050 W 66_10340-050 W_67.jpg"
   },
   {
@@ -2023,8 +2023,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/66-10350-050-w-66-10360-050-w-67-0d4f48c0.jpg",
-    "thumb": "assets/optimized/thumbs/66-10350-050-w-66-10360-050-w-67-0d4f48c0.jpg",
+    "image": "assets/optimized/full/66-10350-050-w-66-10360-050-w-67-0d4f48c0-transparent.webp",
+    "thumb": "assets/optimized/thumbs/66-10350-050-w-66-10360-050-w-67-0d4f48c0-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Harmony/66_10350-050 W 66_10360-050 W_67.jpg"
   },
   {
@@ -2035,8 +2035,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/66-30010-50-66-30020-50-50-2e33687f.jpg",
-    "thumb": "assets/optimized/thumbs/66-30010-50-66-30020-50-50-2e33687f.jpg",
+    "image": "assets/optimized/full/66-30010-50-66-30020-50-50-2e33687f-transparent.webp",
+    "thumb": "assets/optimized/thumbs/66-30010-50-66-30020-50-50-2e33687f-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Pure I/66-30010-50+66-30020-50_50.jpg"
   },
   {
@@ -2047,8 +2047,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/66-30010-50-66-30020-50-gg-50-3512a067.jpg",
-    "thumb": "assets/optimized/thumbs/66-30010-50-66-30020-50-gg-50-3512a067.jpg",
+    "image": "assets/optimized/full/66-30010-50-66-30020-50-gg-50-3512a067-transparent.webp",
+    "thumb": "assets/optimized/thumbs/66-30010-50-66-30020-50-gg-50-3512a067-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Pure II/66-30010-50+66-30020-50_gg_50.jpg"
   },
   {
@@ -2059,8 +2059,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/66-30030-50-66-30040-50-50-118cc668.jpg",
-    "thumb": "assets/optimized/thumbs/66-30030-50-66-30040-50-50-118cc668.jpg",
+    "image": "assets/optimized/full/66-30030-50-66-30040-50-50-118cc668-transparent.webp",
+    "thumb": "assets/optimized/thumbs/66-30030-50-66-30040-50-50-118cc668-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Pure I/66-30030-50+66-30040-50_50.jpg"
   },
   {
@@ -2071,8 +2071,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/66-30030-50-66-30040-50-gg-50-67d8b05c.jpg",
-    "thumb": "assets/optimized/thumbs/66-30030-50-66-30040-50-gg-50-67d8b05c.jpg",
+    "image": "assets/optimized/full/66-30030-50-66-30040-50-gg-50-67d8b05c-transparent.webp",
+    "thumb": "assets/optimized/thumbs/66-30030-50-66-30040-50-gg-50-67d8b05c-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Pure II/66-30030-50+66-30040-50_gg_50.jpg"
   },
   {
@@ -2083,8 +2083,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/66-30050-50-66-30060-50-50-48686399.jpg",
-    "thumb": "assets/optimized/thumbs/66-30050-50-66-30060-50-50-48686399.jpg",
+    "image": "assets/optimized/full/66-30050-50-66-30060-50-50-48686399-transparent.webp",
+    "thumb": "assets/optimized/thumbs/66-30050-50-66-30060-50-50-48686399-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Pure I/66-30050-50+66-30060-50_50.jpg"
   },
   {
@@ -2095,8 +2095,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/66-30050-50-66-30060-50-gg-50-bf144a5f.jpg",
-    "thumb": "assets/optimized/thumbs/66-30050-50-66-30060-50-gg-50-bf144a5f.jpg",
+    "image": "assets/optimized/full/66-30050-50-66-30060-50-gg-50-bf144a5f-transparent.webp",
+    "thumb": "assets/optimized/thumbs/66-30050-50-66-30060-50-gg-50-bf144a5f-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Pure II/66-30050-50+66-30060-50_gg_50.jpg"
   },
   {
@@ -2107,8 +2107,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/66-30070-45-66-30080-45-50-af8b89e3.jpg",
-    "thumb": "assets/optimized/thumbs/66-30070-45-66-30080-45-50-af8b89e3.jpg",
+    "image": "assets/optimized/full/66-30070-45-66-30080-45-50-af8b89e3-transparent.webp",
+    "thumb": "assets/optimized/thumbs/66-30070-45-66-30080-45-50-af8b89e3-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Pure I/66-30070-45+66-30080-45_50.jpg"
   },
   {
@@ -2119,8 +2119,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/66-30070-45-66-30080-45-gg-50-c647be04.jpg",
-    "thumb": "assets/optimized/thumbs/66-30070-45-66-30080-45-gg-50-c647be04.jpg",
+    "image": "assets/optimized/full/66-30070-45-66-30080-45-gg-50-c647be04-transparent.webp",
+    "thumb": "assets/optimized/thumbs/66-30070-45-66-30080-45-gg-50-c647be04-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Pure II/66-30070-45+66-30080-45_gg_50.jpg"
   },
   {
@@ -2131,8 +2131,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/66-30090-50-66-30100-50-50-e30510bf.jpg",
-    "thumb": "assets/optimized/thumbs/66-30090-50-66-30100-50-50-e30510bf.jpg",
+    "image": "assets/optimized/full/66-30090-50-66-30100-50-50-e30510bf-transparent.webp",
+    "thumb": "assets/optimized/thumbs/66-30090-50-66-30100-50-50-e30510bf-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Pure I/66-30090-50+66-30100-50_50.jpg"
   },
   {
@@ -2143,8 +2143,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/66-30090-50-66-30100-50-gg-50-85ebd95e.jpg",
-    "thumb": "assets/optimized/thumbs/66-30090-50-66-30100-50-gg-50-85ebd95e.jpg",
+    "image": "assets/optimized/full/66-30090-50-66-30100-50-gg-50-85ebd95e-transparent.webp",
+    "thumb": "assets/optimized/thumbs/66-30090-50-66-30100-50-gg-50-85ebd95e-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Pure II/66-30090-50+66-30100-50_gg_50.jpg"
   },
   {
@@ -2155,8 +2155,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/66-30110-45-66-30120-45-50-519a54f4.jpg",
-    "thumb": "assets/optimized/thumbs/66-30110-45-66-30120-45-50-519a54f4.jpg",
+    "image": "assets/optimized/full/66-30110-45-66-30120-45-50-519a54f4-transparent.webp",
+    "thumb": "assets/optimized/thumbs/66-30110-45-66-30120-45-50-519a54f4-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Pure I/66-30110-45+66-30120-45_50.jpg"
   },
   {
@@ -2167,8 +2167,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/66-30110-45-66-30120-45-gg-50-c7e16594.jpg",
-    "thumb": "assets/optimized/thumbs/66-30110-45-66-30120-45-gg-50-c7e16594.jpg",
+    "image": "assets/optimized/full/66-30110-45-66-30120-45-gg-50-c7e16594-transparent.webp",
+    "thumb": "assets/optimized/thumbs/66-30110-45-66-30120-45-gg-50-c7e16594-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Pure II/66-30110-45+66-30120-45_gg_50.jpg"
   },
   {
@@ -2179,8 +2179,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/66-30130-55-66-30140-55-50-b4bcd97e.jpg",
-    "thumb": "assets/optimized/thumbs/66-30130-55-66-30140-55-50-b4bcd97e.jpg",
+    "image": "assets/optimized/full/66-30130-55-66-30140-55-50-b4bcd97e-transparent.webp",
+    "thumb": "assets/optimized/thumbs/66-30130-55-66-30140-55-50-b4bcd97e-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Pure I/66-30130-55+66-30140-55_50.jpg"
   },
   {
@@ -2191,8 +2191,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/66-30130-55-66-30140-55-gg-50-03806d1a.jpg",
-    "thumb": "assets/optimized/thumbs/66-30130-55-66-30140-55-gg-50-03806d1a.jpg",
+    "image": "assets/optimized/full/66-30130-55-66-30140-55-gg-50-03806d1a-transparent.webp",
+    "thumb": "assets/optimized/thumbs/66-30130-55-66-30140-55-gg-50-03806d1a-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Pure II/66-30130-55+66-30140-55_gg_50.jpg"
   },
   {
@@ -2203,8 +2203,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/66-30150-50-66-30160-50-50-0d4aec74.jpg",
-    "thumb": "assets/optimized/thumbs/66-30150-50-66-30160-50-50-0d4aec74.jpg",
+    "image": "assets/optimized/full/66-30150-50-66-30160-50-50-0d4aec74-transparent.webp",
+    "thumb": "assets/optimized/thumbs/66-30150-50-66-30160-50-50-0d4aec74-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Pure I/66-30150-50+66-30160-50_50.jpg"
   },
   {
@@ -2215,8 +2215,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/66-30150-50-66-30160-50-gg-50-e6b6259d.jpg",
-    "thumb": "assets/optimized/thumbs/66-30150-50-66-30160-50-gg-50-e6b6259d.jpg",
+    "image": "assets/optimized/full/66-30150-50-66-30160-50-gg-50-e6b6259d-transparent.webp",
+    "thumb": "assets/optimized/thumbs/66-30150-50-66-30160-50-gg-50-e6b6259d-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Pure II/66-30150-50+66-30160-50_gg_50.jpg"
   },
   {
@@ -2227,8 +2227,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/66-30170-50-66-30180-50-50-e66d688b.jpg",
-    "thumb": "assets/optimized/thumbs/66-30170-50-66-30180-50-50-e66d688b.jpg",
+    "image": "assets/optimized/full/66-30170-50-66-30180-50-50-e66d688b-transparent.webp",
+    "thumb": "assets/optimized/thumbs/66-30170-50-66-30180-50-50-e66d688b-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Pure I/66-30170-50+66-30180-50_50.jpg"
   },
   {
@@ -2239,8 +2239,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Ruesch Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Ruesch\nKategorie: Anlässe\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/66-30170-50-66-30180-50-gg-50-e89ad3bf.jpg",
-    "thumb": "assets/optimized/thumbs/66-30170-50-66-30180-50-gg-50-e89ad3bf.jpg",
+    "image": "assets/optimized/full/66-30170-50-66-30180-50-gg-50-e89ad3bf-transparent.webp",
+    "thumb": "assets/optimized/thumbs/66-30170-50-66-30180-50-gg-50-e89ad3bf-transparent.webp",
     "source": "EheringeStick/Eheringe Ruesch/Pure II/66-30170-50+66-30180-50_gg_50.jpg"
   },
   {
@@ -2251,8 +2251,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Juwelier Sarikow\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/23-30330-46a8d213.jpg",
-    "thumb": "assets/optimized/thumbs/23-30330-46a8d213.jpg",
+    "image": "assets/optimized/full/23-30330-46a8d213-transparent.webp",
+    "thumb": "assets/optimized/thumbs/23-30330-46a8d213-transparent.webp",
     "source": "kleine Bilder/23-30330.jpg"
   },
   {
@@ -2263,8 +2263,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Juwelier Sarikow\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/23-34330-cb8396fe.jpg",
-    "thumb": "assets/optimized/thumbs/23-34330-cb8396fe.jpg",
+    "image": "assets/optimized/full/23-34330-cb8396fe-transparent.webp",
+    "thumb": "assets/optimized/thumbs/23-34330-cb8396fe-transparent.webp",
     "source": "kleine Bilder/23-34330.jpg"
   },
   {
@@ -2275,8 +2275,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Juwelier Sarikow\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/23-36330-32eccd5a.jpg",
-    "thumb": "assets/optimized/thumbs/23-36330-32eccd5a.jpg",
+    "image": "assets/optimized/full/23-36330-32eccd5a-transparent.webp",
+    "thumb": "assets/optimized/thumbs/23-36330-32eccd5a-transparent.webp",
     "source": "kleine Bilder/23-36330.jpg"
   },
   {
@@ -2287,8 +2287,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "C&C Gioielli Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: C&C Gioielli\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1-4258ab30.jpg",
-    "thumb": "assets/optimized/thumbs/1-1-4258ab30.jpg",
+    "image": "assets/optimized/full/1-1-4258ab30-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1-4258ab30-transparent.webp",
     "source": "C&C Bilder/1.1.jpg"
   },
   {
@@ -2299,8 +2299,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "C&C Gioielli Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: C&C Gioielli\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-2-6769d2b6.jpg",
-    "thumb": "assets/optimized/thumbs/1-2-6769d2b6.jpg",
+    "image": "assets/optimized/full/1-2-6769d2b6-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-2-6769d2b6-transparent.webp",
     "source": "C&C Bilder/1.2.jpg"
   },
   {
@@ -2311,8 +2311,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "C&C Gioielli Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: C&C Gioielli\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-3-e52ca634.jpg",
-    "thumb": "assets/optimized/thumbs/1-3-e52ca634.jpg",
+    "image": "assets/optimized/full/1-3-e52ca634-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-3-e52ca634-transparent.webp",
     "source": "C&C Bilder/1.3.jpg"
   },
   {
@@ -2323,8 +2323,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "C&C Gioielli Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: C&C Gioielli\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-4-de6d469e.jpg",
-    "thumb": "assets/optimized/thumbs/1-4-de6d469e.jpg",
+    "image": "assets/optimized/full/1-4-de6d469e-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-4-de6d469e-transparent.webp",
     "source": "C&C Bilder/1.4.jpg"
   },
   {
@@ -2335,8 +2335,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "C&C Gioielli Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: C&C Gioielli\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-5-42fcd7dd.jpg",
-    "thumb": "assets/optimized/thumbs/1-5-42fcd7dd.jpg",
+    "image": "assets/optimized/full/1-5-42fcd7dd-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-5-42fcd7dd-transparent.webp",
     "source": "C&C Bilder/1.5.jpg"
   },
   {
@@ -2347,8 +2347,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "C&C Gioielli Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: C&C Gioielli\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/2-1-f89ea3ed.jpg",
-    "thumb": "assets/optimized/thumbs/2-1-f89ea3ed.jpg",
+    "image": "assets/optimized/full/2-1-f89ea3ed-transparent.webp",
+    "thumb": "assets/optimized/thumbs/2-1-f89ea3ed-transparent.webp",
     "source": "C&C Bilder/2.1.jpg"
   },
   {
@@ -2359,8 +2359,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "C&C Gioielli Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: C&C Gioielli\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/3-1-902bee71.jpg",
-    "thumb": "assets/optimized/thumbs/3-1-902bee71.jpg",
+    "image": "assets/optimized/full/3-1-902bee71-transparent.webp",
+    "thumb": "assets/optimized/thumbs/3-1-902bee71-transparent.webp",
     "source": "C&C Bilder/3.1.jpg"
   },
   {
@@ -2371,8 +2371,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "C&C Gioielli Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: C&C Gioielli\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/4-1-f3ed68e6.jpg",
-    "thumb": "assets/optimized/thumbs/4-1-f3ed68e6.jpg",
+    "image": "assets/optimized/full/4-1-f3ed68e6-transparent.webp",
+    "thumb": "assets/optimized/thumbs/4-1-f3ed68e6-transparent.webp",
     "source": "C&C Bilder/4.1.jpg"
   },
   {
@@ -2383,8 +2383,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "C&C Gioielli Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: C&C Gioielli\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/5-1-ac105ccf.jpg",
-    "thumb": "assets/optimized/thumbs/5-1-ac105ccf.jpg",
+    "image": "assets/optimized/full/5-1-ac105ccf-transparent.webp",
+    "thumb": "assets/optimized/thumbs/5-1-ac105ccf-transparent.webp",
     "source": "C&C Bilder/5.1.jpg"
   },
   {
@@ -2395,8 +2395,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "C&C Gioielli Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: C&C Gioielli\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/6-1-28e8c32b.jpg",
-    "thumb": "assets/optimized/thumbs/6-1-28e8c32b.jpg",
+    "image": "assets/optimized/full/6-1-28e8c32b-transparent.webp",
+    "thumb": "assets/optimized/thumbs/6-1-28e8c32b-transparent.webp",
     "source": "C&C Bilder/6.1.jpg"
   },
   {
@@ -2407,8 +2407,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "C&C Gioielli Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: C&C Gioielli\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/7-1-0af1d29b.jpg",
-    "thumb": "assets/optimized/thumbs/7-1-0af1d29b.jpg",
+    "image": "assets/optimized/full/7-1-0af1d29b-transparent.webp",
+    "thumb": "assets/optimized/thumbs/7-1-0af1d29b-transparent.webp",
     "source": "C&C Bilder/7.1.jpg"
   },
   {
@@ -2419,8 +2419,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "C&C Gioielli Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: C&C Gioielli\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/8-1-e1f5e110.jpg",
-    "thumb": "assets/optimized/thumbs/8-1-e1f5e110.jpg",
+    "image": "assets/optimized/full/8-1-e1f5e110-transparent.webp",
+    "thumb": "assets/optimized/thumbs/8-1-e1f5e110-transparent.webp",
     "source": "C&C Bilder/8.1.jpg"
   },
   {
@@ -2431,9 +2431,9 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "C&C Gioielli Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: C&C Gioielli\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/c-und-cschwarz-ecbbfa7d.jpg",
-    "thumb": "assets/optimized/thumbs/c-und-cschwarz-ecbbfa7d.jpg",
-    "source": "C&C Bilder/c&cschwarz.png"
+    "image": "assets/optimized/full/c-und-cschwarz-ecbbfa7d-transparent.webp",
+    "thumb": "assets/optimized/thumbs/c-und-cschwarz-ecbbfa7d-transparent.webp",
+    "source": "C&C Bilder/c&cschwarz.webp"
   },
   {
     "id": "c-und-cschwarz-kopie-26f2c17f",
@@ -2443,9 +2443,9 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "C&C Gioielli Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: C&C Gioielli\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/c-und-cschwarz-kopie-26f2c17f.jpg",
-    "thumb": "assets/optimized/thumbs/c-und-cschwarz-kopie-26f2c17f.jpg",
-    "source": "C&C Bilder/c&cschwarz Kopie.png"
+    "image": "assets/optimized/full/c-und-cschwarz-kopie-26f2c17f-transparent.webp",
+    "thumb": "assets/optimized/thumbs/c-und-cschwarz-kopie-26f2c17f-transparent.webp",
+    "source": "C&C Bilder/c&cschwarz Kopie.webp"
   },
   {
     "id": "021433-1500-ad7d82e3",
@@ -2455,9 +2455,9 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Coeur de Lion Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Coeur de Lion\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/021433-1500-ad7d82e3.jpg",
-    "thumb": "assets/optimized/thumbs/021433-1500-ad7d82e3.jpg",
-    "source": "Coer de Lion Bilder/Coeur de Lion/Armbänder/021433-1500.png"
+    "image": "assets/optimized/full/021433-1500-ad7d82e3-transparent.webp",
+    "thumb": "assets/optimized/thumbs/021433-1500-ad7d82e3-transparent.webp",
+    "source": "Coer de Lion Bilder/Coeur de Lion/Armbänder/021433-1500.webp"
   },
   {
     "id": "283810-1573-323105bc",
@@ -2467,9 +2467,9 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Coeur de Lion Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Coeur de Lion\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/283810-1573-323105bc.jpg",
-    "thumb": "assets/optimized/thumbs/283810-1573-323105bc.jpg",
-    "source": "Coer de Lion Bilder/Coeur de Lion/Ketten/283810-1573.png"
+    "image": "assets/optimized/full/283810-1573-323105bc-transparent.webp",
+    "thumb": "assets/optimized/thumbs/283810-1573-323105bc-transparent.webp",
+    "source": "Coer de Lion Bilder/Coeur de Lion/Ketten/283810-1573.webp"
   },
   {
     "id": "283810-1575-8ea7a307",
@@ -2479,9 +2479,9 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Coeur de Lion Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Coeur de Lion\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/283810-1575-8ea7a307.jpg",
-    "thumb": "assets/optimized/thumbs/283810-1575-8ea7a307.jpg",
-    "source": "Coer de Lion Bilder/Coeur de Lion/Ketten/283810-1575.png"
+    "image": "assets/optimized/full/283810-1575-8ea7a307-transparent.webp",
+    "thumb": "assets/optimized/thumbs/283810-1575-8ea7a307-transparent.webp",
+    "source": "Coer de Lion Bilder/Coeur de Lion/Ketten/283810-1575.webp"
   },
   {
     "id": "283820-1573-6c0eda69",
@@ -2491,9 +2491,9 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Coeur de Lion Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Coeur de Lion\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/283820-1573-6c0eda69.jpg",
-    "thumb": "assets/optimized/thumbs/283820-1573-6c0eda69.jpg",
-    "source": "Coer de Lion Bilder/Coeur de Lion/Ohrringe/283820-1573.png"
+    "image": "assets/optimized/full/283820-1573-6c0eda69-transparent.webp",
+    "thumb": "assets/optimized/thumbs/283820-1573-6c0eda69-transparent.webp",
+    "source": "Coer de Lion Bilder/Coeur de Lion/Ohrringe/283820-1573.webp"
   },
   {
     "id": "283830-1573-dcdfea6a",
@@ -2503,9 +2503,9 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Coeur de Lion Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Coeur de Lion\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/283830-1573-dcdfea6a.jpg",
-    "thumb": "assets/optimized/thumbs/283830-1573-dcdfea6a.jpg",
-    "source": "Coer de Lion Bilder/Coeur de Lion/Armbänder/283830-1573.png"
+    "image": "assets/optimized/full/283830-1573-dcdfea6a-transparent.webp",
+    "thumb": "assets/optimized/thumbs/283830-1573-dcdfea6a-transparent.webp",
+    "source": "Coer de Lion Bilder/Coeur de Lion/Armbänder/283830-1573.webp"
   },
   {
     "id": "401310-0300-a0eff967",
@@ -2515,9 +2515,9 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Coeur de Lion Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Coeur de Lion\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/401310-0300-a0eff967.jpg",
-    "thumb": "assets/optimized/thumbs/401310-0300-a0eff967.jpg",
-    "source": "Coer de Lion Bilder/Coeur de Lion/Ketten/401310-0300.png"
+    "image": "assets/optimized/full/401310-0300-a0eff967-transparent.webp",
+    "thumb": "assets/optimized/thumbs/401310-0300-a0eff967-transparent.webp",
+    "source": "Coer de Lion Bilder/Coeur de Lion/Ketten/401310-0300.webp"
   },
   {
     "id": "401320-0300-44887e39",
@@ -2527,9 +2527,9 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Coeur de Lion Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Coeur de Lion\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/401320-0300-44887e39.jpg",
-    "thumb": "assets/optimized/thumbs/401320-0300-44887e39.jpg",
-    "source": "Coer de Lion Bilder/Coeur de Lion/Ohrringe/401320-0300.png"
+    "image": "assets/optimized/full/401320-0300-44887e39-transparent.webp",
+    "thumb": "assets/optimized/thumbs/401320-0300-44887e39-transparent.webp",
+    "source": "Coer de Lion Bilder/Coeur de Lion/Ohrringe/401320-0300.webp"
   },
   {
     "id": "401330-0300-133955d3",
@@ -2539,9 +2539,9 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Coeur de Lion Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Coeur de Lion\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/401330-0300-133955d3.jpg",
-    "thumb": "assets/optimized/thumbs/401330-0300-133955d3.jpg",
-    "source": "Coer de Lion Bilder/Coeur de Lion/Armbänder/401330-0300.png"
+    "image": "assets/optimized/full/401330-0300-133955d3-transparent.webp",
+    "thumb": "assets/optimized/thumbs/401330-0300-133955d3-transparent.webp",
+    "source": "Coer de Lion Bilder/Coeur de Lion/Armbänder/401330-0300.webp"
   },
   {
     "id": "401520-0735-f3bfd1dd",
@@ -2551,9 +2551,9 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Coeur de Lion Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Coeur de Lion\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/401520-0735-f3bfd1dd.jpg",
-    "thumb": "assets/optimized/thumbs/401520-0735-f3bfd1dd.jpg",
-    "source": "Coer de Lion Bilder/Coeur de Lion/Ohrringe/401520-0735.png"
+    "image": "assets/optimized/full/401520-0735-f3bfd1dd-transparent.webp",
+    "thumb": "assets/optimized/thumbs/401520-0735-f3bfd1dd-transparent.webp",
+    "source": "Coer de Lion Bilder/Coeur de Lion/Ohrringe/401520-0735.webp"
   },
   {
     "id": "401610-0700-e70c051a",
@@ -2563,9 +2563,9 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Coeur de Lion Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Coeur de Lion\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/401610-0700-e70c051a.jpg",
-    "thumb": "assets/optimized/thumbs/401610-0700-e70c051a.jpg",
-    "source": "Coer de Lion Bilder/Coeur de Lion/Ketten/401610-0700.png"
+    "image": "assets/optimized/full/401610-0700-e70c051a-transparent.webp",
+    "thumb": "assets/optimized/thumbs/401610-0700-e70c051a-transparent.webp",
+    "source": "Coer de Lion Bilder/Coeur de Lion/Ketten/401610-0700.webp"
   },
   {
     "id": "401610-0800-73356fb1",
@@ -2575,9 +2575,9 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Coeur de Lion Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Coeur de Lion\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/401610-0800-73356fb1.jpg",
-    "thumb": "assets/optimized/thumbs/401610-0800-73356fb1.jpg",
-    "source": "Coer de Lion Bilder/Coeur de Lion/Ketten/401610-0800.png"
+    "image": "assets/optimized/full/401610-0800-73356fb1-transparent.webp",
+    "thumb": "assets/optimized/thumbs/401610-0800-73356fb1-transparent.webp",
+    "source": "Coer de Lion Bilder/Coeur de Lion/Ketten/401610-0800.webp"
   },
   {
     "id": "401610-1920-16dd6ede",
@@ -2587,9 +2587,9 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Coeur de Lion Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Coeur de Lion\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/401610-1920-16dd6ede.jpg",
-    "thumb": "assets/optimized/thumbs/401610-1920-16dd6ede.jpg",
-    "source": "Coer de Lion Bilder/Coeur de Lion/Ketten/401610-1920.png"
+    "image": "assets/optimized/full/401610-1920-16dd6ede-transparent.webp",
+    "thumb": "assets/optimized/thumbs/401610-1920-16dd6ede-transparent.webp",
+    "source": "Coer de Lion Bilder/Coeur de Lion/Ketten/401610-1920.webp"
   },
   {
     "id": "401610-2000-02402f1a",
@@ -2599,9 +2599,9 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Coeur de Lion Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Coeur de Lion\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/401610-2000-02402f1a.jpg",
-    "thumb": "assets/optimized/thumbs/401610-2000-02402f1a.jpg",
-    "source": "Coer de Lion Bilder/Coeur de Lion/Ketten/401610-2000.png"
+    "image": "assets/optimized/full/401610-2000-02402f1a-transparent.webp",
+    "thumb": "assets/optimized/thumbs/401610-2000-02402f1a-transparent.webp",
+    "source": "Coer de Lion Bilder/Coeur de Lion/Ketten/401610-2000.webp"
   },
   {
     "id": "401620-0800-8d3b911a",
@@ -2611,9 +2611,9 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Coeur de Lion Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Coeur de Lion\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/401620-0800-8d3b911a.jpg",
-    "thumb": "assets/optimized/thumbs/401620-0800-8d3b911a.jpg",
-    "source": "Coer de Lion Bilder/Coeur de Lion/Ohrringe/401620-0800.png"
+    "image": "assets/optimized/full/401620-0800-8d3b911a-transparent.webp",
+    "thumb": "assets/optimized/thumbs/401620-0800-8d3b911a-transparent.webp",
+    "source": "Coer de Lion Bilder/Coeur de Lion/Ohrringe/401620-0800.webp"
   },
   {
     "id": "401620-1920-c0a301c4",
@@ -2623,9 +2623,9 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Coeur de Lion Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Coeur de Lion\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/401620-1920-c0a301c4.jpg",
-    "thumb": "assets/optimized/thumbs/401620-1920-c0a301c4.jpg",
-    "source": "Coer de Lion Bilder/Coeur de Lion/Ohrringe/401620-1920.png"
+    "image": "assets/optimized/full/401620-1920-c0a301c4-transparent.webp",
+    "thumb": "assets/optimized/thumbs/401620-1920-c0a301c4-transparent.webp",
+    "source": "Coer de Lion Bilder/Coeur de Lion/Ohrringe/401620-1920.webp"
   },
   {
     "id": "401630-0700-b58cbb12",
@@ -2635,9 +2635,9 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Coeur de Lion Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Coeur de Lion\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/401630-0700-b58cbb12.jpg",
-    "thumb": "assets/optimized/thumbs/401630-0700-b58cbb12.jpg",
-    "source": "Coer de Lion Bilder/Coeur de Lion/Armbänder/401630-0700.png"
+    "image": "assets/optimized/full/401630-0700-b58cbb12-transparent.webp",
+    "thumb": "assets/optimized/thumbs/401630-0700-b58cbb12-transparent.webp",
+    "source": "Coer de Lion Bilder/Coeur de Lion/Armbänder/401630-0700.webp"
   },
   {
     "id": "401630-0800-78f42c92",
@@ -2647,9 +2647,9 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Coeur de Lion Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Coeur de Lion\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/401630-0800-78f42c92.jpg",
-    "thumb": "assets/optimized/thumbs/401630-0800-78f42c92.jpg",
-    "source": "Coer de Lion Bilder/Coeur de Lion/Armbänder/401630-0800.png"
+    "image": "assets/optimized/full/401630-0800-78f42c92-transparent.webp",
+    "thumb": "assets/optimized/thumbs/401630-0800-78f42c92-transparent.webp",
+    "source": "Coer de Lion Bilder/Coeur de Lion/Armbänder/401630-0800.webp"
   },
   {
     "id": "401630-1920-da58e33a",
@@ -2659,9 +2659,9 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Coeur de Lion Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Coeur de Lion\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/401630-1920-da58e33a.jpg",
-    "thumb": "assets/optimized/thumbs/401630-1920-da58e33a.jpg",
-    "source": "Coer de Lion Bilder/Coeur de Lion/Armbänder/401630-1920.png"
+    "image": "assets/optimized/full/401630-1920-da58e33a-transparent.webp",
+    "thumb": "assets/optimized/thumbs/401630-1920-da58e33a-transparent.webp",
+    "source": "Coer de Lion Bilder/Coeur de Lion/Armbänder/401630-1920.webp"
   },
   {
     "id": "401710-0230-2de021f6",
@@ -2671,9 +2671,9 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Coeur de Lion Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Coeur de Lion\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/401710-0230-2de021f6.jpg",
-    "thumb": "assets/optimized/thumbs/401710-0230-2de021f6.jpg",
-    "source": "Coer de Lion Bilder/Coeur de Lion/Ketten/401710-0230.png"
+    "image": "assets/optimized/full/401710-0230-2de021f6-transparent.webp",
+    "thumb": "assets/optimized/thumbs/401710-0230-2de021f6-transparent.webp",
+    "source": "Coer de Lion Bilder/Coeur de Lion/Ketten/401710-0230.webp"
   },
   {
     "id": "401710-0829-7cf7f487",
@@ -2683,9 +2683,9 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Coeur de Lion Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Coeur de Lion\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/401710-0829-7cf7f487.jpg",
-    "thumb": "assets/optimized/thumbs/401710-0829-7cf7f487.jpg",
-    "source": "Coer de Lion Bilder/Coeur de Lion/Ketten/401710-0829.png"
+    "image": "assets/optimized/full/401710-0829-7cf7f487-transparent.webp",
+    "thumb": "assets/optimized/thumbs/401710-0829-7cf7f487-transparent.webp",
+    "source": "Coer de Lion Bilder/Coeur de Lion/Ketten/401710-0829.webp"
   },
   {
     "id": "401720-0829-dee3c10f",
@@ -2695,9 +2695,9 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Coeur de Lion Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Coeur de Lion\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/401720-0829-dee3c10f.jpg",
-    "thumb": "assets/optimized/thumbs/401720-0829-dee3c10f.jpg",
-    "source": "Coer de Lion Bilder/Coeur de Lion/Ohrringe/401720-0829.png"
+    "image": "assets/optimized/full/401720-0829-dee3c10f-transparent.webp",
+    "thumb": "assets/optimized/thumbs/401720-0829-dee3c10f-transparent.webp",
+    "source": "Coer de Lion Bilder/Coeur de Lion/Ohrringe/401720-0829.webp"
   },
   {
     "id": "401730-0230-dc813fe2",
@@ -2707,9 +2707,9 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Coeur de Lion Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Coeur de Lion\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/401730-0230-dc813fe2.jpg",
-    "thumb": "assets/optimized/thumbs/401730-0230-dc813fe2.jpg",
-    "source": "Coer de Lion Bilder/Coeur de Lion/Armbänder/401730-0230.png"
+    "image": "assets/optimized/full/401730-0230-dc813fe2-transparent.webp",
+    "thumb": "assets/optimized/thumbs/401730-0230-dc813fe2-transparent.webp",
+    "source": "Coer de Lion Bilder/Coeur de Lion/Armbänder/401730-0230.webp"
   },
   {
     "id": "401730-0829-7514d561",
@@ -2719,9 +2719,9 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Coeur de Lion Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Coeur de Lion\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/401730-0829-7514d561.jpg",
-    "thumb": "assets/optimized/thumbs/401730-0829-7514d561.jpg",
-    "source": "Coer de Lion Bilder/Coeur de Lion/Armbänder/401730-0829.png"
+    "image": "assets/optimized/full/401730-0829-7514d561-transparent.webp",
+    "thumb": "assets/optimized/thumbs/401730-0829-7514d561-transparent.webp",
+    "source": "Coer de Lion Bilder/Coeur de Lion/Armbänder/401730-0829.webp"
   },
   {
     "id": "432220-0722-39cef6c4",
@@ -2731,9 +2731,9 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Coeur de Lion Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Coeur de Lion\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/432220-0722-39cef6c4.jpg",
-    "thumb": "assets/optimized/thumbs/432220-0722-39cef6c4.jpg",
-    "source": "Coer de Lion Bilder/Coeur de Lion/Ohrringe/432220-0722.png"
+    "image": "assets/optimized/full/432220-0722-39cef6c4-transparent.webp",
+    "thumb": "assets/optimized/thumbs/432220-0722-39cef6c4-transparent.webp",
+    "source": "Coer de Lion Bilder/Coeur de Lion/Ohrringe/432220-0722.webp"
   },
   {
     "id": "474710-1500-b9a5c4ac",
@@ -2743,9 +2743,9 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Coeur de Lion Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Coeur de Lion\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/474710-1500-b9a5c4ac.jpg",
-    "thumb": "assets/optimized/thumbs/474710-1500-b9a5c4ac.jpg",
-    "source": "Coer de Lion Bilder/Coeur de Lion/Ketten/474710-1500.png"
+    "image": "assets/optimized/full/474710-1500-b9a5c4ac-transparent.webp",
+    "thumb": "assets/optimized/thumbs/474710-1500-b9a5c4ac-transparent.webp",
+    "source": "Coer de Lion Bilder/Coeur de Lion/Ketten/474710-1500.webp"
   },
   {
     "id": "474720-1500-c0b88394",
@@ -2755,9 +2755,9 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Coeur de Lion Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Coeur de Lion\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/474720-1500-c0b88394.jpg",
-    "thumb": "assets/optimized/thumbs/474720-1500-c0b88394.jpg",
-    "source": "Coer de Lion Bilder/Coeur de Lion/Ohrringe/474720-1500.png"
+    "image": "assets/optimized/full/474720-1500-c0b88394-transparent.webp",
+    "thumb": "assets/optimized/thumbs/474720-1500-c0b88394-transparent.webp",
+    "source": "Coer de Lion Bilder/Coeur de Lion/Ohrringe/474720-1500.webp"
   },
   {
     "id": "474730-1500-c451a485",
@@ -2767,9 +2767,9 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Coeur de Lion Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Coeur de Lion\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/474730-1500-c451a485.jpg",
-    "thumb": "assets/optimized/thumbs/474730-1500-c451a485.jpg",
-    "source": "Coer de Lion Bilder/Coeur de Lion/Armbänder/474730-1500.png"
+    "image": "assets/optimized/full/474730-1500-c451a485-transparent.webp",
+    "thumb": "assets/optimized/thumbs/474730-1500-c451a485-transparent.webp",
+    "source": "Coer de Lion Bilder/Coeur de Lion/Armbänder/474730-1500.webp"
   },
   {
     "id": "490510-0510-f5e8fa37",
@@ -2779,9 +2779,9 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Coeur de Lion Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Coeur de Lion\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/490510-0510-f5e8fa37.jpg",
-    "thumb": "assets/optimized/thumbs/490510-0510-f5e8fa37.jpg",
-    "source": "Coer de Lion Bilder/Coeur de Lion/Ketten/490510-0510.png"
+    "image": "assets/optimized/full/490510-0510-f5e8fa37-transparent.webp",
+    "thumb": "assets/optimized/thumbs/490510-0510-f5e8fa37-transparent.webp",
+    "source": "Coer de Lion Bilder/Coeur de Lion/Ketten/490510-0510.webp"
   },
   {
     "id": "490520-0510-4525aaa0",
@@ -2791,9 +2791,9 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Coeur de Lion Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Coeur de Lion\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/490520-0510-4525aaa0.jpg",
-    "thumb": "assets/optimized/thumbs/490520-0510-4525aaa0.jpg",
-    "source": "Coer de Lion Bilder/Coeur de Lion/Ohrringe/490520-0510.png"
+    "image": "assets/optimized/full/490520-0510-4525aaa0-transparent.webp",
+    "thumb": "assets/optimized/thumbs/490520-0510-4525aaa0-transparent.webp",
+    "source": "Coer de Lion Bilder/Coeur de Lion/Ohrringe/490520-0510.webp"
   },
   {
     "id": "490520-0710-255a7e4a",
@@ -2803,9 +2803,9 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Coeur de Lion Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Coeur de Lion\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/490520-0710-255a7e4a.jpg",
-    "thumb": "assets/optimized/thumbs/490520-0710-255a7e4a.jpg",
-    "source": "Coer de Lion Bilder/Coeur de Lion/Ohrringe/490520-0710.png"
+    "image": "assets/optimized/full/490520-0710-255a7e4a-transparent.webp",
+    "thumb": "assets/optimized/thumbs/490520-0710-255a7e4a-transparent.webp",
+    "source": "Coer de Lion Bilder/Coeur de Lion/Ohrringe/490520-0710.webp"
   },
   {
     "id": "490530-0510-6b1d5d22",
@@ -2815,9 +2815,9 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Coeur de Lion Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Coeur de Lion\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/490530-0510-6b1d5d22.jpg",
-    "thumb": "assets/optimized/thumbs/490530-0510-6b1d5d22.jpg",
-    "source": "Coer de Lion Bilder/Coeur de Lion/Armbänder/490530-0510.png"
+    "image": "assets/optimized/full/490530-0510-6b1d5d22-transparent.webp",
+    "thumb": "assets/optimized/thumbs/490530-0510-6b1d5d22-transparent.webp",
+    "source": "Coer de Lion Bilder/Coeur de Lion/Armbänder/490530-0510.webp"
   },
   {
     "id": "493210-1620-6adc5de5",
@@ -2827,9 +2827,9 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Coeur de Lion Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Coeur de Lion\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/493210-1620-6adc5de5.jpg",
-    "thumb": "assets/optimized/thumbs/493210-1620-6adc5de5.jpg",
-    "source": "Coer de Lion Bilder/Coeur de Lion/Ketten/493210-1620.png"
+    "image": "assets/optimized/full/493210-1620-6adc5de5-transparent.webp",
+    "thumb": "assets/optimized/thumbs/493210-1620-6adc5de5-transparent.webp",
+    "source": "Coer de Lion Bilder/Coeur de Lion/Ketten/493210-1620.webp"
   },
   {
     "id": "495410-1500-fed14d06",
@@ -2839,9 +2839,9 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Coeur de Lion Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Coeur de Lion\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/495410-1500-fed14d06.jpg",
-    "thumb": "assets/optimized/thumbs/495410-1500-fed14d06.jpg",
-    "source": "Coer de Lion Bilder/Coeur de Lion/Ketten/495410-1500.png"
+    "image": "assets/optimized/full/495410-1500-fed14d06-transparent.webp",
+    "thumb": "assets/optimized/thumbs/495410-1500-fed14d06-transparent.webp",
+    "source": "Coer de Lion Bilder/Coeur de Lion/Ketten/495410-1500.webp"
   },
   {
     "id": "495730-1500-558a7568",
@@ -2851,9 +2851,9 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Coeur de Lion Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Coeur de Lion\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/495730-1500-558a7568.jpg",
-    "thumb": "assets/optimized/thumbs/495730-1500-558a7568.jpg",
-    "source": "Coer de Lion Bilder/Coeur de Lion/Armbänder/495730-1500.png"
+    "image": "assets/optimized/full/495730-1500-558a7568-transparent.webp",
+    "thumb": "assets/optimized/thumbs/495730-1500-558a7568-transparent.webp",
+    "source": "Coer de Lion Bilder/Coeur de Lion/Armbänder/495730-1500.webp"
   },
   {
     "id": "496010-1022-210bdbd7",
@@ -2863,9 +2863,9 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Coeur de Lion Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Coeur de Lion\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/496010-1022-210bdbd7.jpg",
-    "thumb": "assets/optimized/thumbs/496010-1022-210bdbd7.jpg",
-    "source": "Coer de Lion Bilder/Coeur de Lion/Ketten/496010-1022.png"
+    "image": "assets/optimized/full/496010-1022-210bdbd7-transparent.webp",
+    "thumb": "assets/optimized/thumbs/496010-1022-210bdbd7-transparent.webp",
+    "source": "Coer de Lion Bilder/Coeur de Lion/Ketten/496010-1022.webp"
   },
   {
     "id": "496020-1022-488b5637",
@@ -2875,9 +2875,9 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Coeur de Lion Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Coeur de Lion\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/496020-1022-488b5637.jpg",
-    "thumb": "assets/optimized/thumbs/496020-1022-488b5637.jpg",
-    "source": "Coer de Lion Bilder/Coeur de Lion/Ohrringe/496020-1022.png"
+    "image": "assets/optimized/full/496020-1022-488b5637-transparent.webp",
+    "thumb": "assets/optimized/thumbs/496020-1022-488b5637-transparent.webp",
+    "source": "Coer de Lion Bilder/Coeur de Lion/Ohrringe/496020-1022.webp"
   },
   {
     "id": "496030-1022-1bea9e42",
@@ -2887,9 +2887,9 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Coeur de Lion Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Coeur de Lion\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/496030-1022-1bea9e42.jpg",
-    "thumb": "assets/optimized/thumbs/496030-1022-1bea9e42.jpg",
-    "source": "Coer de Lion Bilder/Coeur de Lion/Armbänder/496030-1022.png"
+    "image": "assets/optimized/full/496030-1022-1bea9e42-transparent.webp",
+    "thumb": "assets/optimized/thumbs/496030-1022-1bea9e42-transparent.webp",
+    "source": "Coer de Lion Bilder/Coeur de Lion/Armbänder/496030-1022.webp"
   },
   {
     "id": "498010-1500-9c34055a",
@@ -2899,9 +2899,9 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Coeur de Lion Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Coeur de Lion\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/498010-1500-9c34055a.jpg",
-    "thumb": "assets/optimized/thumbs/498010-1500-9c34055a.jpg",
-    "source": "Coer de Lion Bilder/Coeur de Lion/Ketten/498010-1500.png"
+    "image": "assets/optimized/full/498010-1500-9c34055a-transparent.webp",
+    "thumb": "assets/optimized/thumbs/498010-1500-9c34055a-transparent.webp",
+    "source": "Coer de Lion Bilder/Coeur de Lion/Ketten/498010-1500.webp"
   },
   {
     "id": "498030-1500-101d48c5",
@@ -2911,9 +2911,9 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Coeur de Lion Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Coeur de Lion\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/498030-1500-101d48c5.jpg",
-    "thumb": "assets/optimized/thumbs/498030-1500-101d48c5.jpg",
-    "source": "Coer de Lion Bilder/Coeur de Lion/Armbänder/498030-1500.png"
+    "image": "assets/optimized/full/498030-1500-101d48c5-transparent.webp",
+    "thumb": "assets/optimized/thumbs/498030-1500-101d48c5-transparent.webp",
+    "source": "Coer de Lion Bilder/Coeur de Lion/Armbänder/498030-1500.webp"
   },
   {
     "id": "kisspng-guess-by-marciano-brand-fashion-direct-factory-out-happy-guess-song-5b245155395c39-198601861529106773235-da6ef4f9",
@@ -2923,8 +2923,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Guess Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Guess\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/kisspng-guess-by-marciano-brand-fashion-direct-factory-out-happy-guess-song-5b245155395c39-198601861529106773235-da6ef4f9.jpg",
-    "thumb": "assets/optimized/thumbs/kisspng-guess-by-marciano-brand-fashion-direct-factory-out-happy-guess-song-5b245155395c39-198601861529106773235-da6ef4f9.jpg",
+    "image": "assets/optimized/full/kisspng-guess-by-marciano-brand-fashion-direct-factory-out-happy-guess-song-5b245155395c39-198601861529106773235-da6ef4f9-transparent.webp",
+    "thumb": "assets/optimized/thumbs/kisspng-guess-by-marciano-brand-fashion-direct-factory-out-happy-guess-song-5b245155395c39-198601861529106773235-da6ef4f9-transparent.webp",
     "source": "GuessSchmuck/kisspng-guess-by-marciano-brand-fashion-direct-factory-out-happy-guess-song-5b245155395c39.198601861529106773235.jpg"
   },
   {
@@ -2935,8 +2935,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Sarikow Schmuck Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Sarikow Schmuck\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31871-s-3-05-20030-4x-kopie-bfda0d73.jpg",
-    "thumb": "assets/optimized/thumbs/31871-s-3-05-20030-4x-kopie-bfda0d73.jpg",
+    "image": "assets/optimized/full/31871-s-3-05-20030-4x-kopie-bfda0d73-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31871-s-3-05-20030-4x-kopie-bfda0d73-transparent.webp",
     "source": "BilderVerkleinert/31871_S.3_05-20030_4x Kopie.jpg"
   },
   {
@@ -2947,8 +2947,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Sarikow Schmuck Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Sarikow Schmuck\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31872neu-6c92dfbb.jpg",
-    "thumb": "assets/optimized/thumbs/31872neu-6c92dfbb.jpg",
+    "image": "assets/optimized/full/31872neu-6c92dfbb-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31872neu-6c92dfbb-transparent.webp",
     "source": "BilderVerkleinert/31872neu.jpg"
   },
   {
@@ -2959,8 +2959,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Sarikow Schmuck Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Sarikow Schmuck\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31879-2a6b4d3e.jpg",
-    "thumb": "assets/optimized/thumbs/31879-2a6b4d3e.jpg",
+    "image": "assets/optimized/full/31879-2a6b4d3e-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31879-2a6b4d3e-transparent.webp",
     "source": "BilderVerkleinert/31879.jpg"
   },
   {
@@ -2971,8 +2971,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Sarikow Schmuck Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Sarikow Schmuck\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31880-9031b384.jpg",
-    "thumb": "assets/optimized/thumbs/31880-9031b384.jpg",
+    "image": "assets/optimized/full/31880-9031b384-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31880-9031b384-transparent.webp",
     "source": "BilderVerkleinert/31880.jpg"
   },
   {
@@ -2983,8 +2983,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Sarikow Schmuck Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Sarikow Schmuck\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31881-72c07f67.jpg",
-    "thumb": "assets/optimized/thumbs/31881-72c07f67.jpg",
+    "image": "assets/optimized/full/31881-72c07f67-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31881-72c07f67-transparent.webp",
     "source": "BilderVerkleinert/31881.jpg"
   },
   {
@@ -2995,8 +2995,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Sarikow Schmuck Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Sarikow Schmuck\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31882-a751dc87.jpg",
-    "thumb": "assets/optimized/thumbs/31882-a751dc87.jpg",
+    "image": "assets/optimized/full/31882-a751dc87-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31882-a751dc87-transparent.webp",
     "source": "BilderVerkleinert/31882.jpg"
   },
   {
@@ -3007,8 +3007,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Sarikow Schmuck Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Sarikow Schmuck\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31883-ba1b6cf0.jpg",
-    "thumb": "assets/optimized/thumbs/31883-ba1b6cf0.jpg",
+    "image": "assets/optimized/full/31883-ba1b6cf0-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31883-ba1b6cf0-transparent.webp",
     "source": "BilderVerkleinert/31883.jpg"
   },
   {
@@ -3019,8 +3019,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Sarikow Schmuck Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Sarikow Schmuck\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31884-753dc63b.jpg",
-    "thumb": "assets/optimized/thumbs/31884-753dc63b.jpg",
+    "image": "assets/optimized/full/31884-753dc63b-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31884-753dc63b-transparent.webp",
     "source": "BilderVerkleinert/31884.jpg"
   },
   {
@@ -3031,8 +3031,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Sarikow Schmuck Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Sarikow Schmuck\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31885-93b30f2e.jpg",
-    "thumb": "assets/optimized/thumbs/31885-93b30f2e.jpg",
+    "image": "assets/optimized/full/31885-93b30f2e-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31885-93b30f2e-transparent.webp",
     "source": "BilderVerkleinert/31885.jpg"
   },
   {
@@ -3043,8 +3043,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Sarikow Schmuck Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Sarikow Schmuck\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31886-1af97bf9.jpg",
-    "thumb": "assets/optimized/thumbs/31886-1af97bf9.jpg",
+    "image": "assets/optimized/full/31886-1af97bf9-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31886-1af97bf9-transparent.webp",
     "source": "BilderVerkleinert/31886.jpg"
   },
   {
@@ -3055,8 +3055,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Sarikow Schmuck Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Sarikow Schmuck\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31887-167510fe.jpg",
-    "thumb": "assets/optimized/thumbs/31887-167510fe.jpg",
+    "image": "assets/optimized/full/31887-167510fe-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31887-167510fe-transparent.webp",
     "source": "BilderVerkleinert/31887.jpg"
   },
   {
@@ -3067,8 +3067,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Sarikow Schmuck Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Sarikow Schmuck\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31888-17bf67cd.jpg",
-    "thumb": "assets/optimized/thumbs/31888-17bf67cd.jpg",
+    "image": "assets/optimized/full/31888-17bf67cd-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31888-17bf67cd-transparent.webp",
     "source": "BilderVerkleinert/31888.jpg"
   },
   {
@@ -3079,8 +3079,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Sarikow Schmuck Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Sarikow Schmuck\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31889-eacdbde5.jpg",
-    "thumb": "assets/optimized/thumbs/31889-eacdbde5.jpg",
+    "image": "assets/optimized/full/31889-eacdbde5-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31889-eacdbde5-transparent.webp",
     "source": "BilderVerkleinert/31889.jpg"
   },
   {
@@ -3091,8 +3091,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Sarikow Schmuck Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Sarikow Schmuck\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31890-50cd8e7b.jpg",
-    "thumb": "assets/optimized/thumbs/31890-50cd8e7b.jpg",
+    "image": "assets/optimized/full/31890-50cd8e7b-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31890-50cd8e7b-transparent.webp",
     "source": "BilderVerkleinert/31890.jpg"
   },
   {
@@ -3103,8 +3103,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Sarikow Schmuck Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Sarikow Schmuck\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31892-62a92949.jpg",
-    "thumb": "assets/optimized/thumbs/31892-62a92949.jpg",
+    "image": "assets/optimized/full/31892-62a92949-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31892-62a92949-transparent.webp",
     "source": "BilderVerkleinert/31892.jpg"
   },
   {
@@ -3115,8 +3115,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Sarikow Schmuck Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Sarikow Schmuck\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31892-20210-47ed0bc7.jpg",
-    "thumb": "assets/optimized/thumbs/31892-20210-47ed0bc7.jpg",
+    "image": "assets/optimized/full/31892-20210-47ed0bc7-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31892-20210-47ed0bc7-transparent.webp",
     "source": "BilderVerkleinert/31892.20210.jpg"
   },
   {
@@ -3127,8 +3127,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Sarikow Schmuck Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Sarikow Schmuck\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31892yell-d035d14c.jpg",
-    "thumb": "assets/optimized/thumbs/31892yell-d035d14c.jpg",
+    "image": "assets/optimized/full/31892yell-d035d14c-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31892yell-d035d14c-transparent.webp",
     "source": "BilderVerkleinert/31892Yell.jpg"
   },
   {
@@ -3139,8 +3139,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Sarikow Schmuck Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Sarikow Schmuck\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31895-936f428e.jpg",
-    "thumb": "assets/optimized/thumbs/31895-936f428e.jpg",
+    "image": "assets/optimized/full/31895-936f428e-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31895-936f428e-transparent.webp",
     "source": "BilderVerkleinert/31895.jpg"
   },
   {
@@ -3151,8 +3151,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Sarikow Schmuck Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Sarikow Schmuck\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31896-697ad42f.jpg",
-    "thumb": "assets/optimized/thumbs/31896-697ad42f.jpg",
+    "image": "assets/optimized/full/31896-697ad42f-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31896-697ad42f-transparent.webp",
     "source": "BilderVerkleinert/31896.jpg"
   },
   {
@@ -3163,8 +3163,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Sarikow Schmuck Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Sarikow Schmuck\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31898-79fa332c.jpg",
-    "thumb": "assets/optimized/thumbs/31898-79fa332c.jpg",
+    "image": "assets/optimized/full/31898-79fa332c-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31898-79fa332c-transparent.webp",
     "source": "BilderVerkleinert/31898.jpg"
   },
   {
@@ -3175,8 +3175,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Sarikow Schmuck Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Sarikow Schmuck\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31900-58e5bed3.jpg",
-    "thumb": "assets/optimized/thumbs/31900-58e5bed3.jpg",
+    "image": "assets/optimized/full/31900-58e5bed3-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31900-58e5bed3-transparent.webp",
     "source": "BilderVerkleinert/31900.jpg"
   },
   {
@@ -3187,8 +3187,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Sarikow Schmuck Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Sarikow Schmuck\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31901-da0f3b9c.jpg",
-    "thumb": "assets/optimized/thumbs/31901-da0f3b9c.jpg",
+    "image": "assets/optimized/full/31901-da0f3b9c-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31901-da0f3b9c-transparent.webp",
     "source": "BilderVerkleinert/31901.jpg"
   },
   {
@@ -3199,8 +3199,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Sarikow Schmuck Schmuckstück, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Sarikow Schmuck\nKategorie: Schmuck\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/31902-9d9b0c3d.jpg",
-    "thumb": "assets/optimized/thumbs/31902-9d9b0c3d.jpg",
+    "image": "assets/optimized/full/31902-9d9b0c3d-transparent.webp",
+    "thumb": "assets/optimized/thumbs/31902-9d9b0c3d-transparent.webp",
     "source": "BilderVerkleinert/31902.jpg"
   },
   {
@@ -3211,8 +3211,8 @@ window.sarikowImportedProducts = [
     "price": 4595,
     "description": "Worldtimer Manufacture von Frederique Constant, Referenz FC-718WM4H6. Verfuegbar auf Anfrage bei Juwelier Sarikow in Wien.",
     "specs": "Marke: Frederique Constant\nReferenz: FC-718WM4H6\nAutomatik-Manufakturkaliber FC-718\n42 mm Edelstahlgehaeuse\nWeltzeitfunktion\nWasserdichtheit: 5 ATM\nVerfuegbarkeit: auf Anfrage",
-    "image": "assets/optimized/full/fc-718wm4h6-f0b35c18-transparent.png",
-    "thumb": "assets/optimized/thumbs/fc-718wm4h6-f0b35c18-transparent.png",
+    "image": "assets/optimized/full/fc-718wm4h6-f0b35c18-transparent.webp",
+    "thumb": "assets/optimized/thumbs/fc-718wm4h6-f0b35c18-transparent.webp",
     "source": "kleine Bilder/Frederique Constant/FC-718WM4H6.jpg"
   },
   {
@@ -3223,8 +3223,8 @@ window.sarikowImportedProducts = [
     "price": 2595,
     "description": "Ladies Automatic von Frederique Constant, Referenz FC-303LGD3BD6. Verfuegbar auf Anfrage bei Juwelier Sarikow in Wien.",
     "specs": "Marke: Frederique Constant\nReferenz: FC-303LGD3BD6\nAutomatikwerk FC-303\n36 mm Edelstahlgehaeuse\nDiamantbesatz\nWasserdichtheit: 5 ATM\nVerfuegbarkeit: auf Anfrage",
-    "image": "assets/optimized/full/fc-303lgd3bd6-5d6763f3-transparent.png",
-    "thumb": "assets/optimized/thumbs/fc-303lgd3bd6-5d6763f3-transparent.png",
+    "image": "assets/optimized/full/fc-303lgd3bd6-5d6763f3-transparent.webp",
+    "thumb": "assets/optimized/thumbs/fc-303lgd3bd6-5d6763f3-transparent.webp",
     "source": "kleine Bilder/Frederique Constant/FC-303LGD3BD6.jpg"
   },
   {
@@ -3235,8 +3235,8 @@ window.sarikowImportedProducts = [
     "price": 3990,
     "description": "Double Heart Beat Automatic von Frederique Constant, Referenz FC-310BDHB2PD6. Verfuegbar auf Anfrage bei Juwelier Sarikow in Wien.",
     "specs": "Marke: Frederique Constant\nReferenz: FC-310BDHB2PD6\nAutomatikwerk FC-310\nDouble-Heart-Beat Anzeige\nDiamantbesatz\nWasserdichtheit: 3 ATM\nVerfuegbarkeit: auf Anfrage",
-    "image": "assets/optimized/full/fc-310bdhb2pd6-90e8f26a-transparent.png",
-    "thumb": "assets/optimized/thumbs/fc-310bdhb2pd6-90e8f26a-transparent.png",
+    "image": "assets/optimized/full/fc-310bdhb2pd6-90e8f26a-transparent.webp",
+    "thumb": "assets/optimized/thumbs/fc-310bdhb2pd6-90e8f26a-transparent.webp",
     "source": "kleine Bilder/Frederique Constant/FC-310BDHB2PD6.jpg"
   },
   {
@@ -3247,8 +3247,8 @@ window.sarikowImportedProducts = [
     "price": 1095,
     "description": "Classics Index Automatic von Frederique Constant, Referenz FC-303NN5B6B. Verfuegbar auf Anfrage bei Juwelier Sarikow in Wien.",
     "specs": "Marke: Frederique Constant\nReferenz: FC-303NN5B6B\nAutomatikwerk FC-303\n40 mm Edelstahlgehaeuse\nBlaues Zifferblatt\nEdelstahlband\nVerfuegbarkeit: auf Anfrage",
-    "image": "assets/optimized/full/fc303nn5b6b-1b248377.png",
-    "thumb": "assets/optimized/thumbs/fc303nn5b6b-1b248377.png",
+    "image": "assets/optimized/full/fc303nn5b6b-1b248377.webp",
+    "thumb": "assets/optimized/thumbs/fc303nn5b6b-1b248377.webp",
     "source": "Sinan Saat / online Haendlerbild"
   },
   {
@@ -3259,8 +3259,8 @@ window.sarikowImportedProducts = [
     "price": 2395,
     "description": "Highlife Automatic COSC von Frederique Constant, Referenz FC-303V4NH2B. Verfuegbar auf Anfrage bei Juwelier Sarikow in Wien.",
     "specs": "Marke: Frederique Constant\nReferenz: FC-303V4NH2B\nAutomatikwerk FC-303\nCOSC-zertifiziert\n41 mm Highlife Gehaeuse\nZweifarbiges Edelstahlband\nVerfuegbarkeit: auf Anfrage",
-    "image": "assets/optimized/full/fc303v4nh2b-37cd41c8.png",
-    "thumb": "assets/optimized/thumbs/fc303v4nh2b-37cd41c8.png",
+    "image": "assets/optimized/full/fc303v4nh2b-37cd41c8.webp",
+    "thumb": "assets/optimized/thumbs/fc303v4nh2b-37cd41c8.webp",
     "source": "Jura Watches / online Haendlerbild"
   },
   {
@@ -3271,8 +3271,8 @@ window.sarikowImportedProducts = [
     "price": 995,
     "description": "Classics Index Automatic von Frederique Constant, Referenz FC-303SN5B6. Verfuegbar auf Anfrage bei Juwelier Sarikow in Wien.",
     "specs": "Marke: Frederique Constant\nReferenz: FC-303SN5B6\nAutomatikwerk FC-303\n40 mm Edelstahlgehaeuse\nSilberfarbenes Zifferblatt\nLederband\nVerfuegbarkeit: auf Anfrage",
-    "image": "assets/optimized/full/fc-303sn5b6-fbb7a3ad-transparent.png",
-    "thumb": "assets/optimized/thumbs/fc-303sn5b6-fbb7a3ad-transparent.png",
+    "image": "assets/optimized/full/fc-303sn5b6-fbb7a3ad-transparent.webp",
+    "thumb": "assets/optimized/thumbs/fc-303sn5b6-fbb7a3ad-transparent.webp",
     "source": "kleine Bilder/Frederique Constant/FC-303SN5B6.jpg"
   },
   {
@@ -3283,8 +3283,8 @@ window.sarikowImportedProducts = [
     "price": 1395,
     "description": "Classics Index Automatic von Frederique Constant, Referenz FC-303V5B4. Verfuegbar auf Anfrage bei Juwelier Sarikow in Wien.",
     "specs": "Marke: Frederique Constant\nReferenz: FC-303V5B4\nAutomatikwerk FC-303\n40 mm Gehaeuse rosegoldfarben\nSilberfarbenes Zifferblatt\nLederband\nVerfuegbarkeit: auf Anfrage",
-    "image": "assets/optimized/full/fc-303v5b4-14f77584-transparent.png",
-    "thumb": "assets/optimized/thumbs/fc-303v5b4-14f77584-transparent.png",
+    "image": "assets/optimized/full/fc-303v5b4-14f77584-transparent.webp",
+    "thumb": "assets/optimized/thumbs/fc-303v5b4-14f77584-transparent.webp",
     "source": "kleine Bilder/Frederique Constant/FC-303V5B4.jpg"
   },
   {
@@ -3295,8 +3295,8 @@ window.sarikowImportedProducts = [
     "price": 1995,
     "description": "Runabout Chronograph Automatic von Frederique Constant, Referenz FC-335MC4P6. Verfuegbar auf Anfrage bei Juwelier Sarikow in Wien.",
     "specs": "Marke: Frederique Constant\nReferenz: FC-335MC4P6\nAutomatik-Chronograph\nEdelstahlgehaeuse\nGuillochiertes Zifferblatt\nLederband\nVerfuegbarkeit: auf Anfrage",
-    "image": "assets/optimized/full/fc-335mc4p6-06983096-transparent.png",
-    "thumb": "assets/optimized/thumbs/fc-335mc4p6-06983096-transparent.png",
+    "image": "assets/optimized/full/fc-335mc4p6-06983096-transparent.webp",
+    "thumb": "assets/optimized/thumbs/fc-335mc4p6-06983096-transparent.webp",
     "source": "kleine Bilder/Frederique Constant/FC-335MC4P6.jpg"
   },
   {
@@ -3307,8 +3307,8 @@ window.sarikowImportedProducts = [
     "price": 2795,
     "description": "Slimline Moonphase Manufacture von Frederique Constant, Referenz FC-705GR4S6. Verfuegbar auf Anfrage bei Juwelier Sarikow in Wien.",
     "specs": "Marke: Frederique Constant\nReferenz: FC-705GR4S6\nManufakturkaliber FC-705\nMondphasenanzeige\nDatum\nLederband\nVerfuegbarkeit: auf Anfrage",
-    "image": "assets/optimized/full/fc-705gr4s6-03778624-transparent.png",
-    "thumb": "assets/optimized/thumbs/fc-705gr4s6-03778624-transparent.png",
+    "image": "assets/optimized/full/fc-705gr4s6-03778624-transparent.webp",
+    "thumb": "assets/optimized/thumbs/fc-705gr4s6-03778624-transparent.webp",
     "source": "kleine Bilder/Frederique Constant/FC-705GR4S6.jpg"
   },
   {
@@ -3319,8 +3319,8 @@ window.sarikowImportedProducts = [
     "price": 1395,
     "description": "Vintage Rally Healey Automatic von Frederique Constant, Referenz FC-303WGH5B6. Verfuegbar auf Anfrage bei Juwelier Sarikow in Wien.",
     "specs": "Marke: Frederique Constant\nReferenz: FC-303WGH5B6\nAutomatikwerk FC-303\n40 mm Edelstahlgehaeuse\nVintage Rally Healey Edition\nLederband\nVerfuegbarkeit: auf Anfrage",
-    "image": "assets/optimized/full/fc303wgh5b6-a6681609.png",
-    "thumb": "assets/optimized/thumbs/fc303wgh5b6-a6681609.png",
+    "image": "assets/optimized/full/fc303wgh5b6-a6681609.webp",
+    "thumb": "assets/optimized/thumbs/fc303wgh5b6-a6681609.webp",
     "source": "Zegarek.net / online Haendlerbild"
   },
   {
@@ -3331,8 +3331,8 @@ window.sarikowImportedProducts = [
     "price": 1295,
     "description": "Classics Art Deco Round von Frederique Constant, Referenz FC-200MPW2AR2B. Verfuegbar auf Anfrage bei Juwelier Sarikow in Wien.",
     "specs": "Marke: Frederique Constant\nReferenz: FC-200MPW2AR2B\nQuarzwerk\n30 mm Gehaeuse\nPerlmutt-Zifferblatt\nZweifarbiges Edelstahlband\nVerfuegbarkeit: auf Anfrage",
-    "image": "assets/optimized/full/fc200mpw2ar2b-1fd068e0.png",
-    "thumb": "assets/optimized/thumbs/fc200mpw2ar2b-1fd068e0.png",
+    "image": "assets/optimized/full/fc200mpw2ar2b-1fd068e0.webp",
+    "thumb": "assets/optimized/thumbs/fc200mpw2ar2b-1fd068e0.webp",
     "source": "Ann-Louise Jewellers / online Haendlerbild"
   },
   {
@@ -3343,8 +3343,8 @@ window.sarikowImportedProducts = [
     "price": 1695,
     "description": "Maxime Manufacture Automatic von Frederique Constant, Referenz FC-306MR4S4. Verfuegbar auf Anfrage bei Juwelier Sarikow in Wien.",
     "specs": "Marke: Frederique Constant\nReferenz: FC-306MR4S4\nAutomatikwerk FC-306\nEdelstahlgehaeuse\nKlassische Anzeige\nLederband\nVerfuegbarkeit: auf Anfrage",
-    "image": "assets/optimized/full/fc-306mr4s4-1feec881-transparent.png",
-    "thumb": "assets/optimized/thumbs/fc-306mr4s4-1feec881-transparent.png",
+    "image": "assets/optimized/full/fc-306mr4s4-1feec881-transparent.webp",
+    "thumb": "assets/optimized/thumbs/fc-306mr4s4-1feec881-transparent.webp",
     "source": "kleine Bilder/Frederique Constant/FC-306MR4S4.jpg"
   },
   {
@@ -3355,8 +3355,8 @@ window.sarikowImportedProducts = [
     "price": 1395,
     "description": "Classics Carree Automatic von Frederique Constant, Referenz FC-303V4C4. Verfuegbar auf Anfrage bei Juwelier Sarikow in Wien.",
     "specs": "Marke: Frederique Constant\nReferenz: FC-303V4C4\nAutomatikwerk FC-303\nCarree Gehaeuse 33,3 x 30,4 mm\nRosegoldplattierung\nLederband\nVerfuegbarkeit: auf Anfrage",
-    "image": "assets/optimized/full/fc303v4c4-95c656b0.png",
-    "thumb": "assets/optimized/thumbs/fc303v4c4-95c656b0.png",
+    "image": "assets/optimized/full/fc303v4c4-95c656b0.webp",
+    "thumb": "assets/optimized/thumbs/fc303v4c4-95c656b0.webp",
     "source": "Frederique Constant Japan / Produktbild"
   },
   {
@@ -3367,8 +3367,8 @@ window.sarikowImportedProducts = [
     "price": 995,
     "description": "Slimline Ladies Moonphase von Frederique Constant, Referenz FC-206MPWD1S6. Verfuegbar auf Anfrage bei Juwelier Sarikow in Wien.",
     "specs": "Marke: Frederique Constant\nReferenz: FC-206MPWD1S6\nQuarzwerk FC-206\nPerlmutt-Zifferblatt\nMondphasenanzeige\nLederband\nVerfuegbarkeit: auf Anfrage",
-    "image": "assets/optimized/full/fc-206mpwd1s6-bd1a28fb-transparent.png",
-    "thumb": "assets/optimized/thumbs/fc-206mpwd1s6-bd1a28fb-transparent.png",
+    "image": "assets/optimized/full/fc-206mpwd1s6-bd1a28fb-transparent.webp",
+    "thumb": "assets/optimized/thumbs/fc-206mpwd1s6-bd1a28fb-transparent.webp",
     "source": "kleine Bilder/Frederique Constant/FC-206MPWD1S6.jpg"
   },
   {
@@ -3379,8 +3379,8 @@ window.sarikowImportedProducts = [
     "price": 875,
     "description": "Classics Slimline Quartz von Frederique Constant, Referenz FC-200V1S34. Verfuegbar auf Anfrage bei Juwelier Sarikow in Wien.",
     "specs": "Marke: Frederique Constant\nReferenz: FC-200V1S34\nQuarzwerk\nKlassisches Edelstahlgehaeuse\nSilberfarbenes Zifferblatt\nLederband\nVerfuegbarkeit: auf Anfrage",
-    "image": "assets/optimized/full/fc-200v1s34-ae58ee45-transparent.png",
-    "thumb": "assets/optimized/thumbs/fc-200v1s34-ae58ee45-transparent.png",
+    "image": "assets/optimized/full/fc-200v1s34-ae58ee45-transparent.webp",
+    "thumb": "assets/optimized/thumbs/fc-200v1s34-ae58ee45-transparent.webp",
     "source": "kleine Bilder/Frederique Constant/FC-200V1S34.jpg"
   },
   {
@@ -3391,8 +3391,8 @@ window.sarikowImportedProducts = [
     "price": 895,
     "description": "Classics Quartz Chronograph von Frederique Constant, Referenz FC-292MC4P6. Verfuegbar auf Anfrage bei Juwelier Sarikow in Wien.",
     "specs": "Marke: Frederique Constant\nReferenz: FC-292MC4P6\nQuarz-Chronograph FC-292\n40 mm Edelstahlgehaeuse\nGuillochiertes Zifferblatt\nLederband\nVerfuegbarkeit: auf Anfrage",
-    "image": "assets/optimized/full/fc292mc4p6-aaa2db07.png",
-    "thumb": "assets/optimized/thumbs/fc292mc4p6-aaa2db07.png",
+    "image": "assets/optimized/full/fc292mc4p6-aaa2db07.webp",
+    "thumb": "assets/optimized/thumbs/fc292mc4p6-aaa2db07.webp",
     "source": "P & M Belanger / online Haendlerbild"
   },
   {
@@ -3403,8 +3403,8 @@ window.sarikowImportedProducts = [
     "price": 780,
     "description": "Classics Quartz von Frederique Constant, Referenz FC-259ST5B5. Verfuegbar auf Anfrage bei Juwelier Sarikow in Wien.",
     "specs": "Marke: Frederique Constant\nReferenz: FC-259ST5B5\nQuarzwerk FC-259\nEdelstahlgehaeuse\nKlassisches Zifferblatt\nLederband\nVerfuegbarkeit: auf Anfrage",
-    "image": "assets/optimized/full/fc-259st5b5-84abf8a1-transparent.png",
-    "thumb": "assets/optimized/thumbs/fc-259st5b5-84abf8a1-transparent.png",
+    "image": "assets/optimized/full/fc-259st5b5-84abf8a1-transparent.webp",
+    "thumb": "assets/optimized/thumbs/fc-259st5b5-84abf8a1-transparent.webp",
     "source": "kleine Bilder/Frederique Constant/FC-259ST5B5.jpg"
   },
   {
@@ -3415,8 +3415,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/a158wea-1ef-404019f2-transparent.png",
-    "thumb": "assets/optimized/thumbs/a158wea-1ef-404019f2-transparent.png",
+    "image": "assets/optimized/full/a158wea-1ef-404019f2-transparent.webp",
+    "thumb": "assets/optimized/thumbs/a158wea-1ef-404019f2-transparent.webp",
     "source": "kleine Bilder/Casio/A158WEA-1EF.jpg"
   },
   {
@@ -3427,8 +3427,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/a159wgea-1ef-80eb2bba-transparent.png",
-    "thumb": "assets/optimized/thumbs/a159wgea-1ef-80eb2bba-transparent.png",
+    "image": "assets/optimized/full/a159wgea-1ef-80eb2bba-transparent.webp",
+    "thumb": "assets/optimized/thumbs/a159wgea-1ef-80eb2bba-transparent.webp",
     "source": "kleine Bilder/Casio/A159WGEA-1EF.jpg"
   },
   {
@@ -3439,8 +3439,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/a168wa-1yes-4dc98017-transparent.png",
-    "thumb": "assets/optimized/thumbs/a168wa-1yes-4dc98017-transparent.png",
+    "image": "assets/optimized/full/a168wa-1yes-4dc98017-transparent.webp",
+    "thumb": "assets/optimized/thumbs/a168wa-1yes-4dc98017-transparent.webp",
     "source": "kleine Bilder/Casio/a168wa-1yes.jpg"
   },
   {
@@ -3451,8 +3451,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/a168wegb-1bef-49eff79a-transparent.png",
-    "thumb": "assets/optimized/thumbs/a168wegb-1bef-49eff79a-transparent.png",
+    "image": "assets/optimized/full/a168wegb-1bef-49eff79a-transparent.webp",
+    "thumb": "assets/optimized/thumbs/a168wegb-1bef-49eff79a-transparent.webp",
     "source": "kleine Bilder/Casio/a168wegb-1bef.jpg"
   },
   {
@@ -3463,8 +3463,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/a168wg-9ef-6a907c5d-transparent.png",
-    "thumb": "assets/optimized/thumbs/a168wg-9ef-6a907c5d-transparent.png",
+    "image": "assets/optimized/full/a168wg-9ef-6a907c5d-transparent.webp",
+    "thumb": "assets/optimized/thumbs/a168wg-9ef-6a907c5d-transparent.webp",
     "source": "kleine Bilder/Casio/a168wg-9ef.jpg"
   },
   {
@@ -3475,8 +3475,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/a700we-1aef-620402d6-transparent.png",
-    "thumb": "assets/optimized/thumbs/a700we-1aef-620402d6-transparent.png",
+    "image": "assets/optimized/full/a700we-1aef-620402d6-transparent.webp",
+    "thumb": "assets/optimized/thumbs/a700we-1aef-620402d6-transparent.webp",
     "source": "kleine Bilder/Casio/a700we-1aef.jpg"
   },
   {
@@ -3487,8 +3487,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/ae-1000w-2avef-6c411521-transparent.png",
-    "thumb": "assets/optimized/thumbs/ae-1000w-2avef-6c411521-transparent.png",
+    "image": "assets/optimized/full/ae-1000w-2avef-6c411521-transparent.webp",
+    "thumb": "assets/optimized/thumbs/ae-1000w-2avef-6c411521-transparent.webp",
     "source": "kleine Bilder/Casio/ae-1000w-2avef.jpg"
   },
   {
@@ -3499,8 +3499,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/ae-1200wh-1avef-91c6a097-transparent.png",
-    "thumb": "assets/optimized/thumbs/ae-1200wh-1avef-91c6a097-transparent.png",
+    "image": "assets/optimized/full/ae-1200wh-1avef-91c6a097-transparent.webp",
+    "thumb": "assets/optimized/thumbs/ae-1200wh-1avef-91c6a097-transparent.webp",
     "source": "kleine Bilder/Casio/ae-1200wh-1avef.jpg"
   },
   {
@@ -3511,8 +3511,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/ae-1200whd-1avef-99a058e8-transparent.png",
-    "thumb": "assets/optimized/thumbs/ae-1200whd-1avef-99a058e8-transparent.png",
+    "image": "assets/optimized/full/ae-1200whd-1avef-99a058e8-transparent.webp",
+    "thumb": "assets/optimized/thumbs/ae-1200whd-1avef-99a058e8-transparent.webp",
     "source": "kleine Bilder/Casio/ae-1200whd-1avef.jpg"
   },
   {
@@ -3523,8 +3523,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/ae-2000w-1avef-0b6a5cb0-transparent.png",
-    "thumb": "assets/optimized/thumbs/ae-2000w-1avef-0b6a5cb0-transparent.png",
+    "image": "assets/optimized/full/ae-2000w-1avef-0b6a5cb0-transparent.webp",
+    "thumb": "assets/optimized/thumbs/ae-2000w-1avef-0b6a5cb0-transparent.webp",
     "source": "kleine Bilder/Casio/ae-2000w-1avef.jpg"
   },
   {
@@ -3535,8 +3535,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/ae-2100w-1avef-da1c44a9-transparent.png",
-    "thumb": "assets/optimized/thumbs/ae-2100w-1avef-da1c44a9-transparent.png",
+    "image": "assets/optimized/full/ae-2100w-1avef-da1c44a9-transparent.webp",
+    "thumb": "assets/optimized/thumbs/ae-2100w-1avef-da1c44a9-transparent.webp",
     "source": "kleine Bilder/Casio/ae-2100w-1avef.jpg"
   },
   {
@@ -3547,8 +3547,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/aq-180w-1bves-14813e6a-transparent.png",
-    "thumb": "assets/optimized/thumbs/aq-180w-1bves-14813e6a-transparent.png",
+    "image": "assets/optimized/full/aq-180w-1bves-14813e6a-transparent.webp",
+    "thumb": "assets/optimized/thumbs/aq-180w-1bves-14813e6a-transparent.webp",
     "source": "kleine Bilder/Casio/aq-180w-1bves.jpg"
   },
   {
@@ -3559,8 +3559,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/aq-180wd-1bves-c84a4fcc-transparent.png",
-    "thumb": "assets/optimized/thumbs/aq-180wd-1bves-c84a4fcc-transparent.png",
+    "image": "assets/optimized/full/aq-180wd-1bves-c84a4fcc-transparent.webp",
+    "thumb": "assets/optimized/thumbs/aq-180wd-1bves-c84a4fcc-transparent.webp",
     "source": "kleine Bilder/Casio/aq-180wd-1bves.jpg"
   },
   {
@@ -3571,8 +3571,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/aw-48h-7bvef-85fa3c33-transparent.png",
-    "thumb": "assets/optimized/thumbs/aw-48h-7bvef-85fa3c33-transparent.png",
+    "image": "assets/optimized/full/aw-48h-7bvef-85fa3c33-transparent.webp",
+    "thumb": "assets/optimized/thumbs/aw-48h-7bvef-85fa3c33-transparent.webp",
     "source": "kleine Bilder/Casio/aw-48h-7bvef.jpg"
   },
   {
@@ -3583,8 +3583,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/aw-49h-7bvef-d03ed943-transparent.png",
-    "thumb": "assets/optimized/thumbs/aw-49h-7bvef-d03ed943-transparent.png",
+    "image": "assets/optimized/full/aw-49h-7bvef-d03ed943-transparent.webp",
+    "thumb": "assets/optimized/thumbs/aw-49h-7bvef-d03ed943-transparent.webp",
     "source": "kleine Bilder/Casio/aw-49h-7bvef.jpg"
   },
   {
@@ -3595,8 +3595,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/aw-49he-2avef-ea78c650-transparent.png",
-    "thumb": "assets/optimized/thumbs/aw-49he-2avef-ea78c650-transparent.png",
+    "image": "assets/optimized/full/aw-49he-2avef-ea78c650-transparent.webp",
+    "thumb": "assets/optimized/thumbs/aw-49he-2avef-ea78c650-transparent.webp",
     "source": "kleine Bilder/Casio/aw-49he-2avef.jpg"
   },
   {
@@ -3607,8 +3607,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/aw-80d-1aves-76db5038-transparent.png",
-    "thumb": "assets/optimized/thumbs/aw-80d-1aves-76db5038-transparent.png",
+    "image": "assets/optimized/full/aw-80d-1aves-76db5038-transparent.webp",
+    "thumb": "assets/optimized/thumbs/aw-80d-1aves-76db5038-transparent.webp",
     "source": "kleine Bilder/Casio/aw-80d-1aves.jpg"
   },
   {
@@ -3619,8 +3619,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/b640wb-1aef-d05324cb-transparent.png",
-    "thumb": "assets/optimized/thumbs/b640wb-1aef-d05324cb-transparent.png",
+    "image": "assets/optimized/full/b640wb-1aef-d05324cb-transparent.webp",
+    "thumb": "assets/optimized/thumbs/b640wb-1aef-d05324cb-transparent.webp",
     "source": "kleine Bilder/Casio/b640wb-1aef.jpg"
   },
   {
@@ -3631,8 +3631,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/b640wb-1bef-25c9b9bc-transparent.png",
-    "thumb": "assets/optimized/thumbs/b640wb-1bef-25c9b9bc-transparent.png",
+    "image": "assets/optimized/full/b640wb-1bef-25c9b9bc-transparent.webp",
+    "thumb": "assets/optimized/thumbs/b640wb-1bef-25c9b9bc-transparent.webp",
     "source": "kleine Bilder/Casio/b640wb-1bef.jpg"
   },
   {
@@ -3643,8 +3643,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/b640wc-5aef-bb137966-transparent.png",
-    "thumb": "assets/optimized/thumbs/b640wc-5aef-bb137966-transparent.png",
+    "image": "assets/optimized/full/b640wc-5aef-bb137966-transparent.webp",
+    "thumb": "assets/optimized/thumbs/b640wc-5aef-bb137966-transparent.webp",
     "source": "kleine Bilder/Casio/b640wc-5aef.jpg"
   },
   {
@@ -3655,8 +3655,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/dbc-32-1aes-42a07e3a-transparent.png",
-    "thumb": "assets/optimized/thumbs/dbc-32-1aes-42a07e3a-transparent.png",
+    "image": "assets/optimized/full/dbc-32-1aes-42a07e3a-transparent.webp",
+    "thumb": "assets/optimized/thumbs/dbc-32-1aes-42a07e3a-transparent.webp",
     "source": "kleine Bilder/Casio/dbc-32-1aes.jpg"
   },
   {
@@ -3667,8 +3667,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/hdd-600-1aves-a47e5d74-transparent.png",
-    "thumb": "assets/optimized/thumbs/hdd-600-1aves-a47e5d74-transparent.png",
+    "image": "assets/optimized/full/hdd-600-1aves-a47e5d74-transparent.webp",
+    "thumb": "assets/optimized/thumbs/hdd-600-1aves-a47e5d74-transparent.webp",
     "source": "kleine Bilder/Casio/hdd-600-1aves.jpg"
   },
   {
@@ -3679,8 +3679,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/la-20wh-1cef-b6e078bb-transparent.png",
-    "thumb": "assets/optimized/thumbs/la-20wh-1cef-b6e078bb-transparent.png",
+    "image": "assets/optimized/full/la-20wh-1cef-b6e078bb-transparent.webp",
+    "thumb": "assets/optimized/thumbs/la-20wh-1cef-b6e078bb-transparent.webp",
     "source": "kleine Bilder/Casio/la-20wh-1cef.jpg"
   },
   {
@@ -3691,8 +3691,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/la680wega-9er-9856aa31-transparent.png",
-    "thumb": "assets/optimized/thumbs/la680wega-9er-9856aa31-transparent.png",
+    "image": "assets/optimized/full/la680wega-9er-9856aa31-transparent.webp",
+    "thumb": "assets/optimized/thumbs/la680wega-9er-9856aa31-transparent.webp",
     "source": "kleine Bilder/Casio/la680wega-9er.jpg"
   },
   {
@@ -3703,8 +3703,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/ltp-1283d-2a2ef-226863c8-transparent.png",
-    "thumb": "assets/optimized/thumbs/ltp-1283d-2a2ef-226863c8-transparent.png",
+    "image": "assets/optimized/full/ltp-1283d-2a2ef-226863c8-transparent.webp",
+    "thumb": "assets/optimized/thumbs/ltp-1283d-2a2ef-226863c8-transparent.webp",
     "source": "kleine Bilder/Casio/ltp-1283d-2a2ef.jpg"
   },
   {
@@ -3715,8 +3715,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/ltp-1302d-7a1vef-0541297d-transparent.png",
-    "thumb": "assets/optimized/thumbs/ltp-1302d-7a1vef-0541297d-transparent.png",
+    "image": "assets/optimized/full/ltp-1302d-7a1vef-0541297d-transparent.webp",
+    "thumb": "assets/optimized/thumbs/ltp-1302d-7a1vef-0541297d-transparent.webp",
     "source": "kleine Bilder/Casio/ltp-1302d-7a1vef.jpg"
   },
   {
@@ -3727,8 +3727,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/ltp-1302l-7bvef-03220f4a-transparent.png",
-    "thumb": "assets/optimized/thumbs/ltp-1302l-7bvef-03220f4a-transparent.png",
+    "image": "assets/optimized/full/ltp-1302l-7bvef-03220f4a-transparent.webp",
+    "thumb": "assets/optimized/thumbs/ltp-1302l-7bvef-03220f4a-transparent.webp",
     "source": "kleine Bilder/Casio/ltp-1302l-7bvef.jpg"
   },
   {
@@ -3739,8 +3739,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/lw-200-4avef-d461874b-transparent.png",
-    "thumb": "assets/optimized/thumbs/lw-200-4avef-d461874b-transparent.png",
+    "image": "assets/optimized/full/lw-200-4avef-d461874b-transparent.webp",
+    "thumb": "assets/optimized/thumbs/lw-200-4avef-d461874b-transparent.webp",
     "source": "kleine Bilder/Casio/lw-200-4avef.jpg"
   },
   {
@@ -3751,8 +3751,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/lw-203-4avef-00b8ace7-transparent.png",
-    "thumb": "assets/optimized/thumbs/lw-203-4avef-00b8ace7-transparent.png",
+    "image": "assets/optimized/full/lw-203-4avef-00b8ace7-transparent.webp",
+    "thumb": "assets/optimized/thumbs/lw-203-4avef-00b8ace7-transparent.webp",
     "source": "kleine Bilder/Casio/lw-203-4avef.jpg"
   },
   {
@@ -3763,8 +3763,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/mrw-200h-1bvef-d4fef59a-transparent.png",
-    "thumb": "assets/optimized/thumbs/mrw-200h-1bvef-d4fef59a-transparent.png",
+    "image": "assets/optimized/full/mrw-200h-1bvef-d4fef59a-transparent.webp",
+    "thumb": "assets/optimized/thumbs/mrw-200h-1bvef-d4fef59a-transparent.webp",
     "source": "kleine Bilder/Casio/mrw-200h-1bvef.jpg"
   },
   {
@@ -3775,8 +3775,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/mtp-1302pd-1a1vef-1d605789-transparent.png",
-    "thumb": "assets/optimized/thumbs/mtp-1302pd-1a1vef-1d605789-transparent.png",
+    "image": "assets/optimized/full/mtp-1302pd-1a1vef-1d605789-transparent.webp",
+    "thumb": "assets/optimized/thumbs/mtp-1302pd-1a1vef-1d605789-transparent.webp",
     "source": "kleine Bilder/Casio/mtp-1302pd-1a1vef.jpg"
   },
   {
@@ -3787,8 +3787,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/mtp-1302pl-1avef-a23e4b45-transparent.png",
-    "thumb": "assets/optimized/thumbs/mtp-1302pl-1avef-a23e4b45-transparent.png",
+    "image": "assets/optimized/full/mtp-1302pl-1avef-a23e4b45-transparent.webp",
+    "thumb": "assets/optimized/thumbs/mtp-1302pl-1avef-a23e4b45-transparent.webp",
     "source": "kleine Bilder/Casio/mtp-1302pl-1avef.jpg"
   },
   {
@@ -3799,8 +3799,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/mtp-1302pl-7bvef-84d0d855-transparent.png",
-    "thumb": "assets/optimized/thumbs/mtp-1302pl-7bvef-84d0d855-transparent.png",
+    "image": "assets/optimized/full/mtp-1302pl-7bvef-84d0d855-transparent.webp",
+    "thumb": "assets/optimized/thumbs/mtp-1302pl-7bvef-84d0d855-transparent.webp",
     "source": "kleine Bilder/Casio/mtp-1302pl-7bvef.jpg"
   },
   {
@@ -3811,8 +3811,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/mtp-1302psg-7avef-8ad5ca19-transparent.png",
-    "thumb": "assets/optimized/thumbs/mtp-1302psg-7avef-8ad5ca19-transparent.png",
+    "image": "assets/optimized/full/mtp-1302psg-7avef-8ad5ca19-transparent.webp",
+    "thumb": "assets/optimized/thumbs/mtp-1302psg-7avef-8ad5ca19-transparent.webp",
     "source": "kleine Bilder/Casio/mtp-1302psg-7avef.jpg"
   },
   {
@@ -3823,8 +3823,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/mtp-1308d-1bvef-55ee7665-transparent.png",
-    "thumb": "assets/optimized/thumbs/mtp-1308d-1bvef-55ee7665-transparent.png",
+    "image": "assets/optimized/full/mtp-1308d-1bvef-55ee7665-transparent.webp",
+    "thumb": "assets/optimized/thumbs/mtp-1308d-1bvef-55ee7665-transparent.webp",
     "source": "kleine Bilder/Casio/mtp-1308d-1bvef.jpg"
   },
   {
@@ -3835,8 +3835,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/sgw-100-1vef-ea863edd-transparent.png",
-    "thumb": "assets/optimized/thumbs/sgw-100-1vef-ea863edd-transparent.png",
+    "image": "assets/optimized/full/sgw-100-1vef-ea863edd-transparent.webp",
+    "thumb": "assets/optimized/thumbs/sgw-100-1vef-ea863edd-transparent.webp",
     "source": "kleine Bilder/Casio/sgw-100-1vef.jpg"
   },
   {
@@ -3847,8 +3847,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/sgw-1000-1aer-6d36e543-transparent.png",
-    "thumb": "assets/optimized/thumbs/sgw-1000-1aer-6d36e543-transparent.png",
+    "image": "assets/optimized/full/sgw-1000-1aer-6d36e543-transparent.webp",
+    "thumb": "assets/optimized/thumbs/sgw-1000-1aer-6d36e543-transparent.webp",
     "source": "kleine Bilder/Casio/sgw-1000-1aer.jpg"
   },
   {
@@ -3859,8 +3859,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/sgw-400hd-1bver-2b1cc7d0-transparent.png",
-    "thumb": "assets/optimized/thumbs/sgw-400hd-1bver-2b1cc7d0-transparent.png",
+    "image": "assets/optimized/full/sgw-400hd-1bver-2b1cc7d0-transparent.webp",
+    "thumb": "assets/optimized/thumbs/sgw-400hd-1bver-2b1cc7d0-transparent.webp",
     "source": "kleine Bilder/Casio/sgw-400hd-1bver.jpg"
   },
   {
@@ -3871,8 +3871,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/wv-58e-1avef-44cf62c0-transparent.png",
-    "thumb": "assets/optimized/thumbs/wv-58e-1avef-44cf62c0-transparent.png",
+    "image": "assets/optimized/full/wv-58e-1avef-44cf62c0-transparent.webp",
+    "thumb": "assets/optimized/thumbs/wv-58e-1avef-44cf62c0-transparent.webp",
     "source": "kleine Bilder/Casio/wv-58e-1avef.jpg"
   },
   {
@@ -3883,8 +3883,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/wv-59e-1avef-ea101e01-transparent.png",
-    "thumb": "assets/optimized/thumbs/wv-59e-1avef-ea101e01-transparent.png",
+    "image": "assets/optimized/full/wv-59e-1avef-ea101e01-transparent.webp",
+    "thumb": "assets/optimized/thumbs/wv-59e-1avef-ea101e01-transparent.webp",
     "source": "kleine Bilder/Casio/wv-59e-1avef.jpg"
   },
   {
@@ -3895,8 +3895,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Casio Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Casio\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/wva-m650td-1aer-ca75efd3-transparent.png",
-    "thumb": "assets/optimized/thumbs/wva-m650td-1aer-ca75efd3-transparent.png",
+    "image": "assets/optimized/full/wva-m650td-1aer-ca75efd3-transparent.webp",
+    "thumb": "assets/optimized/thumbs/wva-m650td-1aer-ca75efd3-transparent.webp",
     "source": "kleine Bilder/Casio/wva-m650td-1aer.jpg"
   },
   {
@@ -3907,8 +3907,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Edifice Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Edifice\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/ecw-m300edb-1aer-de4c4168-transparent.png",
-    "thumb": "assets/optimized/thumbs/ecw-m300edb-1aer-de4c4168-transparent.png",
+    "image": "assets/optimized/full/ecw-m300edb-1aer-de4c4168-transparent.webp",
+    "thumb": "assets/optimized/thumbs/ecw-m300edb-1aer-de4c4168-transparent.webp",
     "source": "kleine Bilder/Edifice/ECW-M300EDB-1AER.jpg"
   },
   {
@@ -3919,8 +3919,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Edifice Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Edifice\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/ef-129d-2avef-9c121400-transparent.png",
-    "thumb": "assets/optimized/thumbs/ef-129d-2avef-9c121400-transparent.png",
+    "image": "assets/optimized/full/ef-129d-2avef-9c121400-transparent.webp",
+    "thumb": "assets/optimized/thumbs/ef-129d-2avef-9c121400-transparent.webp",
     "source": "kleine Bilder/Edifice/EF-129D-2AVEF.jpg"
   },
   {
@@ -3931,8 +3931,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Edifice Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Edifice\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/efr-564d-1avuef-ff495904-transparent.png",
-    "thumb": "assets/optimized/thumbs/efr-564d-1avuef-ff495904-transparent.png",
+    "image": "assets/optimized/full/efr-564d-1avuef-ff495904-transparent.webp",
+    "thumb": "assets/optimized/thumbs/efr-564d-1avuef-ff495904-transparent.webp",
     "source": "kleine Bilder/Edifice/EFR-564D-1AVUEF.jpg"
   },
   {
@@ -3943,8 +3943,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Edifice Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Edifice\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/efr-564d-2avuef-d6886f5b-transparent.png",
-    "thumb": "assets/optimized/thumbs/efr-564d-2avuef-d6886f5b-transparent.png",
+    "image": "assets/optimized/full/efr-564d-2avuef-d6886f5b-transparent.webp",
+    "thumb": "assets/optimized/thumbs/efr-564d-2avuef-d6886f5b-transparent.webp",
     "source": "kleine Bilder/Edifice/EFR-564D-2AVUEF.jpg"
   },
   {
@@ -3955,8 +3955,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Edifice Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Edifice\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/efr-570db-1avuef-677ae8e2-transparent.png",
-    "thumb": "assets/optimized/thumbs/efr-570db-1avuef-677ae8e2-transparent.png",
+    "image": "assets/optimized/full/efr-570db-1avuef-677ae8e2-transparent.webp",
+    "thumb": "assets/optimized/thumbs/efr-570db-1avuef-677ae8e2-transparent.webp",
     "source": "kleine Bilder/Edifice/EFR-570DB-1AVUEF.jpg"
   },
   {
@@ -3967,8 +3967,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Edifice Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Edifice\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/efr-570db-1bvuef-fbfc2b84-transparent.png",
-    "thumb": "assets/optimized/thumbs/efr-570db-1bvuef-fbfc2b84-transparent.png",
+    "image": "assets/optimized/full/efr-570db-1bvuef-fbfc2b84-transparent.webp",
+    "thumb": "assets/optimized/thumbs/efr-570db-1bvuef-fbfc2b84-transparent.webp",
     "source": "kleine Bilder/Edifice/EFR-570DB-1BVUEF.jpg"
   },
   {
@@ -3979,8 +3979,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Edifice Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Edifice\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/efr-s107d-1avuef-60f4c041-transparent.png",
-    "thumb": "assets/optimized/thumbs/efr-s107d-1avuef-60f4c041-transparent.png",
+    "image": "assets/optimized/full/efr-s107d-1avuef-60f4c041-transparent.webp",
+    "thumb": "assets/optimized/thumbs/efr-s107d-1avuef-60f4c041-transparent.webp",
     "source": "kleine Bilder/Edifice/EFR-S107D-1AVUEF.jpg"
   },
   {
@@ -3991,8 +3991,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Edifice Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Edifice\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/efr-s567dc-1avuef-2e11be85-transparent.png",
-    "thumb": "assets/optimized/thumbs/efr-s567dc-1avuef-2e11be85-transparent.png",
+    "image": "assets/optimized/full/efr-s567dc-1avuef-2e11be85-transparent.webp",
+    "thumb": "assets/optimized/thumbs/efr-s567dc-1avuef-2e11be85-transparent.webp",
     "source": "kleine Bilder/Edifice/EFR-S567DC-1AVUEF.jpg"
   },
   {
@@ -4003,8 +4003,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Edifice Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Edifice\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/efv-130d-2avuef-92d87592-transparent.png",
-    "thumb": "assets/optimized/thumbs/efv-130d-2avuef-92d87592-transparent.png",
+    "image": "assets/optimized/full/efv-130d-2avuef-92d87592-transparent.webp",
+    "thumb": "assets/optimized/thumbs/efv-130d-2avuef-92d87592-transparent.webp",
     "source": "kleine Bilder/Edifice/EFV-130D-2AVUEF.jpg"
   },
   {
@@ -4015,8 +4015,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Edifice Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Edifice\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/efv-590d-1avuef-202df1a5-transparent.png",
-    "thumb": "assets/optimized/thumbs/efv-590d-1avuef-202df1a5-transparent.png",
+    "image": "assets/optimized/full/efv-590d-1avuef-202df1a5-transparent.webp",
+    "thumb": "assets/optimized/thumbs/efv-590d-1avuef-202df1a5-transparent.webp",
     "source": "kleine Bilder/Edifice/EFV-590D-1AVUEF.jpg"
   },
   {
@@ -4027,8 +4027,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Edifice Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Edifice\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/efv-590pb-1avuef-be5959c7-transparent.png",
-    "thumb": "assets/optimized/thumbs/efv-590pb-1avuef-be5959c7-transparent.png",
+    "image": "assets/optimized/full/efv-590pb-1avuef-be5959c7-transparent.webp",
+    "thumb": "assets/optimized/thumbs/efv-590pb-1avuef-be5959c7-transparent.webp",
     "source": "kleine Bilder/Edifice/EFV-590PB-1AVUEF.jpg"
   },
   {
@@ -4039,8 +4039,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Edifice Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Edifice\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/efv-c100d-1avef-c2d21d4b-transparent.png",
-    "thumb": "assets/optimized/thumbs/efv-c100d-1avef-c2d21d4b-transparent.png",
+    "image": "assets/optimized/full/efv-c100d-1avef-c2d21d4b-transparent.webp",
+    "thumb": "assets/optimized/thumbs/efv-c100d-1avef-c2d21d4b-transparent.webp",
     "source": "kleine Bilder/Edifice/EFV-C100D-1AVEF.jpg"
   },
   {
@@ -4051,8 +4051,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Edifice Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Edifice\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/eqw-m710db-1a1er-dfd12746-transparent.png",
-    "thumb": "assets/optimized/thumbs/eqw-m710db-1a1er-dfd12746-transparent.png",
+    "image": "assets/optimized/full/eqw-m710db-1a1er-dfd12746-transparent.webp",
+    "thumb": "assets/optimized/thumbs/eqw-m710db-1a1er-dfd12746-transparent.webp",
     "source": "kleine Bilder/Edifice/EQW-M710DB-1A1ER.jpg"
   },
   {
@@ -4063,8 +4063,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Edifice Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Edifice\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/etd-310d-1avuef-6b186e47-transparent.png",
-    "thumb": "assets/optimized/thumbs/etd-310d-1avuef-6b186e47-transparent.png",
+    "image": "assets/optimized/full/etd-310d-1avuef-6b186e47-transparent.webp",
+    "thumb": "assets/optimized/thumbs/etd-310d-1avuef-6b186e47-transparent.webp",
     "source": "kleine Bilder/Edifice/ETD-310D-1AVUEF.jpg"
   },
   {
@@ -4075,8 +4075,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Edifice Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Edifice\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/evf-130d-1avuef-049c54d1-transparent.png",
-    "thumb": "assets/optimized/thumbs/evf-130d-1avuef-049c54d1-transparent.png",
+    "image": "assets/optimized/full/evf-130d-1avuef-049c54d1-transparent.webp",
+    "thumb": "assets/optimized/thumbs/evf-130d-1avuef-049c54d1-transparent.webp",
     "source": "kleine Bilder/Edifice/EVF-130D-1AVUEF.jpg"
   },
   {
@@ -4087,8 +4087,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Edifice Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Edifice\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/evf-550gy-8avuef-d0701f21-transparent.png",
-    "thumb": "assets/optimized/thumbs/evf-550gy-8avuef-d0701f21-transparent.png",
+    "image": "assets/optimized/full/evf-550gy-8avuef-d0701f21-transparent.webp",
+    "thumb": "assets/optimized/thumbs/evf-550gy-8avuef-d0701f21-transparent.webp",
     "source": "kleine Bilder/Edifice/EVF-550GY-8AVUEF.jpg"
   },
   {
@@ -4099,8 +4099,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Edifice Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Edifice\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/evf-560d-2avuef-a0935849-transparent.png",
-    "thumb": "assets/optimized/thumbs/evf-560d-2avuef-a0935849-transparent.png",
+    "image": "assets/optimized/full/evf-560d-2avuef-a0935849-transparent.webp",
+    "thumb": "assets/optimized/thumbs/evf-560d-2avuef-a0935849-transparent.webp",
     "source": "kleine Bilder/Edifice/EVF-560D-2AVUEF.jpg"
   },
   {
@@ -4111,8 +4111,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Edifice Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Edifice\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/evf-560d-7avuef-93637ac5-transparent.png",
-    "thumb": "assets/optimized/thumbs/evf-560d-7avuef-93637ac5-transparent.png",
+    "image": "assets/optimized/full/evf-560d-7avuef-93637ac5-transparent.webp",
+    "thumb": "assets/optimized/thumbs/evf-560d-7avuef-93637ac5-transparent.webp",
     "source": "kleine Bilder/Edifice/EVF-560D-7AVUEF.jpg"
   },
   {
@@ -4123,8 +4123,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Edifice Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Edifice\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/evf-570p-1avuef-5362287e-transparent.png",
-    "thumb": "assets/optimized/thumbs/evf-570p-1avuef-5362287e-transparent.png",
+    "image": "assets/optimized/full/evf-570p-1avuef-5362287e-transparent.webp",
+    "thumb": "assets/optimized/thumbs/evf-570p-1avuef-5362287e-transparent.webp",
     "source": "kleine Bilder/Edifice/EVF-570P-1AVUEF.jpg"
   },
   {
@@ -4135,8 +4135,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "G-Shock Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: G-Shock\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/awg-m100a-1aer-316b2306-transparent.png",
-    "thumb": "assets/optimized/thumbs/awg-m100a-1aer-316b2306-transparent.png",
+    "image": "assets/optimized/full/awg-m100a-1aer-316b2306-transparent.webp",
+    "thumb": "assets/optimized/thumbs/awg-m100a-1aer-316b2306-transparent.webp",
     "source": "kleine Bilder/G-Shock/AWG-M100A-1AER.jpg"
   },
   {
@@ -4147,8 +4147,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "G-Shock Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: G-Shock\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/ga-100b-4aer-7ae13cae-transparent.png",
-    "thumb": "assets/optimized/thumbs/ga-100b-4aer-7ae13cae-transparent.png",
+    "image": "assets/optimized/full/ga-100b-4aer-7ae13cae-transparent.webp",
+    "thumb": "assets/optimized/thumbs/ga-100b-4aer-7ae13cae-transparent.webp",
     "source": "kleine Bilder/G-Shock/GA-100B-4AER.jpg"
   },
   {
@@ -4159,8 +4159,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "G-Shock Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: G-Shock\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/ga-140-1a1er-35a4f4fa-transparent.png",
-    "thumb": "assets/optimized/thumbs/ga-140-1a1er-35a4f4fa-transparent.png",
+    "image": "assets/optimized/full/ga-140-1a1er-35a4f4fa-transparent.webp",
+    "thumb": "assets/optimized/thumbs/ga-140-1a1er-35a4f4fa-transparent.webp",
     "source": "kleine Bilder/G-Shock/GA-140-1A1ER.jpg"
   },
   {
@@ -4171,8 +4171,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "G-Shock Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: G-Shock\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/ga-140-1a4er-5b6d5d64-transparent.png",
-    "thumb": "assets/optimized/thumbs/ga-140-1a4er-5b6d5d64-transparent.png",
+    "image": "assets/optimized/full/ga-140-1a4er-5b6d5d64-transparent.webp",
+    "thumb": "assets/optimized/thumbs/ga-140-1a4er-5b6d5d64-transparent.webp",
     "source": "kleine Bilder/G-Shock/GA-140-1A4ER.jpg"
   },
   {
@@ -4183,8 +4183,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "G-Shock Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: G-Shock\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/ga-140gm-1a1er-e8dc489a-transparent.png",
-    "thumb": "assets/optimized/thumbs/ga-140gm-1a1er-e8dc489a-transparent.png",
+    "image": "assets/optimized/full/ga-140gm-1a1er-e8dc489a-transparent.webp",
+    "thumb": "assets/optimized/thumbs/ga-140gm-1a1er-e8dc489a-transparent.webp",
     "source": "kleine Bilder/G-Shock/GA-140GM-1A1ER.jpg"
   },
   {
@@ -4195,8 +4195,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "G-Shock Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: G-Shock\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/ga-2000-1a9er-46fad89e-transparent.png",
-    "thumb": "assets/optimized/thumbs/ga-2000-1a9er-46fad89e-transparent.png",
+    "image": "assets/optimized/full/ga-2000-1a9er-46fad89e-transparent.webp",
+    "thumb": "assets/optimized/thumbs/ga-2000-1a9er-46fad89e-transparent.webp",
     "source": "kleine Bilder/G-Shock/GA-2000-1A9ER.jpg"
   },
   {
@@ -4207,8 +4207,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "G-Shock Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: G-Shock\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/ga-2000-2aer-b8788972-transparent.png",
-    "thumb": "assets/optimized/thumbs/ga-2000-2aer-b8788972-transparent.png",
+    "image": "assets/optimized/full/ga-2000-2aer-b8788972-transparent.webp",
+    "thumb": "assets/optimized/thumbs/ga-2000-2aer-b8788972-transparent.webp",
     "source": "kleine Bilder/G-Shock/GA-2000-2AER.jpg"
   },
   {
@@ -4219,8 +4219,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "G-Shock Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: G-Shock\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/ga-2000-3aer-aa0879aa-transparent.png",
-    "thumb": "assets/optimized/thumbs/ga-2000-3aer-aa0879aa-transparent.png",
+    "image": "assets/optimized/full/ga-2000-3aer-aa0879aa-transparent.webp",
+    "thumb": "assets/optimized/thumbs/ga-2000-3aer-aa0879aa-transparent.webp",
     "source": "kleine Bilder/G-Shock/GA-2000-3AER.jpg"
   },
   {
@@ -4231,8 +4231,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "G-Shock Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: G-Shock\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/ga-2000su-1aer-cf4c6297-transparent.png",
-    "thumb": "assets/optimized/thumbs/ga-2000su-1aer-cf4c6297-transparent.png",
+    "image": "assets/optimized/full/ga-2000su-1aer-cf4c6297-transparent.webp",
+    "thumb": "assets/optimized/thumbs/ga-2000su-1aer-cf4c6297-transparent.webp",
     "source": "kleine Bilder/G-Shock/GA-2000SU-1AER.jpg"
   },
   {
@@ -4243,8 +4243,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "G-Shock Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: G-Shock\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/ga-2100su-1aer-b3fbdea6-transparent.png",
-    "thumb": "assets/optimized/thumbs/ga-2100su-1aer-b3fbdea6-transparent.png",
+    "image": "assets/optimized/full/ga-2100su-1aer-b3fbdea6-transparent.webp",
+    "thumb": "assets/optimized/thumbs/ga-2100su-1aer-b3fbdea6-transparent.webp",
     "source": "kleine Bilder/G-Shock/GA-2100SU-1AER.jpg"
   },
   {
@@ -4255,8 +4255,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "G-Shock Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: G-Shock\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/ga-2110su-3aer-6a5f51ba-transparent.png",
-    "thumb": "assets/optimized/thumbs/ga-2110su-3aer-6a5f51ba-transparent.png",
+    "image": "assets/optimized/full/ga-2110su-3aer-6a5f51ba-transparent.webp",
+    "thumb": "assets/optimized/thumbs/ga-2110su-3aer-6a5f51ba-transparent.webp",
     "source": "kleine Bilder/G-Shock/GA-2110SU-3AER.jpg"
   },
   {
@@ -4267,8 +4267,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "G-Shock Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: G-Shock\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/ga-700uc-3aer-1d642f10-transparent.png",
-    "thumb": "assets/optimized/thumbs/ga-700uc-3aer-1d642f10-transparent.png",
+    "image": "assets/optimized/full/ga-700uc-3aer-1d642f10-transparent.webp",
+    "thumb": "assets/optimized/thumbs/ga-700uc-3aer-1d642f10-transparent.webp",
     "source": "kleine Bilder/G-Shock/GA-700UC-3AER.jpg"
   },
   {
@@ -4279,8 +4279,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "G-Shock Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: G-Shock\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/ga-710b-1a9er-5732f783-transparent.png",
-    "thumb": "assets/optimized/thumbs/ga-710b-1a9er-5732f783-transparent.png",
+    "image": "assets/optimized/full/ga-710b-1a9er-5732f783-transparent.webp",
+    "thumb": "assets/optimized/thumbs/ga-710b-1a9er-5732f783-transparent.webp",
     "source": "kleine Bilder/G-Shock/GA-710B-1A9ER.jpg"
   },
   {
@@ -4291,8 +4291,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "G-Shock Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: G-Shock\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/ga-710gb-1aer-b31a0faa-transparent.png",
-    "thumb": "assets/optimized/thumbs/ga-710gb-1aer-b31a0faa-transparent.png",
+    "image": "assets/optimized/full/ga-710gb-1aer-b31a0faa-transparent.webp",
+    "thumb": "assets/optimized/thumbs/ga-710gb-1aer-b31a0faa-transparent.webp",
     "source": "kleine Bilder/G-Shock/GA-710GB-1AER.jpg"
   },
   {
@@ -4303,8 +4303,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "G-Shock Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: G-Shock\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/gba-800-1aer-d91f7995-transparent.png",
-    "thumb": "assets/optimized/thumbs/gba-800-1aer-d91f7995-transparent.png",
+    "image": "assets/optimized/full/gba-800-1aer-d91f7995-transparent.webp",
+    "thumb": "assets/optimized/thumbs/gba-800-1aer-d91f7995-transparent.webp",
     "source": "kleine Bilder/G-Shock/GBA-800-1AER.jpg"
   },
   {
@@ -4315,8 +4315,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "G-Shock Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: G-Shock\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/gba-800-9aer-6c3a53a4-transparent.png",
-    "thumb": "assets/optimized/thumbs/gba-800-9aer-6c3a53a4-transparent.png",
+    "image": "assets/optimized/full/gba-800-9aer-6c3a53a4-transparent.webp",
+    "thumb": "assets/optimized/thumbs/gba-800-9aer-6c3a53a4-transparent.webp",
     "source": "kleine Bilder/G-Shock/GBA-800-9AER.jpg"
   },
   {
@@ -4327,8 +4327,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "G-Shock Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: G-Shock\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/gbd-800-1er-397435a8-transparent.png",
-    "thumb": "assets/optimized/thumbs/gbd-800-1er-397435a8-transparent.png",
+    "image": "assets/optimized/full/gbd-800-1er-397435a8-transparent.webp",
+    "thumb": "assets/optimized/thumbs/gbd-800-1er-397435a8-transparent.webp",
     "source": "kleine Bilder/G-Shock/GBD-800-1ER.jpg"
   },
   {
@@ -4339,8 +4339,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "G-Shock Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: G-Shock\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/gg-b100-1a3er-b208a06d-transparent.png",
-    "thumb": "assets/optimized/thumbs/gg-b100-1a3er-b208a06d-transparent.png",
+    "image": "assets/optimized/full/gg-b100-1a3er-b208a06d-transparent.webp",
+    "thumb": "assets/optimized/thumbs/gg-b100-1a3er-b208a06d-transparent.webp",
     "source": "kleine Bilder/G-Shock/GG-B100-1A3ER.jpg"
   },
   {
@@ -4351,8 +4351,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "G-Shock Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: G-Shock\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/gm-6900-1er-5ac490da-transparent.png",
-    "thumb": "assets/optimized/thumbs/gm-6900-1er-5ac490da-transparent.png",
+    "image": "assets/optimized/full/gm-6900-1er-5ac490da-transparent.webp",
+    "thumb": "assets/optimized/thumbs/gm-6900-1er-5ac490da-transparent.webp",
     "source": "kleine Bilder/G-Shock/GM-6900-1ER.jpg"
   },
   {
@@ -4363,8 +4363,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "G-Shock Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: G-Shock\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/gm-6900g-9er-16fa6378-transparent.png",
-    "thumb": "assets/optimized/thumbs/gm-6900g-9er-16fa6378-transparent.png",
+    "image": "assets/optimized/full/gm-6900g-9er-16fa6378-transparent.webp",
+    "thumb": "assets/optimized/thumbs/gm-6900g-9er-16fa6378-transparent.webp",
     "source": "kleine Bilder/G-Shock/GM-6900G-9ER.jpg"
   },
   {
@@ -4375,8 +4375,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "G-Shock Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: G-Shock\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/gw-m5610-1er-ce25ae6d-transparent.png",
-    "thumb": "assets/optimized/thumbs/gw-m5610-1er-ce25ae6d-transparent.png",
+    "image": "assets/optimized/full/gw-m5610-1er-ce25ae6d-transparent.webp",
+    "thumb": "assets/optimized/thumbs/gw-m5610-1er-ce25ae6d-transparent.webp",
     "source": "kleine Bilder/G-Shock/GW-M5610-1ER.jpg"
   },
   {
@@ -4387,8 +4387,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1117-1an-6f88b9e2-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1117-1an-6f88b9e2-transparent.png",
+    "image": "assets/optimized/full/1-1117-1an-6f88b9e2-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1117-1an-6f88b9e2-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Sport/1-1117.1an.jpg"
   },
   {
@@ -4399,8 +4399,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1117-1dn-15587856-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1117-1dn-15587856-transparent.png",
+    "image": "assets/optimized/full/1-1117-1dn-15587856-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1117-1dn-15587856-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Sport/1-1117.1dn.jpg"
   },
   {
@@ -4411,8 +4411,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1117-1en-6d10fa27-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1117-1en-6d10fa27-transparent.png",
+    "image": "assets/optimized/full/1-1117-1en-6d10fa27-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1117-1en-6d10fa27-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Sport/1-1117.1en.jpg"
   },
   {
@@ -4423,8 +4423,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1117-1ln-7c9235b8-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1117-1ln-7c9235b8-transparent.png",
+    "image": "assets/optimized/full/1-1117-1ln-7c9235b8-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1117-1ln-7c9235b8-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Sport/1-1117.1ln.jpg"
   },
   {
@@ -4435,8 +4435,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1117-pn-5a8a147d-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1117-pn-5a8a147d-transparent.png",
+    "image": "assets/optimized/full/1-1117-pn-5a8a147d-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1117-pn-5a8a147d-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Sport/1-1117.pn.jpg"
   },
   {
@@ -4447,8 +4447,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1540a-e7a59748-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1540a-e7a59748-transparent.png",
+    "image": "assets/optimized/full/1-1540a-e7a59748-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1540a-e7a59748-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Classic/1-1540a.jpg"
   },
   {
@@ -4459,8 +4459,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1540e-2d4361b3-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1540e-2d4361b3-transparent.png",
+    "image": "assets/optimized/full/1-1540e-2d4361b3-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1540e-2d4361b3-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Classic/1-1540e.jpg"
   },
   {
@@ -4471,8 +4471,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1540h-b081e134-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1540h-b081e134-transparent.png",
+    "image": "assets/optimized/full/1-1540h-b081e134-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1540h-b081e134-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Classic/1-1540h.jpg"
   },
   {
@@ -4483,8 +4483,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1542a-a1b351f8-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1542a-a1b351f8-transparent.png",
+    "image": "assets/optimized/full/1-1542a-a1b351f8-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1542a-a1b351f8-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Sport/1-1542a.jpg"
   },
   {
@@ -4495,8 +4495,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1542c-96e5de0b-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1542c-96e5de0b-transparent.png",
+    "image": "assets/optimized/full/1-1542c-96e5de0b-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1542c-96e5de0b-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Sport/1-1542c.jpg"
   },
   {
@@ -4507,8 +4507,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1542l-8493dbd0-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1542l-8493dbd0-transparent.png",
+    "image": "assets/optimized/full/1-1542l-8493dbd0-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1542l-8493dbd0-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Sport/1-1542l.jpg"
   },
   {
@@ -4519,8 +4519,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1593-1f-7322c303-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1593-1f-7322c303-transparent.png",
+    "image": "assets/optimized/full/1-1593-1f-7322c303-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1593-1f-7322c303-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Ceramic/1-1593-1f.jpg"
   },
   {
@@ -4531,8 +4531,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1645-1k-d713eb51-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1645-1k-d713eb51-transparent.png",
+    "image": "assets/optimized/full/1-1645-1k-d713eb51-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1645-1k-d713eb51-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Sport/1-1645-1k.jpg"
   },
   {
@@ -4543,8 +4543,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1648e-87bcd2f3-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1648e-87bcd2f3-transparent.png",
+    "image": "assets/optimized/full/1-1648e-87bcd2f3-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1648e-87bcd2f3-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Ceramic/1-1648e.jpg"
   },
   {
@@ -4555,8 +4555,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1651a-aabd968f-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1651a-aabd968f-transparent.png",
+    "image": "assets/optimized/full/1-1651a-aabd968f-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1651a-aabd968f-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Ceramic/1-1651a.jpg"
   },
   {
@@ -4567,8 +4567,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1799c-b863d14f-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1799c-b863d14f-transparent.png",
+    "image": "assets/optimized/full/1-1799c-b863d14f-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1799c-b863d14f-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Sport/1-1799c.jpg"
   },
   {
@@ -4579,8 +4579,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1799f-f18e3460-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1799f-f18e3460-transparent.png",
+    "image": "assets/optimized/full/1-1799f-f18e3460-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1799f-f18e3460-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Sport/1-1799f.jpg"
   },
   {
@@ -4591,8 +4591,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1799h-5bb3731e-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1799h-5bb3731e-transparent.png",
+    "image": "assets/optimized/full/1-1799h-5bb3731e-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1799h-5bb3731e-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Sport/1-1799h.jpg"
   },
   {
@@ -4603,8 +4603,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1830a-5a7ac927-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1830a-5a7ac927-transparent.png",
+    "image": "assets/optimized/full/1-1830a-5a7ac927-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1830a-5a7ac927-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Sport/1-1830a.jpg"
   },
   {
@@ -4615,8 +4615,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1830f-a5085a16-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1830f-a5085a16-transparent.png",
+    "image": "assets/optimized/full/1-1830f-a5085a16-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1830f-a5085a16-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Sport/1-1830f.jpg"
   },
   {
@@ -4627,8 +4627,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1844f-f7ac4ec1-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1844f-f7ac4ec1-transparent.png",
+    "image": "assets/optimized/full/1-1844f-f7ac4ec1-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1844f-f7ac4ec1-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Sport/1-1844f.jpg"
   },
   {
@@ -4639,8 +4639,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1844h-a9030573-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1844h-a9030573-transparent.png",
+    "image": "assets/optimized/full/1-1844h-a9030573-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1844h-a9030573-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Sport/1-1844h.jpg"
   },
   {
@@ -4651,8 +4651,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1844l-d53491bf-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1844l-d53491bf-transparent.png",
+    "image": "assets/optimized/full/1-1844l-d53491bf-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1844l-d53491bf-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Sport/1-1844L.jpg"
   },
   {
@@ -4663,8 +4663,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1844za-64f062eb-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1844za-64f062eb-transparent.png",
+    "image": "assets/optimized/full/1-1844za-64f062eb-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1844za-64f062eb-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Sport/1-1844za.jpg"
   },
   {
@@ -4675,8 +4675,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1846-1a-28c24f41-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1846-1a-28c24f41-transparent.png",
+    "image": "assets/optimized/full/1-1846-1a-28c24f41-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1846-1a-28c24f41-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Automatic/1-1846-1A.jpg"
   },
   {
@@ -4687,8 +4687,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1846-1b-19b3b91b-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1846-1b-19b3b91b-transparent.png",
+    "image": "assets/optimized/full/1-1846-1b-19b3b91b-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1846-1b-19b3b91b-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Automatic/1-1846-1B.jpg"
   },
   {
@@ -4699,8 +4699,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1846-1d-0907534e-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1846-1d-0907534e-transparent.png",
+    "image": "assets/optimized/full/1-1846-1d-0907534e-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1846-1d-0907534e-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Automatic/1-1846-1D.jpg"
   },
   {
@@ -4711,8 +4711,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1846-1f-73cecf3f-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1846-1f-73cecf3f-transparent.png",
+    "image": "assets/optimized/full/1-1846-1f-73cecf3f-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1846-1f-73cecf3f-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Automatic/1-1846-1F.jpg"
   },
   {
@@ -4723,8 +4723,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1850b-c0d6c8e2-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1850b-c0d6c8e2-transparent.png",
+    "image": "assets/optimized/full/1-1850b-c0d6c8e2-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1850b-c0d6c8e2-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Classic/1-1850b.jpg"
   },
   {
@@ -4735,8 +4735,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1852g-be100aa9-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1852g-be100aa9-transparent.png",
+    "image": "assets/optimized/full/1-1852g-be100aa9-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1852g-be100aa9-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Classic/1-1852g.jpg"
   },
   {
@@ -4747,8 +4747,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1852zb-1e34c15d-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1852zb-1e34c15d-transparent.png",
+    "image": "assets/optimized/full/1-1852zb-1e34c15d-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1852zb-1e34c15d-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Classic/1-1852zb.jpg"
   },
   {
@@ -4759,8 +4759,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1855a-0e2eba2a-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1855a-0e2eba2a-transparent.png",
+    "image": "assets/optimized/full/1-1855a-0e2eba2a-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1855a-0e2eba2a-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Ceramic/1-1855a.jpg"
   },
   {
@@ -4771,8 +4771,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1856b-37d82b40-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1856b-37d82b40-transparent.png",
+    "image": "assets/optimized/full/1-1856b-37d82b40-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1856b-37d82b40-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Ceramic/1-1856b.jpg"
   },
   {
@@ -4783,8 +4783,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1856e-8181d66a-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1856e-8181d66a-transparent.png",
+    "image": "assets/optimized/full/1-1856e-8181d66a-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1856e-8181d66a-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Ceramic/1-1856e.jpg"
   },
   {
@@ -4795,8 +4795,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1856h-6b6c8aa5-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1856h-6b6c8aa5-transparent.png",
+    "image": "assets/optimized/full/1-1856h-6b6c8aa5-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1856h-6b6c8aa5-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Ceramic/1-1856h.jpg"
   },
   {
@@ -4807,8 +4807,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1857l-5ef95255-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1857l-5ef95255-transparent.png",
+    "image": "assets/optimized/full/1-1857l-5ef95255-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1857l-5ef95255-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Sport/1-1857l.jpg"
   },
   {
@@ -4819,8 +4819,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1900b-f0c70a94-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1900b-f0c70a94-transparent.png",
+    "image": "assets/optimized/full/1-1900b-f0c70a94-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1900b-f0c70a94-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Ceramic/1-1900b.jpg"
   },
   {
@@ -4831,8 +4831,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1901b-60aeb49b-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1901b-60aeb49b-transparent.png",
+    "image": "assets/optimized/full/1-1901b-60aeb49b-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1901b-60aeb49b-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Sport/1-1901b.jpg"
   },
   {
@@ -4843,8 +4843,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1901e-e6b6a1f3-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1901e-e6b6a1f3-transparent.png",
+    "image": "assets/optimized/full/1-1901e-e6b6a1f3-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1901e-e6b6a1f3-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Sport/1-1901e.jpg"
   },
   {
@@ -4855,8 +4855,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1912a-a004db86-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1912a-a004db86-transparent.png",
+    "image": "assets/optimized/full/1-1912a-a004db86-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1912a-a004db86-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Automatic/1-1912A.jpg"
   },
   {
@@ -4867,8 +4867,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1912d-d6100ecd-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1912d-d6100ecd-transparent.png",
+    "image": "assets/optimized/full/1-1912d-d6100ecd-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1912d-d6100ecd-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Automatic/1-1912D.jpg"
   },
   {
@@ -4879,8 +4879,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1912f-79afa062-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1912f-79afa062-transparent.png",
+    "image": "assets/optimized/full/1-1912f-79afa062-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1912f-79afa062-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Automatic/1-1912F.jpg"
   },
   {
@@ -4891,8 +4891,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1931a-7db01ec9-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1931a-7db01ec9-transparent.png",
+    "image": "assets/optimized/full/1-1931a-7db01ec9-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1931a-7db01ec9-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Sport/1-1931a.jpg"
   },
   {
@@ -4903,8 +4903,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1939a-139c4683-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1939a-139c4683-transparent.png",
+    "image": "assets/optimized/full/1-1939a-139c4683-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1939a-139c4683-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Ceramic/1-1939a.jpg"
   },
   {
@@ -4915,8 +4915,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1939b-3aad226b-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1939b-3aad226b-transparent.png",
+    "image": "assets/optimized/full/1-1939b-3aad226b-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1939b-3aad226b-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Ceramic/1-1939b.jpg"
   },
   {
@@ -4927,8 +4927,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1939c-719decdb-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1939c-719decdb-transparent.png",
+    "image": "assets/optimized/full/1-1939c-719decdb-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1939c-719decdb-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Ceramic/1-1939c.jpg"
   },
   {
@@ -4939,8 +4939,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1939d-85c7d5ad-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1939d-85c7d5ad-transparent.png",
+    "image": "assets/optimized/full/1-1939d-85c7d5ad-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1939d-85c7d5ad-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Ceramic/1-1939d.jpg"
   },
   {
@@ -4951,8 +4951,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1940a-c96bc068-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1940a-c96bc068-transparent.png",
+    "image": "assets/optimized/full/1-1940a-c96bc068-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1940a-c96bc068-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Ceramic/1-1940a.jpg"
   },
   {
@@ -4963,8 +4963,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1940b-3dd7c3d9-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1940b-3dd7c3d9-transparent.png",
+    "image": "assets/optimized/full/1-1940b-3dd7c3d9-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1940b-3dd7c3d9-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Ceramic/1-1940b.jpg"
   },
   {
@@ -4975,8 +4975,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1940c-81cd9972-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1940c-81cd9972-transparent.png",
+    "image": "assets/optimized/full/1-1940c-81cd9972-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1940c-81cd9972-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Ceramic/1-1940c.jpg"
   },
   {
@@ -4987,8 +4987,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1941c-a914c59d-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1941c-a914c59d-transparent.png",
+    "image": "assets/optimized/full/1-1941c-a914c59d-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1941c-a914c59d-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Ceramic/1-1941c.jpg"
   },
   {
@@ -4999,8 +4999,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1999a-76372847-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1999a-76372847-transparent.png",
+    "image": "assets/optimized/full/1-1999a-76372847-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1999a-76372847-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Sale Ceramic/1-1999A.jpg"
   },
   {
@@ -5011,8 +5011,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1999b-4e490c21-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1999b-4e490c21-transparent.png",
+    "image": "assets/optimized/full/1-1999b-4e490c21-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1999b-4e490c21-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Sale Ceramic/1-1999B.jpg"
   },
   {
@@ -5023,8 +5023,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1999c-95257005-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1999c-95257005-transparent.png",
+    "image": "assets/optimized/full/1-1999c-95257005-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1999c-95257005-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Sale Ceramic/1-1999c.jpg"
   },
   {
@@ -5035,8 +5035,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1999d-c28e4b4b-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1999d-c28e4b4b-transparent.png",
+    "image": "assets/optimized/full/1-1999d-c28e4b4b-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1999d-c28e4b4b-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Sale Ceramic/1-1999d.jpg"
   },
   {
@@ -5047,8 +5047,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-1999g-5a968aeb-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-1999g-5a968aeb-transparent.png",
+    "image": "assets/optimized/full/1-1999g-5a968aeb-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-1999g-5a968aeb-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Sale Ceramic/1-1999g.jpg"
   },
   {
@@ -5059,8 +5059,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-2002f-35e8ef3e-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-2002f-35e8ef3e-transparent.png",
+    "image": "assets/optimized/full/1-2002f-35e8ef3e-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-2002f-35e8ef3e-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Classic/1-2002f.jpg"
   },
   {
@@ -5071,8 +5071,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-2002j-ee3f4d5b-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-2002j-ee3f4d5b-transparent.png",
+    "image": "assets/optimized/full/1-2002j-ee3f4d5b-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-2002j-ee3f4d5b-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Classic/1-2002j.jpg"
   },
   {
@@ -5083,8 +5083,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-2002l-109c4d09-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-2002l-109c4d09-transparent.png",
+    "image": "assets/optimized/full/1-2002l-109c4d09-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-2002l-109c4d09-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Classic/1-2002l.jpg"
   },
   {
@@ -5095,8 +5095,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-2002n-c589e975-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-2002n-c589e975-transparent.png",
+    "image": "assets/optimized/full/1-2002n-c589e975-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-2002n-c589e975-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Classic/1-2002n.jpg"
   },
   {
@@ -5107,8 +5107,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-2003a-58e8d5e4-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-2003a-58e8d5e4-transparent.png",
+    "image": "assets/optimized/full/1-2003a-58e8d5e4-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-2003a-58e8d5e4-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Classic/1-2003a.jpg"
   },
   {
@@ -5119,8 +5119,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-2003b-ceac63b3-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-2003b-ceac63b3-transparent.png",
+    "image": "assets/optimized/full/1-2003b-ceac63b3-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-2003b-ceac63b3-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Classic/1-2003b.jpg"
   },
   {
@@ -5131,8 +5131,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-2003c-1bfe9b75-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-2003c-1bfe9b75-transparent.png",
+    "image": "assets/optimized/full/1-2003c-1bfe9b75-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-2003c-1bfe9b75-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Classic/1-2003c.jpg"
   },
   {
@@ -5143,8 +5143,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-2003d-1c18c92c-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-2003d-1c18c92c-transparent.png",
+    "image": "assets/optimized/full/1-2003d-1c18c92c-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-2003d-1c18c92c-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Classic/1-2003d.jpg"
   },
   {
@@ -5155,8 +5155,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-2003f-18c7ebeb-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-2003f-18c7ebeb-transparent.png",
+    "image": "assets/optimized/full/1-2003f-18c7ebeb-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-2003f-18c7ebeb-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Classic/1-2003f.jpg"
   },
   {
@@ -5167,8 +5167,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-2003g-10235f2d-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-2003g-10235f2d-transparent.png",
+    "image": "assets/optimized/full/1-2003g-10235f2d-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-2003g-10235f2d-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Classic/1-2003g.jpg"
   },
   {
@@ -5179,8 +5179,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-2003l-3ee8a544-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-2003l-3ee8a544-transparent.png",
+    "image": "assets/optimized/full/1-2003l-3ee8a544-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-2003l-3ee8a544-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Classic/1-2003l.jpg"
   },
   {
@@ -5191,8 +5191,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-2004c-c23d821c-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-2004c-c23d821c-transparent.png",
+    "image": "assets/optimized/full/1-2004c-c23d821c-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-2004c-c23d821c-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Classic/1-2004c.jpg"
   },
   {
@@ -5203,8 +5203,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-2004h-94c3bf03-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-2004h-94c3bf03-transparent.png",
+    "image": "assets/optimized/full/1-2004h-94c3bf03-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-2004h-94c3bf03-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Classic/1-2004h.jpg"
   },
   {
@@ -5215,8 +5215,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-2065f-738cb8c2-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-2065f-738cb8c2-transparent.png",
+    "image": "assets/optimized/full/1-2065f-738cb8c2-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-2065f-738cb8c2-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Retro/1-2065f.jpg"
   },
   {
@@ -5227,8 +5227,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-2066b-4797d0af-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-2066b-4797d0af-transparent.png",
+    "image": "assets/optimized/full/1-2066b-4797d0af-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-2066b-4797d0af-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Retro/1-2066b.jpg"
   },
   {
@@ -5239,8 +5239,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-2066f-1c492d25-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-2066f-1c492d25-transparent.png",
+    "image": "assets/optimized/full/1-2066f-1c492d25-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-2066f-1c492d25-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Retro/1-2066f.jpg"
   },
   {
@@ -5251,8 +5251,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-2067a-4846d7cb-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-2067a-4846d7cb-transparent.png",
+    "image": "assets/optimized/full/1-2067a-4846d7cb-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-2067a-4846d7cb-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Retro/1-2067a.jpg"
   },
   {
@@ -5263,8 +5263,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/1-2067g-57cd076e-transparent.png",
-    "thumb": "assets/optimized/thumbs/1-2067g-57cd076e-transparent.png",
+    "image": "assets/optimized/full/1-2067g-57cd076e-transparent.webp",
+    "thumb": "assets/optimized/thumbs/1-2067g-57cd076e-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Retro/1-2067g.jpg"
   },
   {
@@ -5275,8 +5275,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/40-1d-6e538e8a-transparent.png",
-    "thumb": "assets/optimized/thumbs/40-1d-6e538e8a-transparent.png",
+    "image": "assets/optimized/full/40-1d-6e538e8a-transparent.webp",
+    "thumb": "assets/optimized/thumbs/40-1d-6e538e8a-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Sale Sport/40-1d.jpg"
   },
   {
@@ -5287,8 +5287,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/42-6-1a-57eada3f-transparent.png",
-    "thumb": "assets/optimized/thumbs/42-6-1a-57eada3f-transparent.png",
+    "image": "assets/optimized/full/42-6-1a-57eada3f-transparent.webp",
+    "thumb": "assets/optimized/thumbs/42-6-1a-57eada3f-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Sale Sport/42-6.1a.jpg"
   },
   {
@@ -5299,8 +5299,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/42-6-1d-8cf22967-transparent.png",
-    "thumb": "assets/optimized/thumbs/42-6-1d-8cf22967-transparent.png",
+    "image": "assets/optimized/full/42-6-1d-8cf22967-transparent.webp",
+    "thumb": "assets/optimized/thumbs/42-6-1d-8cf22967-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Sale Sport/42-6.1d.jpg"
   },
   {
@@ -5311,8 +5311,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/42-6-1e-2caf0dbc-transparent.png",
-    "thumb": "assets/optimized/thumbs/42-6-1e-2caf0dbc-transparent.png",
+    "image": "assets/optimized/full/42-6-1e-2caf0dbc-transparent.webp",
+    "thumb": "assets/optimized/thumbs/42-6-1e-2caf0dbc-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Sale Sport/42-6.1e.jpg"
   },
   {
@@ -5323,8 +5323,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/42-6-1f-f2101176-transparent.png",
-    "thumb": "assets/optimized/thumbs/42-6-1f-f2101176-transparent.png",
+    "image": "assets/optimized/full/42-6-1f-f2101176-transparent.webp",
+    "thumb": "assets/optimized/thumbs/42-6-1f-f2101176-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Sale Sport/42-6.1f.jpg"
   },
   {
@@ -5335,8 +5335,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/42-6-1h-d64de32c-transparent.png",
-    "thumb": "assets/optimized/thumbs/42-6-1h-d64de32c-transparent.png",
+    "image": "assets/optimized/full/42-6-1h-d64de32c-transparent.webp",
+    "thumb": "assets/optimized/thumbs/42-6-1h-d64de32c-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Sale Sport/42-6.1h.jpg"
   },
   {
@@ -5347,8 +5347,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/42-6b-fb9358b4-transparent.png",
-    "thumb": "assets/optimized/thumbs/42-6b-fb9358b4-transparent.png",
+    "image": "assets/optimized/full/42-6b-fb9358b4-transparent.webp",
+    "thumb": "assets/optimized/thumbs/42-6b-fb9358b4-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Sale Sport/42-6b.jpg"
   },
   {
@@ -5359,8 +5359,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/42-6c-88cc3254-transparent.png",
-    "thumb": "assets/optimized/thumbs/42-6c-88cc3254-transparent.png",
+    "image": "assets/optimized/full/42-6c-88cc3254-transparent.webp",
+    "thumb": "assets/optimized/thumbs/42-6c-88cc3254-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Sale Sport/42-6c.jpg"
   },
   {
@@ -5371,8 +5371,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/42-6g-f046de4e-transparent.png",
-    "thumb": "assets/optimized/thumbs/42-6g-f046de4e-transparent.png",
+    "image": "assets/optimized/full/42-6g-f046de4e-transparent.webp",
+    "thumb": "assets/optimized/thumbs/42-6g-f046de4e-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Sale Sport/42-6g.jpg"
   },
   {
@@ -5383,8 +5383,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/42-7a-856247b4-transparent.png",
-    "thumb": "assets/optimized/thumbs/42-7a-856247b4-transparent.png",
+    "image": "assets/optimized/full/42-7a-856247b4-transparent.webp",
+    "thumb": "assets/optimized/thumbs/42-7a-856247b4-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Sale Ceramic/42-7a.jpg"
   },
   {
@@ -5395,8 +5395,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/42-7c-bd842989-transparent.png",
-    "thumb": "assets/optimized/thumbs/42-7c-bd842989-transparent.png",
+    "image": "assets/optimized/full/42-7c-bd842989-transparent.webp",
+    "thumb": "assets/optimized/thumbs/42-7c-bd842989-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Sale Ceramic/42-7c.jpg"
   },
   {
@@ -5407,8 +5407,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/42-7d-ce118e5a-transparent.png",
-    "thumb": "assets/optimized/thumbs/42-7d-ce118e5a-transparent.png",
+    "image": "assets/optimized/full/42-7d-ce118e5a-transparent.webp",
+    "thumb": "assets/optimized/thumbs/42-7d-ce118e5a-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Sale Ceramic/42-7d.jpg"
   },
   {
@@ -5419,8 +5419,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/42-7f-63e6b727-transparent.png",
-    "thumb": "assets/optimized/thumbs/42-7f-63e6b727-transparent.png",
+    "image": "assets/optimized/full/42-7f-63e6b727-transparent.webp",
+    "thumb": "assets/optimized/thumbs/42-7f-63e6b727-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Sale Ceramic/42-7f.jpg"
   },
   {
@@ -5431,8 +5431,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/42-7g-c948446b-transparent.png",
-    "thumb": "assets/optimized/thumbs/42-7g-c948446b-transparent.png",
+    "image": "assets/optimized/full/42-7g-c948446b-transparent.webp",
+    "thumb": "assets/optimized/thumbs/42-7g-c948446b-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Sale Ceramic/42-7g.jpg"
   },
   {
@@ -5443,8 +5443,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/42-7m-92dc230f-transparent.png",
-    "thumb": "assets/optimized/thumbs/42-7m-92dc230f-transparent.png",
+    "image": "assets/optimized/full/42-7m-92dc230f-transparent.webp",
+    "thumb": "assets/optimized/thumbs/42-7m-92dc230f-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Sale Ceramic/42-7m.jpg"
   },
   {
@@ -5455,8 +5455,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/42-8a-f29fcdc1-transparent.png",
-    "thumb": "assets/optimized/thumbs/42-8a-f29fcdc1-transparent.png",
+    "image": "assets/optimized/full/42-8a-f29fcdc1-transparent.webp",
+    "thumb": "assets/optimized/thumbs/42-8a-f29fcdc1-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Sale Ceramic/42-8a.jpg"
   },
   {
@@ -5467,8 +5467,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/42-8b-256c811e-transparent.png",
-    "thumb": "assets/optimized/thumbs/42-8b-256c811e-transparent.png",
+    "image": "assets/optimized/full/42-8b-256c811e-transparent.webp",
+    "thumb": "assets/optimized/thumbs/42-8b-256c811e-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Sale Ceramic/42-8b.jpg"
   },
   {
@@ -5479,8 +5479,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/42-8c-0fa22b94-transparent.png",
-    "thumb": "assets/optimized/thumbs/42-8c-0fa22b94-transparent.png",
+    "image": "assets/optimized/full/42-8c-0fa22b94-transparent.webp",
+    "thumb": "assets/optimized/thumbs/42-8c-0fa22b94-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Sale Ceramic/42-8c.jpg"
   },
   {
@@ -5491,8 +5491,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/42-8d-3cba4127-transparent.png",
-    "thumb": "assets/optimized/thumbs/42-8d-3cba4127-transparent.png",
+    "image": "assets/optimized/full/42-8d-3cba4127-transparent.webp",
+    "thumb": "assets/optimized/thumbs/42-8d-3cba4127-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Sale Ceramic/42-8d.jpg"
   },
   {
@@ -5503,8 +5503,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/42-8e-61fc2bcd-transparent.png",
-    "thumb": "assets/optimized/thumbs/42-8e-61fc2bcd-transparent.png",
+    "image": "assets/optimized/full/42-8e-61fc2bcd-transparent.webp",
+    "thumb": "assets/optimized/thumbs/42-8e-61fc2bcd-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Sale Ceramic/42-8e.jpg"
   },
   {
@@ -5515,8 +5515,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/42-8f-02ff64db-transparent.png",
-    "thumb": "assets/optimized/thumbs/42-8f-02ff64db-transparent.png",
+    "image": "assets/optimized/full/42-8f-02ff64db-transparent.webp",
+    "thumb": "assets/optimized/thumbs/42-8f-02ff64db-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Sale Ceramic/42-8f.jpg"
   },
   {
@@ -5527,8 +5527,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/n-206c-fe67cc6d-transparent.png",
-    "thumb": "assets/optimized/thumbs/n-206c-fe67cc6d-transparent.png",
+    "image": "assets/optimized/full/n-206c-fe67cc6d-transparent.webp",
+    "thumb": "assets/optimized/thumbs/n-206c-fe67cc6d-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Automatic/N-206C.jpg"
   },
   {
@@ -5539,8 +5539,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/n-207za-09ffc75b-transparent.png",
-    "thumb": "assets/optimized/thumbs/n-207za-09ffc75b-transparent.png",
+    "image": "assets/optimized/full/n-207za-09ffc75b-transparent.webp",
+    "thumb": "assets/optimized/thumbs/n-207za-09ffc75b-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Automatic/N-207ZA.jpg"
   },
   {
@@ -5551,8 +5551,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/n-207zc-523f68ba-transparent.png",
-    "thumb": "assets/optimized/thumbs/n-207zc-523f68ba-transparent.png",
+    "image": "assets/optimized/full/n-207zc-523f68ba-transparent.webp",
+    "thumb": "assets/optimized/thumbs/n-207zc-523f68ba-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Automatic/N-207ZC.jpg"
   },
   {
@@ -5563,8 +5563,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/n-209zb-b92a0055-transparent.png",
-    "thumb": "assets/optimized/thumbs/n-209zb-b92a0055-transparent.png",
+    "image": "assets/optimized/full/n-209zb-b92a0055-transparent.webp",
+    "thumb": "assets/optimized/thumbs/n-209zb-b92a0055-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Retro/n-209zb.jpg"
   },
   {
@@ -5575,8 +5575,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/n-209zg-e78b9130-transparent.png",
-    "thumb": "assets/optimized/thumbs/n-209zg-e78b9130-transparent.png",
+    "image": "assets/optimized/full/n-209zg-e78b9130-transparent.webp",
+    "thumb": "assets/optimized/thumbs/n-209zg-e78b9130-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Retro/n-209zg.jpg"
   },
   {
@@ -5587,8 +5587,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/n-209zh-2cbf706d-transparent.png",
-    "thumb": "assets/optimized/thumbs/n-209zh-2cbf706d-transparent.png",
+    "image": "assets/optimized/full/n-209zh-2cbf706d-transparent.webp",
+    "thumb": "assets/optimized/thumbs/n-209zh-2cbf706d-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Retro/n-209zh.jpg"
   },
   {
@@ -5599,8 +5599,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/n-212b-0abb934e-transparent.png",
-    "thumb": "assets/optimized/thumbs/n-212b-0abb934e-transparent.png",
+    "image": "assets/optimized/full/n-212b-0abb934e-transparent.webp",
+    "thumb": "assets/optimized/thumbs/n-212b-0abb934e-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Automatic/N-212B.jpg"
   },
   {
@@ -5611,8 +5611,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/n-212c-00d4bdc5-transparent.png",
-    "thumb": "assets/optimized/thumbs/n-212c-00d4bdc5-transparent.png",
+    "image": "assets/optimized/full/n-212c-00d4bdc5-transparent.webp",
+    "thumb": "assets/optimized/thumbs/n-212c-00d4bdc5-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Automatic/n-212c.jpg"
   },
   {
@@ -5623,8 +5623,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/n-213a-da5f898b-transparent.png",
-    "thumb": "assets/optimized/thumbs/n-213a-da5f898b-transparent.png",
+    "image": "assets/optimized/full/n-213a-da5f898b-transparent.webp",
+    "thumb": "assets/optimized/thumbs/n-213a-da5f898b-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Retro/n-213a.jpg"
   },
   {
@@ -5635,8 +5635,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/n-214f-6e1440f0-transparent.png",
-    "thumb": "assets/optimized/thumbs/n-214f-6e1440f0-transparent.png",
+    "image": "assets/optimized/full/n-214f-6e1440f0-transparent.webp",
+    "thumb": "assets/optimized/thumbs/n-214f-6e1440f0-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Retro/n-214f.jpg"
   },
   {
@@ -5647,8 +5647,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/n-215a-ebe90112-transparent.png",
-    "thumb": "assets/optimized/thumbs/n-215a-ebe90112-transparent.png",
+    "image": "assets/optimized/full/n-215a-ebe90112-transparent.webp",
+    "thumb": "assets/optimized/thumbs/n-215a-ebe90112-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Retro/n-215a.jpg"
   },
   {
@@ -5659,8 +5659,8 @@ window.sarikowImportedProducts = [
     "price": 0,
     "description": "Jaques Lemans Uhr, verfügbar auf Anfrage bei Juwelier Sarikow.",
     "specs": "Marke: Jaques Lemans\nKategorie: Uhren\nVerfuegbarkeit: auf Anfrage\nStandort: Reinprechtsdorfer Strasse 46, 1050 Wien",
-    "image": "assets/optimized/full/n209ze-f488dd31-transparent.png",
-    "thumb": "assets/optimized/thumbs/n209ze-f488dd31-transparent.png",
+    "image": "assets/optimized/full/n209ze-f488dd31-transparent.webp",
+    "thumb": "assets/optimized/thumbs/n209ze-f488dd31-transparent.webp",
     "source": "kleine Bilder/Jaques Lemans/Retro/n209ze.jpg"
   }
 ];
