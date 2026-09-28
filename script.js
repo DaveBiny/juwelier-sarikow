@@ -99,7 +99,8 @@ const catalogState = {
   openCategory: "auto"
 };
 const adminState = {
-  category: "all"
+  category: "custom",
+  query: ""
 };
 const watchBrandOrder = ["Frederique Constant", "Citizen", "Zeppelin", "Boss", "G-Shock", "Edifice", "Tommy Hilfiger", "Jack Lemens", "Casio"];
 const removedWatchBrands = ["diesel", "armani", "emporio armani", "lee cooper", "michael kors", "michel herbelin"];
@@ -126,6 +127,10 @@ function normalizeProduct(product) {
   const category = normalizeCategoryName(product?.category, product?.brand);
   const brand = category === "Uhren" ? canonicalWatchBrand(product?.brand) : String(product?.brand || "").trim();
   return { specs: "", ...product, brand, category };
+}
+
+function isCustomProduct(product) {
+  return String(product?.id || "").startsWith("p-");
 }
 
 const productForm = document.querySelector("#productForm");
@@ -207,7 +212,9 @@ function filteredProducts(category = "all") {
 
   return products.filter((product) => {
     const inCategory = activeCategory === "all" || product.category === activeCategory;
-    const inBrand = catalogState.brand === "all" || normalizeFilter(product.brand) === normalizeFilter(catalogState.brand);
+    const normalizedBrand = normalizeFilter(product.brand);
+    const selectedBrand = normalizeFilter(catalogState.brand);
+    const inBrand = catalogState.brand === "all" || normalizedBrand === selectedBrand || normalizeFilter(product.category) === selectedBrand;
     const haystack = `${product.name} ${product.brand} ${product.category} ${product.description}`.toLowerCase();
     return inCategory && inBrand && haystack.includes(query);
   });
@@ -482,7 +489,13 @@ function renderProductDetail() {
 
 function renderAdminProducts() {
   if (!adminProducts) return;
-  const adminItems = products.filter((product) => adminState.category === "all" || product.category === adminState.category);
+  const query = normalizeFilter(adminState.query);
+  const adminItems = products.filter((product) => {
+    const inCategory = adminState.category === "all"
+      || (adminState.category === "custom" ? isCustomProduct(product) : product.category === adminState.category);
+    const haystack = normalizeFilter(`${product.name} ${product.brand} ${product.category} ${product.description}`);
+    return inCategory && (!query || haystack.includes(query));
+  });
   adminProducts.innerHTML = adminItems
     .map(
       (product) => `
@@ -503,6 +516,8 @@ function renderAdminProducts() {
   document.querySelectorAll("[data-admin-category]").forEach((button) => {
     button.classList.toggle("active", button.dataset.adminCategory === adminState.category);
   });
+  const count = document.querySelector("[data-admin-result-count]");
+  if (count) count.textContent = `${adminItems.length} Produkte`;
 }
 
 function updateWishlistCounter() {
@@ -1029,6 +1044,11 @@ function wireEvents() {
     const button = event.target.closest("[data-admin-category]");
     if (!button) return;
     adminState.category = button.dataset.adminCategory;
+    renderAdminProducts();
+  });
+
+  document.querySelector("#adminProductSearch")?.addEventListener("input", (event) => {
+    adminState.query = event.target.value;
     renderAdminProducts();
   });
 

@@ -8,7 +8,7 @@
       name="description"
       content="Eine elegante Juwelier-Webseite mit Produktpflege, Anfrageformular und hochwertiger Katalog-Struktur."
     >
-    <link rel="stylesheet" href="styles.css?v=20260928d">
+    <link rel="stylesheet" href="styles.css?v=20260928e">
   </head>
   <body>
     <header class="site-header">
@@ -352,19 +352,25 @@
           </form>
           <div class="admin-list-head">
             <p>Produkte bearbeiten</p>
+            <label class="admin-search">
+              <span>Produkt suchen</span>
+              <input id="adminProductSearch" type="search" placeholder="Name, Marke oder Kategorie">
+            </label>
             <div class="admin-category-tabs" data-admin-category-tabs>
-              <button class="active" type="button" data-admin-category="all">Alle</button>
+              <button class="active" type="button" data-admin-category="custom">Eigene Produkte</button>
               <button type="button" data-admin-category="Schmuck">Schmuck</button>
               <button type="button" data-admin-category="Uhren">Uhren</button>
               <button type="button" data-admin-category="Anlässe">Anlässe</button>
+              <button type="button" data-admin-category="all">Alle</button>
             </div>
+            <small data-admin-result-count>0 Produkte</small>
           </div>
           <div class="admin-products" id="adminProducts"></div>
         </section>
       </div>
     </dialog>
 
-    <script src="assets/generated/products-data.js?v=20260928d"></script>
-    <script src="script.js?v=20260928d"></script>
+    <script src="assets/generated/products-data.js?v=20260928e"></script>
+    <script src="script.js?v=20260928e"></script>
   </body>
 </html>

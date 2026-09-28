@@ -891,7 +891,7 @@ textarea {
   display: grid;
   gap: 12px;
   align-content: start;
-  max-height: min(58vh, 640px);
+  max-height: min(52vh, 520px);
   margin-top: 14px;
   overflow: auto;
   padding-right: 6px;
@@ -954,10 +954,47 @@ textarea {
 
 .admin-list-head {
   align-self: end;
+  display: grid;
+  gap: 10px;
 }
 
 .admin-list-head p {
-  margin-bottom: 10px;
+  margin-bottom: 0;
+}
+
+.admin-list-head small {
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.admin-search {
+  display: grid;
+  gap: 7px;
+}
+
+.admin-search span {
+  color: #4a4239;
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.admin-search input {
+  width: 100%;
+  border: 1px solid var(--line);
+  background: var(--white);
+  padding: 11px 12px;
+}
+
+.admin-product-row strong {
+  font-size: 14px;
+}
+
+.admin-product-row span {
+  color: var(--muted);
+  font-size: 12px;
 }
 
 output {
