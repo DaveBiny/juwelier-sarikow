@@ -105,6 +105,26 @@ function normalizeFilter(value) {
   return String(value || "").trim().toLowerCase();
 }
 
+function canonicalWatchBrand(value) {
+  const normalized = normalizeFilter(value);
+  return watchBrandOrder.find((brand) => normalizeFilter(brand) === normalized) || String(value || "").trim();
+}
+
+function normalizeCategoryName(category, brand) {
+  const normalized = normalizeFilter(category);
+  if (normalized === "uhren" || normalized === "uhr" || watchBrandOrder.some((item) => normalizeFilter(item) === normalized)) return "Uhren";
+  if (normalized === "anlässe" || normalized === "anlaesse" || normalized === "anlass") return "Anlässe";
+  if (normalized === "schmuck") return "Schmuck";
+  if (watchBrandOrder.some((item) => normalizeFilter(item) === normalizeFilter(brand))) return "Uhren";
+  return category || "Schmuck";
+}
+
+function normalizeProduct(product) {
+  const category = normalizeCategoryName(product?.category, product?.brand);
+  const brand = category === "Uhren" ? canonicalWatchBrand(product?.brand) : String(product?.brand || "").trim();
+  return { specs: "", ...product, brand, category };
+}
+
 const productForm = document.querySelector("#productForm");
 const adminProducts = document.querySelector("#adminProducts");
 const loginForm = document.querySelector("#loginForm");
@@ -152,12 +172,12 @@ function loadProducts() {
     const customProducts = Array.isArray(saved)
       ? saved.filter((product) => !isRemovedWatchBrand(product) && !importedIds.has(product.id) && !defaultProducts.some((item) => item.id === product.id))
       : [];
-    const merged = [...imported, ...customProducts].filter((product) => !isRemovedWatchBrand(product)).map(cleanProduct);
+    const merged = [...imported, ...customProducts].filter((product) => !isRemovedWatchBrand(product)).map(cleanProduct).map(normalizeProduct);
     writeJson(storageKey, merged);
     return merged;
   }
   if (Array.isArray(saved) && saved.length) {
-    const cleanedSaved = saved.filter((product) => !isRemovedWatchBrand(product)).map(cleanProduct);
+    const cleanedSaved = saved.filter((product) => !isRemovedWatchBrand(product)).map(cleanProduct).map(normalizeProduct);
     writeJson(storageKey, cleanedSaved);
     return cleanedSaved;
   }
@@ -223,7 +243,10 @@ function renderBrandGroups(grid, category, items) {
     return acc;
   }, {});
   const brands = category === "Uhren"
-    ? watchBrandOrder.filter((brand) => grouped[brand])
+    ? [
+        ...watchBrandOrder.filter((brand) => Object.keys(grouped).some((item) => normalizeFilter(item) === normalizeFilter(brand))),
+        ...Object.keys(grouped).filter((brand) => !watchBrandOrder.some((item) => normalizeFilter(item) === normalizeFilter(brand))).sort((a, b) => a.localeCompare(b, "de"))
+      ]
     : Object.keys(grouped).sort((a, b) => grouped[b].length - grouped[a].length || a.localeCompare(b, "de"));
 
   grid.innerHTML = brands
@@ -317,7 +340,10 @@ function countsFor(values, key, category = "all") {
   return values.reduce((acc, value) => {
     acc[value] = products.filter((product) => {
       const inCategory = category === "all" || product.category === category;
-      return inCategory && product[key] === value;
+      const matches = key === "brand"
+        ? normalizeFilter(product[key]) === normalizeFilter(value)
+        : product[key] === value;
+      return inCategory && matches;
     }).length;
     return acc;
   }, {});
@@ -336,7 +362,7 @@ function renderCatalogFilters() {
     const brandBase = products.filter((product) => brandCategory === "all" || product.category === brandCategory);
     const productBrands = [...new Set(brandBase.map((product) => product.brand))].sort((a, b) => a.localeCompare(b, "de"));
     const brands = brandCategory === "Uhren"
-      ? [...watchBrandOrder, ...productBrands.filter((brand) => !watchBrandOrder.includes(brand))]
+      ? [...watchBrandOrder, ...productBrands.filter((brand) => !watchBrandOrder.some((item) => normalizeFilter(item) === normalizeFilter(brand)))]
       : productBrands;
     return {
       brandBase,
@@ -628,6 +654,61 @@ function trimTransparentCanvas(canvas) {
   return trimmed;
 }
 
+function transparentPixelRatio(canvas) {
+  const context = canvas.getContext("2d", { willReadFrequently: true });
+  const imageData = context.getImageData(0, 0, canvas.width, canvas.height);
+  const { data } = imageData;
+  let transparent = 0;
+  for (let index = 3; index < data.length; index += 4) {
+    if (data[index] < 24) transparent += 1;
+  }
+  return transparent / (canvas.width * canvas.height);
+}
+
+function brightPixelRatio(canvas, startX, endX) {
+  const context = canvas.getContext("2d", { willReadFrequently: true });
+  const width = canvas.width;
+  const height = canvas.height;
+  const imageData = context.getImageData(0, 0, width, height);
+  const { data } = imageData;
+  let bright = 0;
+  let total = 0;
+  for (let y = 0; y < height; y += 2) {
+    for (let x = startX; x < endX; x += 2) {
+      const offset = (y * width + x) * 4;
+      const brightness = (data[offset] + data[offset + 1] + data[offset + 2]) / 3;
+      const spread = Math.max(data[offset], data[offset + 1], data[offset + 2]) - Math.min(data[offset], data[offset + 1], data[offset + 2]);
+      if (brightness > 168 && spread < 78) bright += 1;
+      total += 1;
+    }
+  }
+  return total ? bright / total : 0;
+}
+
+function focusWatchPosterCanvas(canvas, category) {
+  if (category !== "Uhren") return canvas;
+  const ratio = transparentPixelRatio(canvas);
+  if (ratio > 0.08) return canvas;
+  const { width, height } = canvas;
+  const aspect = width / height;
+  if (aspect < 0.74 || aspect > 1.42) return canvas;
+  const leftBright = brightPixelRatio(canvas, 0, Math.floor(width * 0.38));
+  const rightBright = brightPixelRatio(canvas, Math.floor(width * 0.62), width);
+  const hasPosterText = leftBright > 0.035 && leftBright > rightBright * 1.25;
+  if (!hasPosterText) return canvas;
+
+  const crop = document.createElement("canvas");
+  const sx = Math.round(width * 0.27);
+  const sy = Math.round(height * 0.07);
+  const sw = Math.round(width * 0.66);
+  const sh = Math.round(height * 0.91);
+  crop.width = sw;
+  crop.height = sh;
+  crop.getContext("2d").drawImage(canvas, sx, sy, sw, sh, 0, 0, sw, sh);
+  stripWhiteBackground(crop);
+  return crop;
+}
+
 function fitProductCanvas(sourceCanvas, size) {
   const trimmed = trimTransparentCanvas(sourceCanvas);
   const canvas = document.createElement("canvas");
@@ -643,7 +724,7 @@ function fitProductCanvas(sourceCanvas, size) {
   return canvas;
 }
 
-async function fileToProductImages(file) {
+async function fileToProductImages(file, category) {
   const image = await imageFromFile(file);
   if (!image) return null;
   const workMax = 900;
@@ -653,9 +734,10 @@ async function fileToProductImages(file) {
   workCanvas.height = Math.max(1, Math.round(image.naturalHeight * scale));
   workCanvas.getContext("2d").drawImage(image, 0, 0, workCanvas.width, workCanvas.height);
   stripWhiteBackground(workCanvas);
+  const productCanvas = focusWatchPosterCanvas(workCanvas, category);
   return {
-    image: fitProductCanvas(workCanvas, 1200).toDataURL("image/webp", 0.86),
-    thumb: fitProductCanvas(workCanvas, 520).toDataURL("image/webp", 0.82)
+    image: fitProductCanvas(productCanvas, 1200).toDataURL("image/webp", 0.86),
+    thumb: fitProductCanvas(productCanvas, 520).toDataURL("image/webp", 0.82)
   };
 }
 
@@ -668,7 +750,7 @@ async function saveProduct(event) {
   if (data.get("image")?.size) {
     productMessage.textContent = "Bild wird freigestellt und optimiert ...";
     try {
-      uploadedImages = await fileToProductImages(data.get("image"));
+      uploadedImages = await fileToProductImages(data.get("image"), normalizeCategoryName(data.get("category"), data.get("brand")));
     } catch (error) {
       productMessage.textContent = "Bild konnte nicht verarbeitet werden. Bitte ein JPG, PNG oder WebP verwenden.";
       return;
@@ -678,8 +760,8 @@ async function saveProduct(event) {
   const product = {
     id: existingId || `p-${Date.now()}`,
     name: data.get("name").trim(),
-    brand: data.get("brand").trim(),
-    category: data.get("category"),
+    brand: canonicalWatchBrand(data.get("brand")).trim(),
+    category: normalizeCategoryName(data.get("category"), data.get("brand")),
     price: Number(data.get("price")),
     description: data.get("description").trim(),
     specs: data.get("specs")?.trim() || current?.specs || "",
