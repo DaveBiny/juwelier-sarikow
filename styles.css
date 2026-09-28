@@ -813,7 +813,7 @@ textarea {
 }
 
 .admin-dialog {
-  width: min(920px, calc(100% - 28px));
+  width: min(1180px, calc(100% - 28px));
   max-height: 88vh;
   border: 0;
   padding: 0;
@@ -833,6 +833,26 @@ textarea {
   overflow: auto;
 }
 
+#adminView {
+  display: grid;
+  grid-template-columns: minmax(320px, 0.9fr) minmax(360px, 1.1fr);
+  gap: 22px 28px;
+}
+
+#adminView[hidden] {
+  display: none;
+}
+
+#adminView .admin-head,
+#adminView .product-form {
+  grid-column: 1;
+}
+
+#adminView .admin-list-head,
+#adminView .admin-products {
+  grid-column: 2;
+}
+
 .close-button {
   position: absolute;
   top: 16px;
@@ -847,7 +867,7 @@ textarea {
 .admin-form {
   display: grid;
   gap: 14px;
-  margin-top: 22px;
+  margin-top: 14px;
 }
 
 .admin-form label {
@@ -870,7 +890,11 @@ textarea {
 .admin-products {
   display: grid;
   gap: 12px;
-  margin-top: 24px;
+  align-content: start;
+  max-height: min(58vh, 640px);
+  margin-top: 14px;
+  overflow: auto;
+  padding-right: 6px;
 }
 
 .admin-product-row {
@@ -899,6 +923,41 @@ textarea {
   background: var(--paper);
   padding: 8px 10px;
   cursor: pointer;
+}
+
+.admin-category-picker,
+.admin-category-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.admin-category-picker button,
+.admin-category-tabs button {
+  border: 1px solid var(--line);
+  background: var(--white);
+  color: var(--muted);
+  padding: 9px 12px;
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.admin-category-picker button.active,
+.admin-category-tabs button.active {
+  color: var(--white);
+  background: var(--charcoal);
+  border-color: var(--charcoal);
+}
+
+.admin-list-head {
+  align-self: end;
+}
+
+.admin-list-head p {
+  margin-bottom: 10px;
 }
 
 output {
@@ -1168,9 +1227,9 @@ output {
 .product-detail-image img {
   display: block;
   width: 100%;
-  aspect-ratio: 1 / 1.05;
+  height: min(64vh, 640px);
   object-fit: contain;
-  padding: 24px;
+  padding: clamp(18px, 3vw, 34px);
   background: var(--cream);
 }
 
@@ -1243,6 +1302,21 @@ output {
     display: none;
     grid-column: 1 / -1;
     justify-content: stretch;
+  }
+
+  #adminView {
+    grid-template-columns: 1fr;
+  }
+
+  #adminView .admin-head,
+  #adminView .product-form,
+  #adminView .admin-list-head,
+  #adminView .admin-products {
+    grid-column: 1;
+  }
+
+  .admin-products {
+    max-height: none;
   }
 
   .main-nav.open .nav-links,

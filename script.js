@@ -98,6 +98,9 @@ const catalogState = {
   brand: "all",
   openCategory: "auto"
 };
+const adminState = {
+  category: "all"
+};
 const watchBrandOrder = ["Frederique Constant", "Citizen", "Zeppelin", "Boss", "G-Shock", "Edifice", "Tommy Hilfiger", "Jack Lemens", "Casio"];
 const removedWatchBrands = ["diesel", "armani", "emporio armani", "lee cooper", "michael kors", "michel herbelin"];
 
@@ -172,7 +175,7 @@ function loadProducts() {
     const customProducts = Array.isArray(saved)
       ? saved.filter((product) => !isRemovedWatchBrand(product) && !importedIds.has(product.id) && !defaultProducts.some((item) => item.id === product.id))
       : [];
-    const merged = [...imported, ...customProducts].filter((product) => !isRemovedWatchBrand(product)).map(cleanProduct).map(normalizeProduct);
+    const merged = [...customProducts, ...imported].filter((product) => !isRemovedWatchBrand(product)).map(cleanProduct).map(normalizeProduct);
     writeJson(storageKey, merged);
     return merged;
   }
@@ -251,14 +254,15 @@ function renderBrandGroups(grid, category, items) {
 
   grid.innerHTML = brands
     .map((brand) => {
-      const brandItems = grouped[brand].slice(0, 8);
+      const brandKey = Object.keys(grouped).find((item) => normalizeFilter(item) === normalizeFilter(brand)) || brand;
+      const brandItems = grouped[brandKey].slice(0, 8);
       return `
         <section class="brand-product-section">
           <div class="brand-product-head">
             <div>
               <p>${category === "all" ? "Marke" : category}</p>
               <h3>${brand}</h3>
-              <span>${grouped[brand].length} Produkte</span>
+              <span>${grouped[brandKey].length} Produkte</span>
             </div>
             <button class="button ghost" type="button" data-filter-brand="${encodeURIComponent(brand)}">Alle anzeigen</button>
           </div>
@@ -478,7 +482,8 @@ function renderProductDetail() {
 
 function renderAdminProducts() {
   if (!adminProducts) return;
-  adminProducts.innerHTML = products
+  const adminItems = products.filter((product) => adminState.category === "all" || product.category === adminState.category);
+  adminProducts.innerHTML = adminItems
     .map(
       (product) => `
         <article class="admin-product-row">
@@ -494,7 +499,10 @@ function renderAdminProducts() {
         </article>
       `
     )
-    .join("");
+    .join("") || `<p>Keine Produkte in dieser Kategorie.</p>`;
+  document.querySelectorAll("[data-admin-category]").forEach((button) => {
+    button.classList.toggle("active", button.dataset.adminCategory === adminState.category);
+  });
 }
 
 function updateWishlistCounter() {
@@ -618,8 +626,6 @@ function stripWhiteBackground(sourceCanvas) {
     const b = data[offset + 2];
     const distance = backgroundDistance(r, g, b);
     if (seen[index]) {
-      data[offset + 3] = distance < 48 || isLowDetailBackground(index) ? 0 : Math.min(data[offset + 3], Math.round((distance - 48) * 8));
-    } else if (distance < 22 && isLowDetailBackground(index)) {
       data[offset + 3] = 0;
     }
   }
@@ -715,7 +721,7 @@ function fitProductCanvas(sourceCanvas, size) {
   canvas.width = size;
   canvas.height = size;
   const context = canvas.getContext("2d");
-  const maxSide = size * 0.86;
+  const maxSide = size * 0.76;
   const scale = maxSide / Math.max(trimmed.width, trimmed.height);
   const width = Math.max(1, Math.round(trimmed.width * scale));
   const height = Math.max(1, Math.round(trimmed.height * scale));
@@ -757,11 +763,12 @@ async function saveProduct(event) {
     }
   }
 
+  const category = normalizeCategoryName(data.get("category"), data.get("brand"));
   const product = {
     id: existingId || `p-${Date.now()}`,
     name: data.get("name").trim(),
-    brand: canonicalWatchBrand(data.get("brand")).trim(),
-    category: normalizeCategoryName(data.get("category"), data.get("brand")),
+    brand: category === "Uhren" ? canonicalWatchBrand(data.get("brand")).trim() : data.get("brand").trim(),
+    category,
     price: Number(data.get("price")),
     description: data.get("description").trim(),
     specs: data.get("specs")?.trim() || current?.specs || "",
@@ -1016,6 +1023,28 @@ function wireEvents() {
     const deleteId = event.target.dataset.delete;
     if (editId) editProduct(editId);
     if (deleteId) deleteProduct(deleteId);
+  });
+
+  document.querySelector("[data-admin-category-tabs]")?.addEventListener("click", (event) => {
+    const button = event.target.closest("[data-admin-category]");
+    if (!button) return;
+    adminState.category = button.dataset.adminCategory;
+    renderAdminProducts();
+  });
+
+  document.querySelector(".admin-category-picker")?.addEventListener("click", (event) => {
+    const button = event.target.closest("[data-product-category-choice]");
+    if (!button || !productForm?.elements.category) return;
+    productForm.elements.category.value = button.dataset.productCategoryChoice;
+    document.querySelectorAll("[data-product-category-choice]").forEach((item) => {
+      item.classList.toggle("active", item === button);
+    });
+  });
+
+  productForm?.elements.category?.addEventListener("change", (event) => {
+    document.querySelectorAll("[data-product-category-choice]").forEach((item) => {
+      item.classList.toggle("active", item.dataset.productCategoryChoice === event.target.value);
+    });
   });
 
   document.body.addEventListener("click", (event) => {

@@ -8,7 +8,7 @@
       name="description"
       content="Eine elegante Juwelier-Webseite mit Produktpflege, Anfrageformular und hochwertiger Katalog-Struktur."
     >
-    <link rel="stylesheet" href="styles.css?v=20260928c">
+    <link rel="stylesheet" href="styles.css?v=20260928d">
   </head>
   <body>
     <header class="site-header">
@@ -306,6 +306,11 @@
           </div>
           <form id="productForm" class="admin-form product-form">
             <input type="hidden" name="id">
+            <div class="admin-category-picker" aria-label="Kategorie wählen">
+              <button class="active" type="button" data-product-category-choice="Schmuck">Schmuck</button>
+              <button type="button" data-product-category-choice="Uhren">Uhren</button>
+              <button type="button" data-product-category-choice="Anlässe">Anlässe</button>
+            </div>
             <label>
               Produktname
               <input name="name" required placeholder="z.B. Diamantring Aurora">
@@ -345,12 +350,21 @@
             <button class="button dark" type="submit">Produkt speichern</button>
             <output id="productMessage" role="status"></output>
           </form>
+          <div class="admin-list-head">
+            <p>Produkte bearbeiten</p>
+            <div class="admin-category-tabs" data-admin-category-tabs>
+              <button class="active" type="button" data-admin-category="all">Alle</button>
+              <button type="button" data-admin-category="Schmuck">Schmuck</button>
+              <button type="button" data-admin-category="Uhren">Uhren</button>
+              <button type="button" data-admin-category="Anlässe">Anlässe</button>
+            </div>
+          </div>
           <div class="admin-products" id="adminProducts"></div>
         </section>
       </div>
     </dialog>
 
-    <script src="assets/generated/products-data.js?v=20260928c"></script>
-    <script src="script.js?v=20260928c"></script>
+    <script src="assets/generated/products-data.js?v=20260928d"></script>
+    <script src="script.js?v=20260928d"></script>
   </body>
 </html>
