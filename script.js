@@ -391,6 +391,12 @@ function pageCategory() {
   return grid?.dataset.category || "all";
 }
 
+function scrollToCatalogStart() {
+  requestAnimationFrame(() => {
+    document.querySelector("#katalog")?.scrollIntoView({ behavior: "smooth", block: "start" });
+  });
+}
+
 function activeCategory() {
   return categoryFilter?.value || pageCategory();
 }
@@ -1288,6 +1294,7 @@ function wireEvents() {
       catalogState.brand = filterBrand;
       Object.keys(visibleCount).forEach((key) => delete visibleCount[key]);
       renderProducts();
+      scrollToCatalogStart();
     }
     if (wishId) {
       wishlist = wishlist.includes(wishId)
