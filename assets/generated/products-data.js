@@ -3247,8 +3247,8 @@ window.sarikowImportedProducts = [
     "price": 1095,
     "description": "Classics Index Automatic von Frederique Constant, Referenz FC-303NN5B6B. Verfuegbar auf Anfrage bei Juwelier Sarikow in Wien.",
     "specs": "Marke: Frederique Constant\nReferenz: FC-303NN5B6B\nAutomatikwerk FC-303\n40 mm Edelstahlgehaeuse\nBlaues Zifferblatt\nEdelstahlband\nVerfuegbarkeit: auf Anfrage",
-    "image": "assets/optimized/full/fc303nn5b6b-1b248377.webp",
-    "thumb": "assets/optimized/thumbs/fc303nn5b6b-1b248377.webp",
+    "image": "assets/optimized/full/fc303nn5b6b-1b248377-transparent.webp",
+    "thumb": "assets/optimized/thumbs/fc303nn5b6b-1b248377-transparent.webp",
     "source": "Sinan Saat / online Haendlerbild"
   },
   {
@@ -3259,8 +3259,8 @@ window.sarikowImportedProducts = [
     "price": 2395,
     "description": "Highlife Automatic COSC von Frederique Constant, Referenz FC-303V4NH2B. Verfuegbar auf Anfrage bei Juwelier Sarikow in Wien.",
     "specs": "Marke: Frederique Constant\nReferenz: FC-303V4NH2B\nAutomatikwerk FC-303\nCOSC-zertifiziert\n41 mm Highlife Gehaeuse\nZweifarbiges Edelstahlband\nVerfuegbarkeit: auf Anfrage",
-    "image": "assets/optimized/full/fc303v4nh2b-37cd41c8.webp",
-    "thumb": "assets/optimized/thumbs/fc303v4nh2b-37cd41c8.webp",
+    "image": "assets/optimized/full/fc303v4nh2b-37cd41c8-transparent.webp",
+    "thumb": "assets/optimized/thumbs/fc303v4nh2b-37cd41c8-transparent.webp",
     "source": "Jura Watches / online Haendlerbild"
   },
   {
@@ -3319,8 +3319,8 @@ window.sarikowImportedProducts = [
     "price": 1395,
     "description": "Vintage Rally Healey Automatic von Frederique Constant, Referenz FC-303WGH5B6. Verfuegbar auf Anfrage bei Juwelier Sarikow in Wien.",
     "specs": "Marke: Frederique Constant\nReferenz: FC-303WGH5B6\nAutomatikwerk FC-303\n40 mm Edelstahlgehaeuse\nVintage Rally Healey Edition\nLederband\nVerfuegbarkeit: auf Anfrage",
-    "image": "assets/optimized/full/fc303wgh5b6-a6681609.webp",
-    "thumb": "assets/optimized/thumbs/fc303wgh5b6-a6681609.webp",
+    "image": "assets/optimized/full/fc303wgh5b6-a6681609-transparent.webp",
+    "thumb": "assets/optimized/thumbs/fc303wgh5b6-a6681609-transparent.webp",
     "source": "Zegarek.net / online Haendlerbild"
   },
   {
@@ -3331,8 +3331,8 @@ window.sarikowImportedProducts = [
     "price": 1295,
     "description": "Classics Art Deco Round von Frederique Constant, Referenz FC-200MPW2AR2B. Verfuegbar auf Anfrage bei Juwelier Sarikow in Wien.",
     "specs": "Marke: Frederique Constant\nReferenz: FC-200MPW2AR2B\nQuarzwerk\n30 mm Gehaeuse\nPerlmutt-Zifferblatt\nZweifarbiges Edelstahlband\nVerfuegbarkeit: auf Anfrage",
-    "image": "assets/optimized/full/fc200mpw2ar2b-1fd068e0.webp",
-    "thumb": "assets/optimized/thumbs/fc200mpw2ar2b-1fd068e0.webp",
+    "image": "assets/optimized/full/fc200mpw2ar2b-1fd068e0-transparent.webp",
+    "thumb": "assets/optimized/thumbs/fc200mpw2ar2b-1fd068e0-transparent.webp",
     "source": "Ann-Louise Jewellers / online Haendlerbild"
   },
   {
@@ -3355,8 +3355,8 @@ window.sarikowImportedProducts = [
     "price": 1395,
     "description": "Classics Carree Automatic von Frederique Constant, Referenz FC-303V4C4. Verfuegbar auf Anfrage bei Juwelier Sarikow in Wien.",
     "specs": "Marke: Frederique Constant\nReferenz: FC-303V4C4\nAutomatikwerk FC-303\nCarree Gehaeuse 33,3 x 30,4 mm\nRosegoldplattierung\nLederband\nVerfuegbarkeit: auf Anfrage",
-    "image": "assets/optimized/full/fc303v4c4-95c656b0.webp",
-    "thumb": "assets/optimized/thumbs/fc303v4c4-95c656b0.webp",
+    "image": "assets/optimized/full/fc303v4c4-95c656b0-transparent.webp",
+    "thumb": "assets/optimized/thumbs/fc303v4c4-95c656b0-transparent.webp",
     "source": "Frederique Constant Japan / Produktbild"
   },
   {
@@ -3391,8 +3391,8 @@ window.sarikowImportedProducts = [
     "price": 895,
     "description": "Classics Quartz Chronograph von Frederique Constant, Referenz FC-292MC4P6. Verfuegbar auf Anfrage bei Juwelier Sarikow in Wien.",
     "specs": "Marke: Frederique Constant\nReferenz: FC-292MC4P6\nQuarz-Chronograph FC-292\n40 mm Edelstahlgehaeuse\nGuillochiertes Zifferblatt\nLederband\nVerfuegbarkeit: auf Anfrage",
-    "image": "assets/optimized/full/fc292mc4p6-aaa2db07.webp",
-    "thumb": "assets/optimized/thumbs/fc292mc4p6-aaa2db07.webp",
+    "image": "assets/optimized/full/fc292mc4p6-aaa2db07-transparent.webp",
+    "thumb": "assets/optimized/thumbs/fc292mc4p6-aaa2db07-transparent.webp",
     "source": "P & M Belanger / online Haendlerbild"
   },
   {

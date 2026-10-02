@@ -40,8 +40,8 @@ const defaultProducts = [
     price: 5750,
     description: "Mechanische Uhr mit klarem Zifferblatt, poliertem Gehaeuse und Lederband.",
     specs: "Gehaeuse: Edelstahl\nUhrwerk: Automatik\nArmband: Leder\nWasserdichtheit: 5 bar",
-    image: "assets/optimized/full/fc303nn5b6b-1b248377.webp",
-    thumb: "assets/optimized/thumbs/fc303nn5b6b-1b248377.webp"
+    image: "assets/optimized/full/fc303nn5b6b-1b248377-transparent.webp",
+    thumb: "assets/optimized/thumbs/fc303nn5b6b-1b248377-transparent.webp"
   },
   {
     id: "tennisarmband-etoile",
@@ -272,11 +272,8 @@ function activeCategoryForGrid(category = "all") {
 }
 
 function productCard(product) {
-  const isWatch = product.category === "Uhren";
-  const imageSource = product.thumb || product.image || "";
-  const needsBackgroundBlend = isWatch && !String(imageSource).includes("transparent");
   return `
-    <article class="product-card${isWatch ? " is-watch" : ""}${needsBackgroundBlend ? " needs-background-blend" : ""}">
+    <article class="product-card">
       <button class="wishlist" type="button" aria-label="Zur Wunschliste" data-wishlist="${product.id}">
         ${wishlist.includes(product.id) ? "♥" : "♡"}
       </button>
@@ -520,7 +517,7 @@ function renderProductDetail() {
         <a href="${productUrl(next)}">Nächstes Produkt</a>
       </div>
     </div>
-      <div class="product-detail-image${product.category === "Uhren" && !String(product.image || "").includes("transparent") ? " needs-background-blend" : ""}">
+      <div class="product-detail-image">
       <img src="${product.image}" alt="${product.name}">
     </div>
     <div class="product-detail-copy">
