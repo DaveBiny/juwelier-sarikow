@@ -528,6 +528,11 @@ textarea {
   background: var(--cream);
 }
 
+.product-card.needs-background-blend img,
+.product-detail-image.needs-background-blend img {
+  mix-blend-mode: multiply;
+}
+
 .wishlist {
   position: absolute;
   top: 12px;

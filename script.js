@@ -272,8 +272,11 @@ function activeCategoryForGrid(category = "all") {
 }
 
 function productCard(product) {
+  const isWatch = product.category === "Uhren";
+  const imageSource = product.thumb || product.image || "";
+  const needsBackgroundBlend = isWatch && !String(imageSource).includes("transparent");
   return `
-    <article class="product-card">
+    <article class="product-card${isWatch ? " is-watch" : ""}${needsBackgroundBlend ? " needs-background-blend" : ""}">
       <button class="wishlist" type="button" aria-label="Zur Wunschliste" data-wishlist="${product.id}">
         ${wishlist.includes(product.id) ? "♥" : "♡"}
       </button>
@@ -517,7 +520,7 @@ function renderProductDetail() {
         <a href="${productUrl(next)}">Nächstes Produkt</a>
       </div>
     </div>
-      <div class="product-detail-image">
+      <div class="product-detail-image${product.category === "Uhren" && !String(product.image || "").includes("transparent") ? " needs-background-blend" : ""}">
       <img src="${product.image}" alt="${product.name}">
     </div>
     <div class="product-detail-copy">
