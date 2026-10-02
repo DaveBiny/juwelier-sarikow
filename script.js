@@ -331,18 +331,19 @@ function renderBrandGroups(grid, category, items) {
 
 function renderSelectedBrandGroup(grid, category, items) {
   const brand = catalogState.brand;
+  const allBrandItems = filteredProducts(category);
   grid.innerHTML = `
     <section class="brand-product-section selected-brand-section">
       <div class="brand-product-head">
         <div>
           <p>${category === "all" ? "Marke" : category}</p>
           <h3>${brand}</h3>
-          <span>${items.length} Produkte</span>
+          <span>${allBrandItems.length} Produkte</span>
         </div>
         <button class="button ghost" type="button" data-filter-brand="all">Alle Marken</button>
       </div>
       <div class="product-grid brand-product-grid">
-        ${items.map(productCard).join("")}
+        ${allBrandItems.map(productCard).join("")}
       </div>
     </section>
   `;
@@ -376,7 +377,7 @@ function renderProducts() {
       button.dataset.loadMore = key;
       button.textContent = `Mehr anzeigen (${allItems.length - shown})`;
       button.addEventListener("click", () => {
-        visibleCount[key] = shown + 24;
+        visibleCount[key] = allItems.length;
         renderProducts();
       });
       grid.insertAdjacentElement("afterend", button);
