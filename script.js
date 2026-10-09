@@ -1,93 +1,4 @@
-const defaultProducts = [
-  {
-    id: "ring-aurora",
-    name: "Ring Aurora",
-    brand: "Sarikow Diamonds",
-    category: "Schmuck",
-    price: 4290,
-    description: "Gelbgold mit brillantem Mittelstein, fein poliert und klassisch gefasst.",
-    specs: "Material: 750 Gelbgold\nStein: Brillant\nFassung: Krappenfassung\nVerfuegbarkeit: auf Anfrage",
-    image: "assets/optimized/full/01rueschpartnerringe02-fda5387e-transparent.webp",
-    thumb: "assets/optimized/thumbs/01rueschpartnerringe02-fda5387e-transparent.webp"
-  },
-  {
-    id: "ring-selene",
-    name: "Ring Selene",
-    brand: "Sarikow Diamonds",
-    category: "Anlässe",
-    price: 8960,
-    description: "Elegante Fassung fuer Verlobung, Jubilaeum und bleibende Erinnerungen.",
-    specs: "Material: Platin\nStein: Diamant\nAnlass: Verlobung\nVerfuegbarkeit: auf Anfrage",
-    image: "assets/optimized/full/03451-paar-k-w-200-rg-a35f9e1e-transparent.webp",
-    thumb: "assets/optimized/thumbs/03451-paar-k-w-200-rg-a35f9e1e-transparent.webp"
-  },
-  {
-    id: "creolen-livia",
-    name: "Creolen Livia",
-    brand: "Linea Oro",
-    category: "Schmuck",
-    price: 2350,
-    description: "Feine Creolen mit warmem Goldton und zeitloser Silhouette.",
-    specs: "Material: 750 Gelbgold\nOberflaeche: poliert\nVerschluss: Steckverschluss\nVerfuegbarkeit: lagernd auf Anfrage",
-    image: "assets/optimized/full/1-1-4258ab30-transparent.webp",
-    thumb: "assets/optimized/thumbs/1-1-4258ab30-transparent.webp"
-  },
-  {
-    id: "chronograph-nova",
-    name: "Classics Index Automatic",
-    brand: "Frederique Constant",
-    category: "Uhren",
-    price: 5750,
-    description: "Mechanische Uhr mit klarem Zifferblatt, poliertem Gehaeuse und Lederband.",
-    specs: "Gehaeuse: Edelstahl\nUhrwerk: Automatik\nArmband: Leder\nWasserdichtheit: 5 bar",
-    image: "assets/optimized/full/fc303nn5b6b-1b248377-transparent.webp",
-    thumb: "assets/optimized/thumbs/fc303nn5b6b-1b248377-transparent.webp"
-  },
-  {
-    id: "tennisarmband-etoile",
-    name: "Tennisarmband Etoile",
-    brand: "Valere",
-    category: "Schmuck",
-    price: 11750,
-    description: "Brillanten in harmonischer Linie, sicher gefasst und sehr angenehm zu tragen.",
-    specs: "Material: Weissgold\nSteine: Brillanten\nVerschluss: Kastenschloss\nVerfuegbarkeit: auf Anfrage",
-    image: "assets/optimized/full/23-30330-46a8d213-transparent.webp",
-    thumb: "assets/optimized/thumbs/23-30330-46a8d213-transparent.webp"
-  },
-  {
-    id: "collier-marina",
-    name: "Collier Marina",
-    brand: "Maison Lune",
-    category: "Anlässe",
-    price: 3290,
-    description: "Zarte Kette mit glaenzendem Anhaenger fuer festliche und persoenliche Momente.",
-    specs: "Material: Rosegold\nLaenge: 42 cm\nAnhaenger: poliert\nVerfuegbarkeit: auf Anfrage",
-    image: "assets/optimized/full/021433-1500-ad7d82e3-transparent.webp",
-    thumb: "assets/optimized/thumbs/021433-1500-ad7d82e3-transparent.webp"
-  },
-  {
-    id: "automatik-orion",
-    name: "G-Shock Analoguhr",
-    brand: "G-Shock",
-    category: "Uhren",
-    price: 6420,
-    description: "Zeitmesser mit fein gearbeiteter Luenette und ruhiger Praesenz am Handgelenk.",
-    specs: "Gehaeuse: Edelstahl\nUhrwerk: Automatik\nArmband: Edelstahl\nZifferblatt: Blau",
-    image: "assets/optimized/full/awg-m100a-1aer-316b2306-transparent.webp",
-    thumb: "assets/optimized/thumbs/awg-m100a-1aer-316b2306-transparent.webp"
-  },
-  {
-    id: "ohrringe-perla",
-    name: "Ohrringe Perla",
-    brand: "Aurielle",
-    category: "Schmuck",
-    price: 1890,
-    description: "Klassische Form mit sanftem Schimmer und dezentem Auftritt.",
-    specs: "Material: 585 Gelbgold\nStein: Perlmutt\nVerschluss: Steckverschluss\nVerfuegbarkeit: auf Anfrage",
-    image: "assets/optimized/full/1-3-e52ca634-transparent.webp",
-    thumb: "assets/optimized/thumbs/1-3-e52ca634-transparent.webp"
-  }
-];
+const defaultProducts = [];
 
 const storageKey = "juwelier-products";
 const sessionKey = "juwelier-admin";
@@ -214,30 +125,26 @@ function writeJson(key, value) {
 }
 
 function loadProducts() {
-  const imported = Array.isArray(window.sarikowImportedProducts) ? window.sarikowImportedProducts : [];
+  const saved = readJson(storageKey, []);
+  if (!Array.isArray(window.sarikowImportedProducts)) {
+    return Array.isArray(saved) ? saved.map(normalizeProduct) : [];
+  }
+  const imported = window.sarikowImportedProducts.map(normalizeProduct);
   document.documentElement.dataset.importedProducts = String(imported.length);
-  const saved = readJson(storageKey, null);
-  const cleanProduct = (product) => ({ specs: "", ...product });
-  const isRemovedWatchBrand = (product) => {
-    const brand = normalizeFilter(product?.brand);
-    return product?.category === "Uhren" && removedWatchBrands.some((removedBrand) => brand.includes(removedBrand));
-  };
-  if (imported.length) {
+  const revisionKey = "juwelier-catalog-revision";
+  const revision = "20261009-photo-catalog";
+  // Reset the previous catalog once; later admin uploads remain available.
+  if (localStorage.getItem(revisionKey) !== revision) {
+    writeJson(storageKey, imported);
     const importedIds = new Set(imported.map((product) => product.id));
-    const customProducts = Array.isArray(saved)
-      ? saved.filter((product) => !isRemovedWatchBrand(product) && !importedIds.has(product.id) && !defaultProducts.some((item) => item.id === product.id))
-      : [];
-    const merged = [...customProducts, ...imported].filter((product) => !isRemovedWatchBrand(product)).map(cleanProduct).map(normalizeProduct);
-    writeJson(storageKey, merged);
-    return merged;
+    writeJson(wishlistKey, readJson(wishlistKey, []).filter((id) => importedIds.has(id)));
+    localStorage.setItem(revisionKey, revision);
+    return imported;
   }
-  if (Array.isArray(saved) && saved.length) {
-    const cleanedSaved = saved.filter((product) => !isRemovedWatchBrand(product)).map(cleanProduct).map(normalizeProduct);
-    writeJson(storageKey, cleanedSaved);
-    return cleanedSaved;
-  }
-  writeJson(storageKey, defaultProducts);
-  return defaultProducts;
+  const customProducts = Array.isArray(saved) ? saved.filter(isCustomProduct).map(normalizeProduct) : [];
+  const merged = [...customProducts, ...imported];
+  writeJson(storageKey, merged);
+  return merged;
 }
 
 function formatPrice(value) {
